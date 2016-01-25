@@ -28,7 +28,7 @@ I was born and bred in <strong>Rawalpindi, Pakistan</strong>. If you are curious
 </p> 
 
 <p class="about-text">
-<span class="fa fa-envelope"></span>
+<span class="fa fa-envelope about-icon"></span>
 It’s another place I love to connect with like minded people, so feel free to ping me at wahib.tech@gmail.com.
 </p>
 
