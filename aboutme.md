@@ -24,11 +24,12 @@ I strive to keep myself up-to-date with the latest, coolest new trends in Progra
 
 <p class="about-text">
 <span class="fa fa-heartbeat about-icon"></span>
-I was born and bred in <strong>Rawalpindi, Pakistan</strong>. If you are curious to know more about multifaceted Pakistan <img src="/img/pakistan-flag.png" width="25" height="25">, then do visit <a href="./pakistan-unveiled">Pakistan Unveiled</a>. 
+I was born and bred in <strong>Rawalpindi, Pakistan</strong>. If you are curious to know more about multifaceted Pakistan <img src="/img/pakistan-flag.png" width="25" height="25">, then do visit <a href="./pakistan-unveiled">Pakistan Unveiled</a>.
+</p> 
 
 <p class="about-text">
 <span class="fa fa-envelope"></span>
-I love to connect with awesome human beings so feel free to ping me at wahib.tech@gmail.com.
+It’s another place I love to connect with like minded people, so feel free to ping me at wahib.tech@gmail.com.
 </p>
 
 </div>
