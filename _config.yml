@@ -29,7 +29,7 @@ avatar: "/img/avatar-face.jpeg"
 navbar-links:
   Home: ""
   Projects: "projects"
-  Resume: "resume"
+  Resume: "resume-simple.html"
   About Me: "aboutme"
 
 
