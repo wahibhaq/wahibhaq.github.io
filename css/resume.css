@@ -377,7 +377,7 @@ table {
 header {
   display: block;
   margin: 0;
-  background: #8cd7d1;
+  background: #D6D6D6;
   color: white;
   border: solid 1px transparent;
   padding: 30px;
@@ -385,24 +385,21 @@ header {
 }
 header .hi {
   position: relative;
-  background: #8cd7d1;
+  background: #D6D6D6;
 }
-header .hi em {
-  font-family: 'Open Sans';
-  text-align: center;
-  margin-right: 30px;
-  font-style: italic;
-  font-size: 35px;
-  line-height: 100px;
-  width: 100px;
-  height: 100px;
-  border-radius: 100px 100px 4px 100px;
-  color: #ffffff;
-  background: #e6753d;
+
+header img.avatar-img {
+  width: 13%;
+  border-radius: 30%;
+  display: block;
+  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   float: left;
-  text-shadow: -1px 1px #ca5d28;
-  position: relative;
+  margin-right: 30px;
+  margin-top: 10px;
 }
+
 header .hi ul.social {
   list-style: none;
   display: block;
@@ -422,7 +419,7 @@ header .hi ul.social li.print {
 header .hi ul.social li a {
   text-decoration: none;
   font-family: 'socials';
-  color: #1bbbc9;
+  color: #EB9063;
   display: block;
   text-align: center;
   line-height: 30px;
@@ -441,15 +438,14 @@ header .hi ul.social li a:hover {
   transform: scale(1.1);
 }
 header h1 {
-  color: #ffffff;
-  text-shadow: -1px 1px #69c4bd;
+  color: 404040;  
   margin: 0;
-  font-size: 34px;
+  font-size: 40px;
+  font-family: 'Helvetica Neue';
 }
 header h2 {
   font-size: 20px;
-  color: #fffde3;
-  text-shadow: -1px 1px #69c4bd;
+  color: 404040;  
 }
 .content {
   width: 700px;
