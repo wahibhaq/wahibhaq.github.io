@@ -9,7 +9,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-I'm a Software Engineer, focused on Mobile Development, currently working as an <strong>Android Developer</strong> at <img src="/img/icon-freeletics.ico" width="23" height="23"> <a href="http://freeletics.com" target="_blank">Freeletics</a> and happily living in <strong>Munich, Germany</strong> with my wife.
+I'm a Software Engineer, focused on Mobile Development and currently working as an <strong>Android Developer</strong> at <img src="/img/icon-freeletics.ico" width="23" height="23"> <a href="http://freeletics.com" target="_blank">Freeletics</a>. I am a married guy and enjoy my time here in <strong>Munich, Germany</strong>.
 </p>
 
 <p class="about-text">
@@ -19,7 +19,7 @@ I have done <strong>MSc. Computer Science</strong> from <a href="http://www.in.t
 
 <p class="about-text">
 <span class="fa fa-paper-plane about-icon"></span>
-I strive to keep myself up-to-date with the latest, coolest new trends in Programming, Android and Tech Startups. I tend to keep looking for problems to work on as a hobby project, usually trying out a new library or programming language or the proverbial itch that needs scratching. Whatever it is, it would go in <a href="./projects">my projects</a> section. All my open source stuff is on <a href="http://github.com/wahibhaq">github</a>. In my free time, I love travelling, playing badminton with wife, hanging out with friends or watching a good movie at home.
+I am a curious learner and passionate about Programming, Android and Tech Startups. I tend to keep looking for problems to work on as a hobby project, usually trying out a new library or programming language or the proverbial itch that needs scratching. Whatever it is, it would go in <a href="./projects">my projects</a> section. All my open source stuff is on <a href="http://github.com/wahibhaq">github</a>. In my free time, I love travelling, playing badminton with wife, hanging out with friends or watching a good movie at home.
 </p>
 
 <p class="about-text">
