@@ -42,21 +42,21 @@ author:
   email: "wahib.tech@gmail.com"
 #  facebook: yourname  # eg. daattali
   github: wahibhaq    # eg. daattali
-#  twitter: yourname   # eg. daattali
+  twitter: wahibhaq   # eg. daattali
   linkedin: "in/wahibhaq"  # eg. "pub/dean-attali/8/946/143"
   stackoverflow: "1016544/wahib-haq"  # eg. "3943160/daattali"
-  #quora: "profile/Wahib-Ul-Haq"
+  # quora: "profile/Wahib-Ul-Haq"
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: false
+  twitter: true
   github: true
   linkedin: true
   stackoverflow: true
-  #quora: true
+  # quora: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer

@@ -9,17 +9,17 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-I'm a Software Engineer, focused on Mobile Development and currently working as an <strong>Android Developer</strong> at <img src="/img/icon-freeletics.ico" width="23" height="23"> <a href="http://freeletics.com" target="_blank">Freeletics</a>. I am a married guy and enjoy my time here in <strong>Munich, Germany</strong>.
+I'm a Programmer by choice, Engineer by education and Mobile Apps junkie by passion. I am currently working as an <strong>Android Developer</strong> at <img src="/img/icon-freeletics.ico" width="23" height="23"> <a href="http://freeletics.com" target="_blank">Freeletics</a>. I landed in <strong>Munich, Germany</strong> in 2013 and since then, I fell in love with this city.
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I have done <strong>MSc. Computer Science</strong> from <a href="http://www.in.tum.de/en.html" target="_blank">Technical University of Munich</a>, Germany in 2015 and <strong>BSc. Information and Communication Systems Engingeering</strong> from <a href="http://seecs.nust.edu.pk" target="_blank">NUST School of Electrical Engineering and Computer Science</a>, Pakistan in 2011.
+I completed <strong>MSc. Computer Science</strong> from <a href="http://www.in.tum.de/en.html" target="_blank">Technical University of Munich</a>, Germany in 2015 and <strong>BSc. Information and Communication Systems Engingeering</strong> from <a href="http://seecs.nust.edu.pk" target="_blank">NUST</a>, Pakistan in 2011.
 </p>
 
 <p class="about-text">
 <span class="fa fa-paper-plane about-icon"></span>
-I am a curious learner and passionate about Programming, Android and Tech Startups. I tend to keep looking for problems to work on as a hobby project, usually trying out a new library or programming language or the proverbial itch that needs scratching. Whatever it is, it would go in <a href="./projects">my projects</a> section. All my open source stuff is on <a href="http://github.com/wahibhaq">github</a>. In my free time, I love travelling, playing badminton with wife, hanging out with friends or watching a good movie at home.
+I am a curious learner and passionate about things around Mobile, Technology and Startups. I tend to keep looking for problems to work on as a hobby project, usually trying out a new library or programming language or the proverbial itch that needs scratching. Whatever it is, it would go in <a href="./projects">my projects</a> section. All my open source stuff is on <a href="http://github.com/wahibhaq">github</a>. In my free time, I love travelling, playing badminton with wife, hanging out with friends or watching a good movie at home.
 </p>
 
 <p class="about-text">
@@ -29,7 +29,7 @@ I was born and bred in <strong>Rawalpindi, Pakistan</strong>. If you are curious
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-It’s another place I love to connect with like minded people, so feel free to ping me at <strong>wahib.tech@gmail.com</strong>.
+It’s another place I love to connect with like minded people, so feel free to ping me at <strong>wahib.tech@gmail.com</strong>. I tweet at <a href="http://twitter.com/wahibhaq">@wahibhaq</a> and try to be active on <a href="https://www.quora.com/profile/Wahib-Ul-Haq">Quora</a> as well.
 </p>
 
 </div>
