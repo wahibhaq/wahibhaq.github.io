@@ -4,7 +4,7 @@ title: Projects
 ---
 # On Going Projects
 
-* **wahibhaq.github.io**
+* ##### wahibhaq.github.io
 
 
 
@@ -29,7 +29,6 @@ title: Projects
 
     This project was developed as a semester project during my masters program. The Android app detects lanes on road, overlays using a red line and calculate estimated values of Standard Deviation of Lane Position (SDLP) based on position of car in the lain. The motivation of developing this android app as a proof of concept was to help researchers in domain of ergonomics to investigate driver’s behavior in different scenarios.   
     Source and details are available on [Github](https://github.com/wahibhaq/android-opencv-lanedetection).
-
 
 
 
