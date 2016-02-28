@@ -24,7 +24,7 @@ This is a demo application which was developed as a submission to coding challen
 
 ### Connect-Github  
 
-Around Jan-Feb 2015, I started working on a side project with [Mustafa Abdelhai](https://abdelhai.com) which was meant to ***exclusively help Programmers in bringing their Portfolios alive***. It was Mustafa's idea that there is absolutely nothing like ***_Dribbble for Programmers_*** and I agreed. While working on the prototype version, I wanted to fetch user's Github data using Python but didn't find any solid tutorial or learning resource. 
+Around Jan-Feb 2015, I started working on a side project with [Mustafa Abdelhai](https://abdelhai.com) which was meant to ***exclusively help Programmers in bringing their Portfolios alive***. It was Mustafa's idea that there is absolutely nothing like **_Dribbble for Programmers_** and I agreed. While working on the prototype version, I wanted to fetch user's Github data using Python but didn't find any solid tutorial or learning resource. 
     >Once completed, I decided to publish a very basic python implementation to show how to connect and fetch data from [Github Official API](https://developer.github.com/v3/) using [PyGithub](http://jacquev6.net/PyGithub/v1/introduction.html). 
 
 The source is available on [Github](https://github.com/wahibhaq/connect-github). I couldn't continue with him due to time constraints but I am so happy that he continued and the idea is live today in shape of [***Devolio***](https://devolio.net). 
