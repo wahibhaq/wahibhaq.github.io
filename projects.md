@@ -31,7 +31,7 @@ Around Jan-Feb 2015, I started working on a side project with [Mustafa Abdelhai]
 The source is available on [Github](https://github.com/wahibhaq/connect-github). I couldn't continue with him due to time constraints but I am so happy that he continued and the idea is live today in shape of [**Devolio**](https://devolio.net). 
 
 ~~~
-I would advise you to check out Devolio, use it and give your feedback !! 
+Also, I would highly recommend to check out Devolio, use it and give your feedback !! 
 ~~~
 <br>
 
