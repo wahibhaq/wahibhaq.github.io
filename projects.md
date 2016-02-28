@@ -4,7 +4,7 @@ title: Projects
 ---
 
 # In Progress
-
+<br>
 
 ### Personal Website + Blog + Portfolio : wahibhaq.com  
 
@@ -15,7 +15,7 @@ I have been planning to have my personal website for a long time and finally, it
   
 
 # Completed
-
+<br>
 
 ### Android Video Gallery  
     
