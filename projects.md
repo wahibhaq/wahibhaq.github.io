@@ -24,7 +24,8 @@ This is a demo application which was developed as a submission to coding challen
 
 ### Connect-Github  
 
-Around Jan-Feb 2015, I started working on a side project with [Mustafa Abdelhai](https://abdelhai.com) which was meant to ***exclusively help Programmers in bringing their Portfolios alive***. It was Mustafa's idea that there is absolutely nothing like ***Dribbble for Programmers*** and I agreed. While working on the prototype version, I wanted to fetch user's Github data using Python but didn't find any solid tutorial or learning resource.   
+Around Jan-Feb 2015, I started working on a side project with [Mustafa Abdelhai](https://abdelhai.com) which was meant to ***exclusively help Programmers in bringing their Portfolios alive***. It was Mustafa's idea that there is absolutely nothing like ***Dribbble for Programmers*** and I agreed. While working on the prototype version, I wanted to fetch user's Github data using Python but didn't find any solid tutorial or learning resource.  
+   
 > Once completed, I decided to publish a very basic python implementation to show how to connect and fetch data from [Github Official API](https://developer.github.com/v3/) using [PyGithub](http://jacquev6.net/PyGithub/v1/introduction.html). 
 
 The source is available on [Github](https://github.com/wahibhaq/connect-github). I couldn't continue with him due to time constraints but I am so happy that he continued and the idea is live today in shape of [**Devolio**](https://devolio.net). 
@@ -36,7 +37,8 @@ I would advise you to check out Devolio, use it and give your feedback !!
 
 ### Masters Thesis : Speaker Detection and Conversation Analysis on Mobile Devices
 
-I submitted thesis in May 2015 and It was done in association with [Cooperative Systems Chair](http://wwwschlichter.informatik.tu-muenchen.de/chair?newlang=en) of [TUM Informatics](http://www.in.tum.de/en.html) Faculty. The scope of project was to implement, investigate and compare offline vs online approaches for audio processing on Android device. It involved Smart Probing strategies, Recording, Feature Extraction and investigating Energy consumption (battery usage, memory usage and cpu usage) for Voice Activity Detection. 
+I submitted thesis in May 2015 and It was done in association with [Cooperative Systems Chair](http://wwwschlichter.informatik.tu-muenchen.de/chair?newlang=en) of [TUM Informatics](http://www.in.tum.de/en.html) Faculty. The scope of project was to implement, investigate and compare offline vs online approaches for audio processing on Android device. It involved Smart Probing strategies, Recording, Feature Extraction and investigating Energy consumption (battery usage, memory usage and cpu usage) for Voice Activity Detection.   
+
 > This thesis topic presents design, implementation and evaluation of real-time voice activity detection system on the conversation, recorded by a smartphone to potentially identify its owner. The findings and deliverable would become a basis for future work in smart mobile interruption management.
 
 Project details and Source code is available on [Github](https://github.com/wahibhaq/android-speaker-audioanalysis). The submitted Thesis report is also accessible on [Academia](https://www.academia.edu/12802417/Speaker_Detection_and_Conversation_Analysis_on_Mobile_Devices).
