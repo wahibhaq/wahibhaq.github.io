@@ -8,7 +8,7 @@ title: Projects
 
 ### Personal Website + Blog + Portfolio : wahibhaq.com  
 
-I have been planning to have my personal website for a long time and finally, it is getting executed. It is hosted using [Jekyll](https://jekyllrb.com) as a static site generator with [GitHub Pages](https://pages.github.com). I was looking for something which saves me effort of hosting and still get that feeling of 'geekiness' of customizing things by hand. After extensive research to chose the appropriate theme, I ended up using [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/) theme which is clean, elegant and serves the purpose. The website is hosted on _Github_ as a public repository (obviously!) and made my domain i.e [***wahibhaq.com***](http://wahibhaq.com) point to the _Github Pages_ site.
+I have been planning to have my personal website for a long time and finally, it is getting executed. It is hosted using [Jekyll](https://jekyllrb.com) as a static site generator with [GitHub Pages](https://pages.github.com). I was looking for something which saves me effort of hosting and still get that feeling of 'geekiness' of customizing things by hand. After extensive research to chose the appropriate theme, I ended up using [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/) theme which is clean, elegant and serves the purpose. The website is hosted on _Github_ as a public repository (obviously!) and made my domain i.e [**wahibhaq.com**](http://wahibhaq.com) point to the _Github Pages_ site.
 
   
 <br>
@@ -24,10 +24,10 @@ This is a demo application which was developed as a submission to coding challen
 
 ### Connect-Github  
 
-Around Jan-Feb 2015, I started working on a side project with [Mustafa Abdelhai](https://abdelhai.com) which was meant to ***exclusively help Programmers in bringing their Portfolios alive***. It was Mustafa's idea that there is absolutely nothing like **_Dribbble for Programmers_** and I agreed. While working on the prototype version, I wanted to fetch user's Github data using Python but didn't find any solid tutorial or learning resource. 
+Around Jan-Feb 2015, I started working on a side project with [Mustafa Abdelhai](https://abdelhai.com) which was meant to ***exclusively help Programmers in bringing their Portfolios alive***. It was Mustafa's idea that there is absolutely nothing like ***Dribbble for Programmers*** and I agreed. While working on the prototype version, I wanted to fetch user's Github data using Python but didn't find any solid tutorial or learning resource. 
     >Once completed, I decided to publish a very basic python implementation to show how to connect and fetch data from [Github Official API](https://developer.github.com/v3/) using [PyGithub](http://jacquev6.net/PyGithub/v1/introduction.html). 
 
-The source is available on [Github](https://github.com/wahibhaq/connect-github). I couldn't continue with him due to time constraints but I am so happy that he continued and the idea is live today in shape of [***Devolio***](https://devolio.net). 
+The source is available on [Github](https://github.com/wahibhaq/connect-github). I couldn't continue with him due to time constraints but I am so happy that he continued and the idea is live today in shape of [**Devolio**](https://devolio.net). 
 
 ~~~
 I would advise you to check out Devolio, use it and give your feedback !! 
