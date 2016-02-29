@@ -8,9 +8,11 @@ title: Ultimate Resources for Android Devs
 _Note : This is an on-going list and I will keep updating it !_ 
 <br><br> 
 
-#### Learning  
+#### Learning what it takes to become one 
 
 * Official [resources](http://developer.android.com/index.html) from Google to get you started with designing and developing for Android.
+
+* [Post](http://blog.udacity.com/2015/05/become-android-developer.html) about bare bones version of becoming an Android Dev.
  
 * [Code Path](http://guides.codepath.com/android) is the central crowdsourced resource for complete and up-to-date practical Android developer guides for any topic.
 
@@ -24,7 +26,7 @@ _Note : This is an on-going list and I will keep updating it !_
 
 <br>
 
-#### Regular Updates & Banter
+#### Regular Updates & Banter  
 
 * [Augmtented Podcast](http://fragmentedpodcast.com)
 * [Android Dev Digest](https://www.androiddevdigest.com)
@@ -32,6 +34,7 @@ _Note : This is an on-going list and I will keep updating it !_
 * [Android Developers](https://twitter.com/androiddev?lang=en)
 * [News, tips, and tricks directly from the Android team](https://twitter.com/Android)
 * [Android Community](https://twitter.com/androids)
+* [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug)
 
 <br>
 
@@ -52,8 +55,7 @@ _Note : This is an on-going list and I will keep updating it !_
 
 <br>
 
-#### Experts & Devs to follow
-
+#### Experts & Devs to follow  
 
 * [Andy Rubin](https://twitter.com/Arubin) (Co-founder of Android)
 * [Matias Duarte](https://twitter.com/MatiasDuarte) (Dir Android OS UX at Google)
@@ -63,8 +65,14 @@ _Note : This is an on-going list and I will keep updating it !_
 * [Kaushik Gopal](http://kaush.co) (Fragmented Podcast)
 * [Donn Felker](http://www.donnfelker.com/about/) (Caster.io & Fragmented Podcast)
 * [Cyril Mottier](http://cyrilmottier.com/about/) (Google Dev Expert & Captain Train)
+* [Enrique López Mañas](https://twitter.com/eenriquelopez) (Android Expert)
 * [Kirill Grouchnikov](https://twitter.com/kirillpixel) (UI Engineer of Android at Google)
-* [Antoine Merle](https://twitter.com/antoine_merle) (Deezer) 
+* [Antoine Merle](https://twitter.com/antoine_merle) (Deezer)
+* [Etienne Caron](https://twitter.com/kanawish) (Google Dev Expert : Android) 
+
+
+> Success is simple. Do what's right, the right way, at the right time ~ Arnold H. Glasow
+
 
 
 
