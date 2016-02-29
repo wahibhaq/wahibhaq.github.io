@@ -19,12 +19,12 @@ I completed <strong>MSc. Computer Science</strong> from <a href="http://www.in.t
 
 <p class="about-text">
 <span class="fa fa-paper-plane about-icon"></span>
-I am a curious learner and passionate about things around Mobile, Technology, Startups and Life in general. All hobby projects or the proverbial itch that needs scratching would go in <a href="./projects">projects</a> section. In my free time, I love travelling, playing badminton with wife, hanging out with friends or watching a good movie at home.
+I am a curious learner and passionate about things around Mobile, Technology, Startups and Life in general. All hobby projects or the proverbial itch that needs scratching would go in <a href="http://wahibhaq.com/projects">projects</a> section. In my free time, I love travelling, playing badminton with wife, hanging out with friends or watching a good movie at home.
 </p>
 
 <p class="about-text">
 <span class="fa fa-heartbeat about-icon"></span>
-I was born and bred in <strong>Rawalpindi, Pakistan</strong>. If you are curious to know more about multifaceted Pakistan <img src="/img/pakistan-flag.png" width="25" height="25">, then do checkout <a href="./pakistan-unveiled">Pakistan Unveiled</a>.
+I was born and bred in <strong>Rawalpindi, Pakistan</strong>. If you are curious to know more about multifaceted Pakistan <img src="/img/pakistan-flag.png" width="25" height="25">, then do checkout <a href="http://wahibhaq.com/pakistan-unveiled">Pakistan Unveiled</a>.
 </p> 
 
 <p class="about-text">
