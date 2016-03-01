@@ -3,7 +3,7 @@ layout: post
 title: Ultimate Resources for Android Devs  
 ---
 
-**This is the list, I have compiled for myself which include resources which are pretty handy for Android Developers.** 
+**I have compiled a list for myself which includes resources which are pretty handy for Android Developers.** 
 
 _Note : This is an on-going list and I will keep updating it !_ 
 <br><br> 
