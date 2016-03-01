@@ -76,8 +76,9 @@ google_analytics: "UA-72521032-1"
 timezone: "Europe/Berlin"
 markdown: kramdown
 highlighter: rouge #pygments
-permalink: /:year-:month-:day-:title/
+permalink: /blog/:title/
 paginate: 5
+paginate_path: "/page:num/"
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
