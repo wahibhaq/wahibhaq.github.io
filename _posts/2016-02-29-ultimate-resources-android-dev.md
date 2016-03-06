@@ -5,7 +5,7 @@ tags: [personal, professional, developer, android, research]
 fb-img: http://wahibhaq.com/img/blog/posts/ultimate-android-resources/droid-avatar-cotton.jpg
 ---
 
-**I have compiled a list for myself which includes resources which are pretty handy for Android Developers.** 
+**I have compiled a list for myself which includes resources which can be pretty handy for Android Developers.** 
 
 _Note : This is an on-going list and I will keep updating it !_ 
 <br><br> 
