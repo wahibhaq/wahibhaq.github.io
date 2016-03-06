@@ -14,15 +14,19 @@ p {
   margin: 30px 0;
 }
 p a {
-  /* text-decoration: underline */
-  color: #008AFF;
+  text-decoration: underline;
+  color: #404040;
+}
+code {
+  word-break: break-word;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
-  color: #008AFF;
+  text-decoration: underline;
+  color: #404040;
 }
 a:hover,
 a:focus {
@@ -109,6 +113,7 @@ img {
 .navbar-custom .nav li a {
   font-weight: 800;
   color: #404040;
+  text-decoration: none;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -194,6 +199,7 @@ footer {
 
 footer a {
   color: #404040;
+  text-decoration: none;
 }
 
 footer .list-inline {
@@ -325,7 +331,13 @@ header.header-post .post-heading .post-subheading {
   }
 }
 
-.caption {
+/* --- Blog post --- */
+
+.blog-post :first-child {
+  margin-top: 0;
+}
+
+.blog-post .caption {
   text-align: center;
   font-size: 14px;
   padding: 10px;
@@ -334,6 +346,24 @@ header.header-post .post-heading .post-subheading {
   display: block;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
+}
+
+.blog-post img {
+  max-width: 100%;
+}
+
+.blog-post hr {
+  max-width: 25%;
+  border-width: 4px;
+  border-radius: 3px;
+  border-color: #808080;
+}
+
+.blog-tags {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #999;
+  font-size: 15px;
+  margin-bottom: 30px;
 }
 
 /* --- Pager --- */
@@ -348,6 +378,7 @@ header.header-post .post-heading .post-subheading {
   background: #FFF;
   border-radius: 0;
   color: #404040;
+  text-decoration: none;
 }
 @media only screen and (min-width: 768px) {
   .pager li a {
@@ -389,6 +420,9 @@ header.header-post .post-heading .post-subheading {
 .blog-post table tr:nth-child(2n) {
   background-color: #f8f8f8;
 }
+.blog-post table tbody tr:hover {
+  background-color: #eaeaea;
+}
 .blog-post table tr th {
   font-weight: bold;
   border: 1px solid #cccccc;
@@ -409,4 +443,82 @@ header.header-post .post-heading .post-subheading {
 .blog-post table tr th :last-child,
 .blog-post table tr td :last-child {
   margin-bottom: 0;
+}
+
+/* --- Share section --- */
+
+.share-section {
+  padding: 30px 15px 35px;
+  margin-top: 40px;
+  box-shadow: 0 0 10px #e7e7e7 inset;
+  background: #fcfcfc;
+  text-align: center;
+}
+
+.share-section .share-title {
+  margin-top: 0;
+  font-size: 30px;
+}
+
+.share-section .share-buttons {
+  margin-top: 15px;
+}
+
+.share-section .share-buttons a {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding: 10px 5px;
+  background: #FFF;
+  border-radius: 0;
+  color: #404040;
+  text-decoration: none;
+  margin-left: 20px;
+  display: inline-block;
+  border: 1px solid #ddd;
+  font-size: 14px;
+}
+
+.share-section .share-buttons a:hover,
+.share-section .share-buttons a:focus {
+  color: #FFF;
+  background: #0085a1;
+  border-color: #0085a1;
+  transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transition: transform 250ms;
+  -moz-transition: -moz-transform 250ms;
+  -webkit-transition: -webkit-transform 250ms;
+}
+
+.share-section .share-buttons a:first-child {
+  margin-left: 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .share-section {
+    margin-top: 50px;
+  }
+  .share-section .share-title {
+    font-size: 45px;
+  }
+  .share-section .share-buttons {
+    margin-top: 30px;
+  }
+  .share-section .share-buttons a {
+    padding: 15px 25px;
+    margin-left: 30px;
+    font-size: 18px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .share-section .share-buttons a {
+    display: block;
+    margin-left: 0;
+    margin-top: 10px;
+  }
+  .share-section .share-buttons a:first-child {
+    margin-top: 0;
+  }
 }

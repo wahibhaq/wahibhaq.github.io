@@ -70,6 +70,8 @@ footer-links-active:
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-72521032-1"
 
+fb_app_id: "1545393512426505"
+
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
@@ -87,7 +89,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      comments: true  # add comments to all blog posts
+      comments: true  # add comments to all blog posts 
+      show-share: true # add sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
