@@ -2,7 +2,7 @@
 layout: post
 title: Ultimate Resources for Android Devs
 tags: [personal, professional, developer, android, research]  
-fb-img: http://wahibhaq.com/img/blog/posts/android-ultimate-resources/android-avatar-cotton.jpg
+fb-img: http://wahibhaq.com/img/blog/posts/ultimate-android-resources/droid-avatar-cotton.jpg
 ---
 
 **I have compiled a list for myself which includes resources which are pretty handy for Android Developers.** 
