@@ -72,6 +72,12 @@ _Note : This is an on-going list and I will keep updating it !_
 * [Antoine Merle](https://twitter.com/antoine_merle) (Deezer)
 * [Etienne Caron](https://twitter.com/kanawish) (Google Dev Expert : Android) 
 
+<br>
+
+#### Other Collections
+
+* [Android Community](https://github.com/tonilopezmr/android-community)
+
 
 > Success is simple. Do what's right, the right way, at the right time ~ Arnold H. Glasow
 
