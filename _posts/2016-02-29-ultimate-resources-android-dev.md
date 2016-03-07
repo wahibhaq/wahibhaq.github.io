@@ -73,6 +73,18 @@ _Note : This is an on-going list and I will keep updating it !_
 * [Etienne Caron](https://twitter.com/kanawish) (Google Dev Expert : Android)
 * [Fernando Cejas](https://twitter.com/fernando_cejas) (Engineer at Soundcloud)
 * [Antonio Leiva](https://twitter.com/lime_cl) (Dev of Bandhook App)
+* [Effie Barak](https://twitter.com/CodingChick) (Android dev at Udemy)
+* [Justin Angel](https://twitter.com/JustinAngel) (Expert)
+* [Ty Smith](https://twitter.com/tsmith) (GDE and Dev at Twitter)
+* [Israel Ferrer](https://twitter.com/rallat) (Dev at Twitter)
+* [Droid Smith](https://twitter.com/devunwired) (GDE and Speaker)
+
+
+<br>
+
+#### Communities and User Groups
+
+* [Droidcon](https://twitter.com/droidcon)
 
 
 <br>
