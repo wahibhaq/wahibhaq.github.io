@@ -7,7 +7,7 @@ fb-img: http://wahibhaq.com/img/blog/posts/ultimate-android-resources/droid-avat
 
 **I have compiled a list which includes resources which can be pretty handy for Android Developers.** 
 
-> _Note : This is an on-going list and I will keep updating it. If you also want to help in adding new stuff then feel free to submit pull requests for changes or additions at https://github.com/wahibhaq/ultimate-resources-android-devs_ 
+> _Note : This is an on-going list and I will keep updating it. If you are interested in contributing then feel free to submit pull requests for changes or additions in the original [repo](https://github.com/wahibhaq/ultimate-resources-android-devs). Thanks in advance :)_ 
 <br><br> 
 
 #### Learning what it takes to become one 
