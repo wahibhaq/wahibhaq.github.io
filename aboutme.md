@@ -29,7 +29,7 @@ I was born and bred in <strong>Rawalpindi, Pakistan</strong>. If you are curious
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon" id="contactme"></span>
-It’s another place I love to connect with like minded people, so feel free to ping me at <strong>wahib.tech@gmail.com</strong>, visit my <a href="https://www.linkedin.com/in/wahibhaq">Linkedin Profile</a> or follow me on twitter at <a href="http://twitter.com/wahibhaq">@wahibhaq</a>.
+It’s another place I love to connect with like minded people, so feel free to ping me at <strong>wahib.tech@gmail.com</strong>, connect via <a href="https://www.linkedin.com/in/wahibhaq">Linkedin</a> or follow me on <a href="http://twitter.com/wahibhaq">Twitter</a>.
 </p>
 
 </div>
