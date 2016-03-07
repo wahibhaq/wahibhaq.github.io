@@ -70,7 +70,10 @@ _Note : This is an on-going list and I will keep updating it !_
 * [Enrique López Mañas](https://twitter.com/eenriquelopez) (Android Expert)
 * [Kirill Grouchnikov](https://twitter.com/kirillpixel) (UI Engineer of Android at Google)
 * [Antoine Merle](https://twitter.com/antoine_merle) (Deezer)
-* [Etienne Caron](https://twitter.com/kanawish) (Google Dev Expert : Android) 
+* [Etienne Caron](https://twitter.com/kanawish) (Google Dev Expert : Android)
+* [Fernando Cejas](https://twitter.com/fernando_cejas) (Engineer at Soundcloud)
+* [Antonio Leiva](https://twitter.com/lime_cl) (Dev of Bandhook App)
+
 
 <br>
 
