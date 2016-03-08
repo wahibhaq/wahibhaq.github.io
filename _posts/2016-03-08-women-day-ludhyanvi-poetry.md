@@ -7,10 +7,10 @@ fb-img: https://upload.wikimedia.org/wikipedia/en/9/95/Sahir_Ludhianvi%2C_%28192
 
 It is a strange coincidence that birth anniversary of legendary Urdu poet and lyricist [Sahir Ludhianvi](https://en.wikipedia.org/wiki/Sahir_Ludhianvi) falls on International Women Day. Sahir is considered, by many, as the most powerful voice of the 20th century in Urdu literature against exploitation and atrocities against women.
 
-Sahir reaches his poetic excellence when he deals with the issues related to women. He touches the hearts of millions with his poem **"Aurat nai Janam diya Mardon ko"** and I just wanted to share this on Women's Day.
+Sahir reaches his poetic excellence when he deals with the issues related to women. He touches the hearts of millions with his poem **"Aurat nai Janam diya Mardon ko"** and I just felt like sharing it on Women's Day. 
 
 ### Aurat nai Janam diya Mardon ko  
----
+***
 
 Aurat nai Janam diya Mardon ko, Mardon ne usai Bazaar diya  
 Jab Jee chaha Masla kuchala, Jab Jee chaha Dhutkar diya
