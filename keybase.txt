@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/wahibhaq
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://wahibhaq.github.com
+  * I am wahibhaq (https://keybase.io/wahibhaq) on keybase.
+  * I have a public key with fingerprint E9FA E44B 8590 33A8 7A9B  D585 0FD2 82B0 F238 F839
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01018d586acbe9ca4148d38d56f4096adb7bea777a3f8ed03809633846a7e20c39e00a",
+            "fingerprint": "e9fae44b859033a87a9bd5850fd282b0f238f839",
+            "host": "keybase.io",
+            "key_id": "0fd282b0f238f839",
+            "kid": "01018d586acbe9ca4148d38d56f4096adb7bea777a3f8ed03809633846a7e20c39e00a",
+            "uid": "ac336078304d12ed4733db2904449019",
+            "username": "wahibhaq"
+        },
+        "service": {
+            "hostname": "wahibhaq.github.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1460022079,
+    "expire_in": 157680000,
+    "prev": "e01f0cd435421d45faddb86de59ac6e2078840e1eb2c99c2875c20d515f6a36e",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMImAnicrVJbSBVBGD5qmZ7IIghS6qGtqMxsdmd2d/ZE+BaRRUFgBOVpZmf2nC3b
+Pe7uMU+H6GJCRRFd6JiJL3aFwgyinrpnUQ8VSUhhN4QyDAqxwCiatXqp1+ZlmI/v
++/7v/+e/M6EgEs2zwNNFL3ZdHMl7eLM9HVlTOL8qK1GXZaRYVtrERy9ex7gfxDfZ
+TIpJQAYyZirWiEm5YRIkI8ygQDQLAUMjjOqUE13XCbQwZwBigUKIkUZ0rgATGhwA
+IlVIlu0kuJfybCcQttywCEeIYtUAEBKsE4OKKiqwmIIVCiwFYgtDQwiTrh8qRDhK
+fF5puwITj/iveP/y/3Pu9KgdMSHUgI4hQExWOEM6hIwqBkAIGUAO66Z97jlkMxfs
+LSRp0ySpl7ZVSAJtsE0eDjbs5C9GZcIOkmlaabqbhUXKcwPXdOsEIRkEKT8WGgSZ
+1KiC0/hvrzi1HSbGKRQN3PNt15FismCagR2ay0gDQFGAblRIvDFlezxuhwxV1zAQ
+J6zDG8JPALIFTIagihSZIdUijFGsMa4axNTEFHSMEeAyp4ppGKaCddVUAFNl1dII
+1LgUdlfvuFIMiZgkISx9O+GQIO1xadutG+vGRPKikcKx+eGaRaLFk/4sH/5cFDnW
+de+qkx54lRnKP/29s7DoWqRpdtwbM7BjVcng2epLJfW5JVpBweXj+6qWDK6108mi
+FWdfO3oPic6t2Ll967w3q4YbO8t+1J/sOr9xwsfmlwuPJrzoqT6radlg94m7z0uL
+ij9NHz8j+6a/rive/eFCR26H8/bQzCurX+xNb++uPdnaIvfWfFlz4tn9kub83t0L
+evTa9y29W8veLr49sj7TV/utZ6J39M71qeM7ckMHlrdeO+13Nm2ZMXOaf6bmcO7S
+reYjs8uNaj7w5OasB2V9rY/2v/56rmNp/8Hyfrpy8rsDe2x7cA5d3JbLWi3FnzaU
+lrZPqTqUzFS31RjZ1eNiiVTV4+GfxuRC1w==
+=+4Od
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wahibhaq
+
+==================================================================
