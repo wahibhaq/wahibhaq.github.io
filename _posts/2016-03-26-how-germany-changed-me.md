@@ -4,6 +4,7 @@ title: How Life in Germany changed me
 tags: [personal, professional, life, relationship, society]  
 fb-img: <use one of image from fb album of germany photos>
 published: false
+
 ---
 
 Index
