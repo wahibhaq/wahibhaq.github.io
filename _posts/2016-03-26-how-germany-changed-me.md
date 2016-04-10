@@ -28,6 +28,8 @@ Index
 		* i have personally experienced that employers, founders and 		managers trust me even when I was a working student.  
 		* empower people and avoid micro-managing. hire people whom you 		can trust
 		* how Pakistanis need to change
+	* Dedication with work:
+	    * Employees come on time mostly everyone at 9 am and would work with full dedication. 
    * work/life balance
    		* leave office on time. go home and spend time with family
    		* enjoy weekends. go out, do sports, travel
