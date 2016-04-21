@@ -3,10 +3,12 @@ layout: post
 title: Compiled Android Interview Questions  
 tags: [android, professional, hiring, interview, development]  
 fb-img: http://d287f0h5fel5hu.cloudfront.net/blog/wp-content/uploads/2014/02/Android-Interview-Questions.jpg
-published: true
+published: false
 
 ---
-<br><br>
+
+<br>
+
 I have been through a major Job search saga for mid-level Android Developer position in Germany during end of last year. It was exhausting but a very interesting & exhilarating experience as well because I learned a lot about hiring processes. It was my first hands-on experience with head hunters and recruiting agencies (mostly from UK) regarding tech positions. I also tried different techniques on how to manage applications and to track interviews and their status. I would share about my approaches and learnings about hiring process some other time. This post is more focused on technical questions I faced during my interviews. I used to document them once done with an interview and it helped me for the coming ones. Most of the questions would be well known and expected by Android Devs but still sometimes it's just convenient to go through a list of them during preparation. 
 
 I would like to re-iterate that I applied for mid-level Android Dev position so questions included are all related to Java and Android domain.
@@ -91,3 +93,8 @@ Hints:
 * Normally “extends” means Inheritance and “implements” means Subtyping.
 
 	
+
+
+
+# Questions related to Android 
+
