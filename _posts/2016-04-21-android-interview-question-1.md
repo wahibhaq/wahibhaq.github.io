@@ -2,8 +2,8 @@
 layout: post  
 title: Compiled Android Interview Questions  
 tags: [android, professional, hiring, interview, development]  
-fb-img: <use one of image from fb album of germany photos>
-published: false
+fb-img: http://d287f0h5fel5hu.cloudfront.net/blog/wp-content/uploads/2014/02/Android-Interview-Questions.jpg
+published: true
 
 ---
 
