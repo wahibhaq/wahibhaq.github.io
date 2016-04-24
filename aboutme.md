@@ -9,7 +9,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-I'm a techie, reader, a married Batman (not with a Catwoman), a foodie and an adherer to [Dudeism](https://en.wikipedia.org/wiki/Dudeism). Additionally I'm a Programmer by choice, Engineer by education and Mobile Apps junkie by passion. I am currently working as an <strong>Android Developer</strong> at <img src="/img/icon-freeletics.ico" width="23" height="23"> <a href="http://freeletics.com" target="_blank">Freeletics</a> where I brew code into elixirs to be sold at Google Play.  
+I'm a techie, reader, a married Batman (not with a Catwoman), a foodie and an adherer to <a href="https://en.wikipedia.org/wiki/Dudeism" target="_blank">Dudeism</a>. Additionally I'm a Programmer by choice, Engineer by education and Mobile Apps junkie by passion. I am currently working as an <strong>Android Developer</strong> at <img src="/img/icon-freeletics.ico" width="23" height="23"> <a href="http://freeletics.com" target="_blank">Freeletics</a> where I brew code into elixirs to be sold at Google Play.  
 </p>
 
 <p class="about-text">
