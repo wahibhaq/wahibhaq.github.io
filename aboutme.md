@@ -9,7 +9,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-I'm a Programmer by choice, Engineer by education and Mobile Apps junkie by passion. I am currently working as an <strong>Android Developer</strong> at <img src="/img/icon-freeletics.ico" width="23" height="23"> <a href="http://freeletics.com" target="_blank">Freeletics</a> where I brew code into elixirs to be sold in Google Play. 
+I'm a techie, reader, a married Batman (not with a Catwoman), a foodie and an adherer to [Dudeism](https://en.wikipedia.org/wiki/Dudeism). Additionally I'm a Programmer by choice, Engineer by education and Mobile Apps junkie by passion. I am currently working as an <strong>Android Developer</strong> at <img src="/img/icon-freeletics.ico" width="23" height="23"> <a href="http://freeletics.com" target="_blank">Freeletics</a> where I brew code into elixirs to be sold at Google Play.  
 </p>
 
 <p class="about-text">
@@ -24,12 +24,12 @@ I am a curious learner and passionate about things around Mobile, Technology, St
 
 <p class="about-text">
 <span class="fa fa-heartbeat about-icon"></span>
-I was born and bred in <strong>Rawalpindi, Pakistan</strong>. If you are curious to know more about multifaceted Pakistan <img src="/img/pakistan-flag.png" width="25" height="25">, then do checkout <a href="http://wahibhaq.com/pakistan-unveiled">Pakistan Unveiled</a>.
+I was born and bred in <strong>Rawalpindi, Pakistan</strong>. If you are curious to know more about multifaceted Pakistan <img src="/img/pakistan-flag.png" width="25" height="25">, then do checkout <a href="http://wahibhaq.com/pakistan-unveiled">Pakistan Unveiled</a>. I can successfully speak three languages (English, Urdu & Punjabi), and 'ein Bisschen' or 'a little bit' level of German. 
 </p> 
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon" id="contactme"></span>
-It’s another place I love to connect with like minded people, so feel free to ping me at <strong>wahib.tech@gmail.com</strong>, connect via <a href="https://www.linkedin.com/in/wahibhaq">Linkedin</a> or follow me on <a href="http://twitter.com/wahibhaq">Twitter</a>.
+It’s another place I love to connect with like minded people, so feel free to ping me at <strong>wahib.tech@gmail.com</strong>, connect via <a href="https://www.linkedin.com/in/wahibhaq">Linkedin</a> or follow me on <a href="http://twitter.com/wahibhaq">Twitter</a>. I write what I like, but sometimes not, and any opinions I express are usually my own. 
 </p>
 
 </div>
