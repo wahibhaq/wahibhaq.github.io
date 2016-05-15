@@ -9,9 +9,9 @@ published: false
 
 <br>
 
-I have been through a major Job search saga for mid-level Android Developer position in Germany during end of last year. It was exhausting but a very interesting & exhilarating experience as well because I learned a lot about hiring processes. It was my first hands-on experience with head hunters and recruiting agencies (mostly from UK) regarding tech positions. I also tried different techniques on how to manage applications and to track interviews and their status. I would share about my approaches and learnings about hiring process some other time. This post is more focused on technical questions I faced during my interviews. I used to document them once done with an interview and it helped me for the coming ones. Most of the questions would be well known and expected by Android Devs but still sometimes it's just convenient to go through a list of them during preparation. 
+I have been through a major Job search saga for mid-level Android Developer position in Germany during end of last year. It was exhausting but a very interesting & exhilarating experience as well because I had to revise a lot of basics and also grasp more deeper understanding of fundamental topics. It was also my first hands-on experience with head hunters and recruiting agencies (mostly from UK) regarding tech positions. I tried different techniques on how to manage applications and to track interviews and their status. I would share about my approaches and learnings about managing hiring process some other time. This post is more focused on technical questions I faced during my interviews. I used to document them once done with an interview and it helped me for the coming ones. Most of the questions would be well known and expected by Android Devs but still sometimes it's just convenient to go through a list of them during preparation. 
 
-I would like to re-iterate that I applied for mid-level Android Dev position so questions included are all related to Java and Android domain.
+I would like to re-iterate that I applied for mid-level Android Dev position so questions included are all related to Java and Android domain. More importantly, it's practically impossible to cover all potential quetions so just sharing those which I encountered and remember while writing this post in no particular order.
 
 # Questions related to Java 
 
@@ -142,4 +142,196 @@ Hints:
 
 
 # Questions related to Android 
+
+### Question #11
+
+**What is Activity, Fragment and their association?**
+
+Hints:
+
+* You should know about the lifecycle and purpose of both.
+* A fragment is an independent Android component which can be used by an activity. A fragment encapsulates functionality so that it is easier to reuse within activities and layouts.
+* Possible to have a fragment without UI? Read about Headless Fragments and their usecase
+* Fragment transaction refers to the operation with fragments via fragment manager. either adding, removing or replacing a fragment in the fragment holder. 
+
+
+### Question #12
+
+**What is Handler used for and why? other alternatives?**
+
+Hints:
+
+* A handler allows you to post runnables to execute on a specific thread. For instance, asynchronous code in a runnable can run on a threadpool, or a dedicated thread.
+* In the event that the code executing in a thread needs to interact with the user interface e.g animation, it must do so by synchronizing with the main UI thread. This is achieved by creating a handler within the main thread, which, in turn, receives messages from another thread and updates the user interface accordingly. 
+* Few of the ways to have the non-UI thread send UI update requests to be executed on the UI thread.
+	* Use runOnUiThread( ) method call
+	* Use post( ) method call
+	* Use the Handler framework
+	* Use a Broadcasts and BroadcastReceiver (optionally with 	  LocalBroadcastManager)
+	* Use an AsyncTask’s onProgressUpdate( ) method
+ 
+
+
+
+### Question #13
+
+**What is ANR and how do you prevent it?**
+
+Hints:
+
+* Long running work should never be done on main UI thread and instead your application must create other threads and put such work on non-UI threads.
+* You can create and start your own java.lang.Thread.  You can create and start an AsyncTask – Android’s own thread simplification mechanism.
+* Problem ? non-UI thread can’t communication with the UI thread.
+
+### Question #14
+
+**Describe MVP Architectural design pattern for Android and it's benefits**
+
+Hints:
+
+* View is a layer that displays data and reacts to user actions. On Android, this could be an Activity, a Fragment, an android.view.View or a Dialog.
+Model is a data access layer such as database API or remote server API.
+Presenter is a layer that provides View with data from Model. Presenter also handles background tasks.
+* MVP is a way to separate background tasks from activities/views/fragments to make them independent of most lifecycle-related events.
+* Application becomes simpler, overall application reliability increases up to 10 times, application code becomes shorter, code maintainability becomes better and  significantly easier to test code.
+
+
+### Question #15
+
+**How to find the sections of app or actions which are not smooth from UX perspective? what are most common scenarios to test?**
+
+Hints:
+
+* Allocation Tracker in Memory Monitor is a good handy tool for this which helps in tracking memory allocation.
+* It can be useful not only for looking at specific uses of memory, but also to analyze critical code paths in an app such as scrolling & helps in improving the overall smoothness of the UI.
+* Possible scenarios can be rotating screens mutiple times in different activity states to detect if Activty, Context or View object causing leaks. Also try to switch between apps e.g navigate to home screen and come back again.
+
+### Question #16
+
+**What is an improved way for implementing List Views offered by Android and why?**
+
+Hints:
+
+* RecyclerView is an advanced form introduced in Lollipop.
+* It allows to reuse(recycle) views depending on which one is visible to the user. A view previously used to display data for a specific adapter position may be placed in a cache for later reuse to display the same type of data again later. This can drastically improve performance by skipping initial layout inflation or construction.
+
+### Question #17
+
+**How would you implement your own drawing in a Custom View?**
+
+Hints:
+
+* By extending the View class or one of its subclasses you can create your custom view.
+* For drawing view use the onDraw() method. In this method you receive a Canvas object which allows you to perform drawing operations on it, e.g. draw lines, circle, text or bitmaps.
+* If the view should be re-drawn you call the invalidate() method which triggers a call to the onDraw() method of this view.
+
+
+### Question #18
+
+**What are different types of Services?**
+
+Hints:
+
+* Started Service : Started services are launched by other application components (such as an activity or even a broadcast receiver) and potentially run indefinitely in the background until the service is stopped, or is destroyed by the Android runtime system in order to free up resources.
+* IntentService : The IntentService class is a convenience class (subclassed from the Service class) that sets up a worker thread for handling background tasks and handles each request in an asynchronous manner. Once the service has handled all queued requests, it simply exits.
+* Bount Service : A bound service is similar to a started service with the exception that a started service does not generally return results or permit interaction with the component that launched it. A bound service, on the other hand, allows the launching component to interact with, and receive results from, the service.
+
+
+### Question #19
+
+**How would you perform standard Asynchronous operations in Android?**
+
+Hints:
+
+* Normally you can use Loader or AsyncTask. Loader performs asynchronous loading of data. While Loaders are active they should monitor the source of their data and deliver new results when the contents change. AsynTask is used to perfrom time consuming , short duration operation so that main UI thread don’t get the burden.
+* In more advanced approaches, RxJava is used to perform various kinds of Async operations. 
+
+###Question #20
+
+**Is there a more optimized alternative available for HashMap in Android?**
+
+Hints:
+
+* Yes, it's called SparseArrays.
+* Why? SparseArrays map integers to Objects. Unlike a normal array of Objects, there can be gaps in the indices. It is intended to be more memory efficient than using a HashMap to map Integers to Objects, both because it avoids auto-boxing keys and its data structure doesn't rely on an extra entry object for each mapping. 
+
+###Question #21
+
+**How can we avoid memory usage in our apps?**
+
+Hints:
+
+* Avoid using enum and non-static inner classes.
+* Use SparseArrays instead of HashMaps.
+* Take care with using ‘abstraction’ design matter because as a side effect it might cause more code to execute.
+* If using Services, it shouldn't run more than required & background service process must not touch any UI; otherwise, the memory allocation will be doubled or tripled.
+
+###Question #22
+
+**How to avoid memory leaks?**
+
+Hints:
+
+* Remember to call unregisterReceiver() after calling registerReceiver().
+* Reference to an activity should have the same life cycle as the activity itself and take special care in case of change in screen orientation.
+* In an Activity. In Java, non-static anonymous classes hold an implicit reference to their enclosing class. Instead use static inner class and make a weakreference to activity.
+* Be very careful when using Threads.
+* Do your best to make extended Runnables static, if they must be inner classes.
+Runnables has to know about it’s container so holds reference to Activity if defined in Activity or View. After orientation(Activity kill!) it retains that reference because it runs on a separate thread and not dependent on the lifecycle of Activity. thus activity is not garbage collected.
+
+###Question #23
+
+**Ever heard of Dependency Injection design patter? What is it about? Have you used it via any framework?**
+
+Hints:
+
+* Dependency injection is basically providing the objects that an object needs (its dependencies) instead of having it construct them itself.
+* It's a very useful technique for testing, since it allows dependencies to be mocked or stubbed out.
+* Interviewer wants you to say Dagger. Explore Dagger2 if you don't know.
+
+###Question #24
+
+**In Unit Testing, what is referred by Unit & Testing? What is Test Driven Development (TDD) & what are advantages?**
+
+Hints:
+
+* A unit is a method that does one thing and one thing only. 
+* A test provides a useful assertion of the correctness of the unit. 
+* TDD  can be defined as such Write a failing unit test, Make the unit test pass & Refactor.
+* Advantages to a test-driven approach is that the process instills the discipline of unit testing, writing the unit tests first, enforces a kind of architecture and clean code.
+
+###Question #25
+
+**What are the options of 3rd party libs/frameworks do we have or the ones you have used for various tasks in app development?**
+
+Hints:
+
+* UI Tests: Espresso
+* Unit Testing: Robo Electric
+* Networking: Volley
+* Binding UI with Java: ButterKnife
+* JSON parsing: Jackson
+* Async Communication between components: EventBus, RxJava
+* Image downloading and caching library: Picasso
+* Mocking unit tests: Mockito
+* Dependency Injection: Dagger2
+* API Integration: OkHttp, Retrofit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
