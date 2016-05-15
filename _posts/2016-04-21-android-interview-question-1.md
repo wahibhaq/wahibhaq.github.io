@@ -33,6 +33,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
     		return list;
     	}
     }
+    
 			
 Hints: 
 
@@ -93,6 +94,50 @@ Hints:
 * Normally “extends” means Inheritance and “implements” means Subtyping.
 
 	
+### Question #7
+
+**What is Static and when to use and when not to use ?**
+
+Hints:
+
+* It belongs to the class, not any particular object of that class. Static is class level variable, which is common and only one copy exists for all instances of that class. 
+* One common use of static is to create a constant value that's attached to a class. The only change we need to make to the above example is to add the keyword final in there.
+* Why evil? It violates the principle that data is encapsulated in objects, Code can’t be easily unit tested, When a thread dies, a static object doesn’t get reset or garbage collected.
+
+
+### Question #8
+
+**How to implement concurrency in Java?**
+
+Hints:
+
+* The sole purpose of using _Synchronized_ keyword is to only allow one thread at a time into a particular section of code.
+* Additionally, _Volatile_ is used to indicate that a variable's value will be modified by different threads.
+
+### Question #9
+
+**How to make Java code thread safe? Give some suggestions.**
+
+Hints:
+
+* Immutable objects are by default thread-safe because there state can not be modified once created.
+* Read only or final variables in Java are also thread-safe in Java.
+* Locking is one way of achieving thread-safety in Java.
+* In order to avoid thread-safety issue minimize sharing of objects between multiple thread.
+* Using Synchronized keyword.
+
+### Question #10
+
+**Difference between Boolean and boolean?**
+
+Hints:
+
+* boolean is a java primitive type whereas Boolean is an object/reference type that wraps a boolean.
+* Read about Boxing and Unboxing
+* When can a Boolean be appropriately used? Read Lazy Loading.
+
+
+
 
 
 
