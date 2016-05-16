@@ -11,7 +11,7 @@ This is where I would write about Pakistan, to clear misconceptions of outside w
 
 Sophee Southall, An australian travel blogger, famously described her [experience](http://sopheesmiles.com/2015/08/22/pakistan-unveiled/) of visiting Pakistan in these words.
 
-> Ultimately, while Pakistan offers enough experiences to entertain short-term tourists, this complex country isnb�t a holiday destination, itb�s a unique classroom offering a sharp, character-building education for adventurous nomads. A trip to Pakistan will not only change your perspective on Pakistani and Muslim culture, itb�ll also challenge how you view the rest of the world b� especially countries which cop a lot of flak in the media.
+> Ultimately, while Pakistan offers enough experiences to entertain short-term tourists, this complex country isn't a holiday destination, it's a unique classroom offering a sharp, character-building education for adventurous nomads. A trip to Pakistan will not only change your perspective on Pakistani and Muslim culture, it'll also challenge how you view the rest of the world especially countries which cop a lot of flak in the media.
 
 # Tourism : Visit Pakistan
 ---
