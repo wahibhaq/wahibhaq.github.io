@@ -25,6 +25,10 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 
   - [Wonderful Pakistan album](https://www.facebook.com/media/set/?set=a.370615079670914.85280.143997832332641&type=3)
 
+### Portals to help you in planning trips
+
+  - [Tripkar Tours](http://tripkar.com/tours/) 
+
 
 
 <br>
