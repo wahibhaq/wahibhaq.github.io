@@ -19,7 +19,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 <br><br><br>
 ####Explain the code shown below line by line.
-<br>
+
 
 	public class ListHelper<E> {
 		
@@ -45,7 +45,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * Why *synchronized* keyword used?
 * Can *ListHelper* object have two different copies of member *list*?
 
-<br> 
+
 #### What are common functions of Java Object class and what do you know about Object class?
 <br>
 **Hints:**
@@ -54,7 +54,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * Every class is a descendant, direct or indirect, of the Object class.
 * Briefly describe the purpose and use of common functions including clone(), equals(), hashcode(), getCLass(), finalize() and toString().
 
-<br> 
+
 #### What is Information Hiding and give example?
 <br>
 **Hints:**
