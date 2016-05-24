@@ -11,7 +11,7 @@ This is where I would write about Pakistan, to clear misconceptions of outside w
 
 Sophee Southall, An australian travel blogger, famously described her [experience](http://sopheesmiles.com/2015/08/22/pakistan-unveiled/) of visiting Pakistan in these words.
 
-> Ultimately, while Pakistan offers enough experiences to entertain short-term tourists, this complex country isnb�t a holiday destination, itb�s a unique classroom offering a sharp, character-building education for adventurous nomads. A trip to Pakistan will not only change your perspective on Pakistani and Muslim culture, itb�ll also challenge how you view the rest of the world b� especially countries which cop a lot of flak in the media.
+> Ultimately, while Pakistan offers enough experiences to entertain short-term tourists, this complex country isn't a holiday destination, it's a unique classroom offering a sharp, character-building education for adventurous nomads. A trip to Pakistan will not only change your perspective on Pakistani and Muslim culture, it'll also challenge how you view the rest of the world especially countries which cop a lot of flak in the media.
 
 # Tourism : Visit Pakistan
 ---
@@ -20,10 +20,15 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 
   - [3 months. 100 sites. 220 seconds](https://www.facebook.com/itsagam/posts/10209048073138760) (Made by Agam Saran) : Come, be a part of a journey of a lifetime to celebrate life in a solo cross-country tour and live... all those dreams. 
   - [Karakoram Highway, The world’s best roadtrip](http://unusualtraveler.com/karakoram-highway/) : The Karakoram Highway was one of the greatest engineering achievement of the 20th century. Take the most stunning roadtrip in the world.
+  - [“Rediscovering Pakistan - The Untold Tale”](https://vimeo.com/119388524) : 9 riders from across the oceans came to Pakistan to explore the beautiful northern areas with [Moin Khan](http://www.adifferentagenda.com). Here is the full film to showcase our small exploration of the gorgeous north.
   
 ### Collection of Breathtaking Photos 
 
   - [Wonderful Pakistan album](https://www.facebook.com/media/set/?set=a.370615079670914.85280.143997832332641&type=3)
+
+### Portals to help you in planning trips
+
+  - [Tripkar Tours](http://tripkar.com/tours/) 
 
 
 
