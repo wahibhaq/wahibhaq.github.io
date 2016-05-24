@@ -15,10 +15,17 @@ I have been through a major Job search saga for Android Developer position in Ge
 
 I would like to re-iterate that I applied for mid-level Android Dev position so questions included are all related to Java and Android domain. More importantly, it's practically impossible to cover all potential quetions so just sharing those which I can remember while writing this post. A lot has changed since then as Android like any other Technology is always evolving :)
 
+&nbsp;
+
+&nbsp;
+
 # Questions related to Java 
 
-<br><br><br>
-####Explain the code shown below line by line.
+&nbsp;
+
+&nbsp;
+
+#### Explain the code shown below line by line.
 
 
 	public class ListHelper<E> {
@@ -136,9 +143,13 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 
 
+&nbsp;
 
-<br><br><br>
+&nbsp;
+
 # Questions related to Android 
+
+&nbsp;
 
 &nbsp;
 
