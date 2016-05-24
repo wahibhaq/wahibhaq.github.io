@@ -24,7 +24,6 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 &nbsp;
 
 #### Explain the code shown below line by line.
-<br>
 
 	public class ListHelper<E> {
 		
@@ -336,6 +335,21 @@ P.S : Be prepared to explain the usecase of the ones you mention and technical q
 * I have listed few of the most famous ones [here](https://github.com/wahibhaq/ultimate-resources-android-devs/blob/master/README.md#regular-updates-banter--articles).
 * If you were not serious about it then maybe you should.
 
+&nbsp;
+
+&nbsp;
+
+# Other Valuable Resources
+
+* [Top 50 Android Interview Questions](http://www.itechaleart.com/2013/05/top-50-android-interview-questions_10.html)
+* [Toptal Interview Questions](http://www.toptal.com/android/interview-questions)
+* [Android Hiring Guide](http://www.toptal.com/android#hiring-guide)
+* [SkillGun Q&A](http://skillgun.com/android/interview-questions-and-answers)
+* [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+* [Android Must Have Libs](https://github.com/codepath/android_guides/wiki/Must-Have-Libraries)
+* [Very good resource to revise](http://zeroturnaround.com/rebellabs/android-the-platform-the-framework-and-the-way-of-life/)
+* [100 Android Questions & Answers](http://100androidquestionsandanswers.com)
+* [Ultimate Resources for Android Devs](https://github.com/wahibhaq/ultimate-resources-android-devs)
 
 
 
