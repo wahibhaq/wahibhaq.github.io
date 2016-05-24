@@ -44,6 +44,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * Is it ok to use *List* on left side and not *ArrayList*?
 * Why *synchronized* keyword used?
 * Can *ListHelper* object have two different copies of member *list*?
+<br>
 
 
 #### What are common functions of Java Object class and what do you know about Object class?
