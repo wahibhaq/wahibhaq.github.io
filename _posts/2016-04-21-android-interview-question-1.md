@@ -45,7 +45,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * Why *synchronized* keyword used?
 * Can *ListHelper* object have two different copies of member *list*?
 
-<br><br>
+<br> 
 #### What are common functions of Java Object class and what do you know about Object class?
 <br>
 **Hints:**
@@ -54,7 +54,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * Every class is a descendant, direct or indirect, of the Object class.
 * Briefly describe the purpose and use of common functions including clone(), equals(), hashcode(), getCLass(), finalize() and toString().
 
-<br><br>
+<br> 
 #### What is Information Hiding and give example?
 <br>
 **Hints:**
@@ -62,7 +62,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * Explain How Information Hiding is achieved in Object Oriented Programming.
 * Should be able to explain Abstraction, Encapsulation and difference between them.
 
-<br><br>
+<br>
 #### What are Access Specifiers and what is default one?
 <br>
 **Hints:**
@@ -70,7 +70,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * The default is package private. (Trust me, not many devs can actually recall this!)
 * This [Stackoverflow answer](http://stackoverflow.com/a/3530161/1016544) explains it very well.
 
-
+<br>
 #### What is Reflection in Java and why would you use it?
 <br>
 **Hints:**
@@ -78,7 +78,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * Reflection is often used as part of software testing, such as for the runtime creation/instantiation of mock objects.
 * In Java, Reflection can be used to override member accessibility rules. For example, reflection makes it possible to change the value of a field marked "private" in a third-party library's class.
 
-
+<br>
 #### What is Inheritance, Diamond problem and difference between Inheritance and Sub-typing?
 <br>
 **Hints:**
@@ -87,7 +87,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * Subsequent question can ask about how Diamond problem gets influenced with The default interface method capability in Java 8.
 * Normally “extends” means Inheritance and “implements” means Subtyping.
 
-	
+<br>	
 #### What is Static and when to use and when not to use ?
 <br>
 **Hints:**
@@ -96,7 +96,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * One common use of static is to create a constant value that's attached to a class. The only change we need to make to the above example is to add the keyword final in there.
 * Why evil? It violates the principle that data is encapsulated in objects, Code can’t be easily unit tested, When a thread dies, a static object doesn’t get reset or garbage collected.
 
-
+<br>
 #### How to implement concurrency in Java?
 <br>
 **Hints:**
@@ -104,6 +104,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * The sole purpose of using _Synchronized_ keyword is to only allow one thread at a time into a particular section of code.
 * Additionally, _Volatile_ is used to indicate that a variable's value will be modified by different threads.
 
+<br>
 #### How to make Java code thread safe? Give some suggestions.
 <br>
 **Hints:**
@@ -114,6 +115,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * In order to avoid thread-safety issue minimize sharing of objects between multiple thread.
 * Using Synchronized keyword.
 
+<br>
 #### Difference between Boolean and boolean?
 <br>
 **Hints:**
@@ -129,6 +131,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 <br><br><br>
 # Questions related to Android 
 
+<br>
 #### What is Activity, Fragment and their association?
 <br>
 **Hints:**
@@ -138,7 +141,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * Possible to have a fragment without UI? Read about Headless Fragments and their usecase
 * Fragment transaction refers to the operation with fragments via fragment manager. either adding, removing or replacing a fragment in the fragment holder. 
 
-
+<br>
 #### What is Handler used for and why? other alternatives?
 <br>
 **Hints:**
@@ -154,7 +157,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
  
 
 
-
+<br>
 #### What is ANR and how do you prevent it?
 <br>
 **Hints:**
@@ -163,6 +166,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * You can create and start your own java.lang.Thread.  You can create and start an AsyncTask – Android’s own thread simplification mechanism.
 * Problem ? non-UI thread can’t communication with the UI thread.
 
+<br>
 #### Describe MVP Architectural design pattern for Android and it's benefits
 <br>
 **Hints:**
@@ -173,7 +177,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 * MVP is a way to separate background tasks from activities/views/fragments to make them independent of most lifecycle-related events.
 * Application becomes simpler, overall application reliability increases up to 10 times, application code becomes shorter, code maintainability becomes better and  significantly easier to test code.
 
-
+<br>
 #### How to find the sections of app or actions which are not smooth from UX perspective? what are most common scenarios to test?
 <br>
 **Hints:**
@@ -182,6 +186,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 * It can be useful not only for looking at specific uses of memory, but also to analyze critical code paths in an app such as scrolling & helps in improving the overall smoothness of the UI.
 * Possible scenarios can be rotating screens mutiple times in different activity states to detect if Activty, Context or View object causing leaks. Also try to switch between apps e.g navigate to home screen and come back again.
 
+<br>
 #### What is an improved way for implementing List Views offered by Android and why?
 <br>
 **Hints:**
@@ -189,6 +194,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 * RecyclerView is an advanced form introduced in Lollipop.
 * It allows to reuse(recycle) views depending on which one is visible to the user. A view previously used to display data for a specific adapter position may be placed in a cache for later reuse to display the same type of data again later. This can drastically improve performance by skipping initial layout inflation or construction.
 
+<br>
 #### How would you implement your own drawing in a Custom View?
 <br>
 **Hints:**
@@ -197,7 +203,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 * For drawing view use the onDraw() method. In this method you receive a Canvas object which allows you to perform drawing operations on it, e.g. draw lines, circle, text or bitmaps.
 * If the view should be re-drawn you call the invalidate() method which triggers a call to the onDraw() method of this view.
 
-
+<br>
 #### What are different types of Services?
 <br>
 **Hints:**
@@ -206,7 +212,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 * IntentService : The IntentService class is a convenience class (subclassed from the Service class) that sets up a worker thread for handling background tasks and handles each request in an asynchronous manner. Once the service has handled all queued requests, it simply exits.
 * Bount Service : A bound service is similar to a started service with the exception that a started service does not generally return results or permit interaction with the component that launched it. A bound service, on the other hand, allows the launching component to interact with, and receive results from, the service.
 
-
+<br>
 #### How would you perform standard Asynchronous operations in Android?
 <br>
 **Hints:**
@@ -214,6 +220,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 * Normally you can use Loader or AsyncTask. Loader performs asynchronous loading of data. While Loaders are active they should monitor the source of their data and deliver new results when the contents change. AsynTask is used to perfrom time consuming , short duration operation so that main UI thread don’t get the burden.
 * In more advanced approaches, RxJava is used to perform various kinds of Async operations. 
 
+<br>
 #### Is there a more optimized alternative available for HashMap in Android?
 <br>
 **Hints:**
@@ -221,6 +228,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 * Yes, it's called SparseArrays.
 * Why? SparseArrays map integers to Objects. Unlike a normal array of Objects, there can be gaps in the indices. It is intended to be more memory efficient than using a HashMap to map Integers to Objects, both because it avoids auto-boxing keys and its data structure doesn't rely on an extra entry object for each mapping. 
 
+<br>
 #### How can we avoid memory usage in our apps?
 <br>
 **Hints:**
@@ -230,6 +238,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 * Take care with using ‘abstraction’ design matter because as a side effect it might cause more code to execute.
 * If using Services, it shouldn't run more than required & background service process must not touch any UI; otherwise, the memory allocation will be doubled or tripled.
 
+<br>
 #### How to avoid memory leaks?
 <br>
 **Hints:**
@@ -241,6 +250,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 * Do your best to make extended Runnables static, if they must be inner classes.
 Runnables has to know about it’s container so holds reference to Activity if defined in Activity or View. After orientation(Activity kill!) it retains that reference because it runs on a separate thread and not dependent on the lifecycle of Activity. thus activity is not garbage collected.
 
+<br>
 #### Ever heard of Dependency Injection design patter? What is it about? Have you used it via any framework?
 <br>
 **Hints:**
@@ -249,6 +259,7 @@ Runnables has to know about it’s container so holds reference to Activity if d
 * It's a very useful technique for testing, since it allows dependencies to be mocked or stubbed out.
 * Interviewer wants you to say Dagger. Explore Dagger2 if you don't know.
 
+<br>
 #### In Unit Testing, what is referred by Unit & Testing? What is Test Driven Development (TDD) & what are advantages?
 <br>
 **Hints:**
@@ -258,6 +269,7 @@ Runnables has to know about it’s container so holds reference to Activity if d
 * TDD  can be defined as such Write a failing unit test, Make the unit test pass & Refactor.
 * Advantages to a test-driven approach is that the process instills the discipline of unit testing, writing the unit tests first, enforces a kind of architecture and clean code.
 
+<br>
 #### What are the options of 3rd party libs/frameworks do we have or the ones you have used for various tasks in app development?
 <br>
 **Hints:**
@@ -275,6 +287,7 @@ Runnables has to know about it’s container so holds reference to Activity if d
 
 P.S : Be prepared to explain the usecase of the ones you mention and technical questions related to them.
 
+<br>
 #### How do you implement Internationalization for an app to be available in multiple countries?
 <br>
 **Hints:**
@@ -283,6 +296,7 @@ P.S : Be prepared to explain the usecase of the ones you mention and technical q
 * Define one language e.g English as fallback plan in res/values/strings.xml
 * Suggest to have translations before starting implementing a UI. Better use a tool to make it efficient like Transifex.
 
+<br>
 #### What are your favourite most common channels to keep yourself up-to-date with what's happening in Android ecosystem?
 <br>
 **Hints:**
