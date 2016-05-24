@@ -23,10 +23,8 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
-&nbsp;
-
 #### Explain the code shown below line by line.
-
+<br>
 
 	public class ListHelper<E> {
 		
@@ -148,8 +146,6 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 &nbsp;
 
 # Questions related to Android 
-
-&nbsp;
 
 &nbsp;
 
