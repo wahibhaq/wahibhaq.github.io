@@ -317,6 +317,33 @@ Hints:
 * Dependency Injection: Dagger2
 * API Integration: OkHttp, Retrofit
 
+P.S : Be prepared to explain the usecase of the ones you mention and technical questions related to them.
+
+###Question #26
+
+**How do you implement Internationalization for an app to be available in multiple countries?**
+
+Hints:
+
+* Make multiple resource folders with language codes e.g res/values-de
+* Define one language e.g English as fallback plan in res/values/strings.xml
+* Suggest to have translations before starting implementing a UI. Better use a tool to make it efficient like Transifex.
+
+###Question #27
+
+**What are your favourite most common channels to keep yourself up-to-date with what's happening in Android ecosystem?**
+
+Hints:
+
+* I have listed few of the most famous ones [here](https://github.com/wahibhaq/ultimate-resources-android-devs/blob/master/README.md#regular-updates-banter--articles).
+* If you were not serious about it then maybe you should.
+
+
+
+
+
+
+
 
 
 
