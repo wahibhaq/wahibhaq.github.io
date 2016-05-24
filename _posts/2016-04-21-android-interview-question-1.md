@@ -18,7 +18,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 # Questions related to Java 
 
 <br><br><br>
-#### Explain the code shown below line by line.
+####Explain the code shown below line by line.
 <br>
 
 	public class ListHelper<E> {
