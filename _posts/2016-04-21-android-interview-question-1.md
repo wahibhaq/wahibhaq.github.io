@@ -11,13 +11,13 @@ published: true
 
 Hello reader,
 
-I have been through a major Job search saga for Android Developer position in Germany during end of 2015. It was exhausting but a very interesting & exhilarating experience as well because I had to revise a lot of basics and also grasp more deeper understanding of fundamental topics. This post is more focused on technical questions I faced during my interviews. I used to document them once done with an interview and it helped me for the coming ones. Most of the questions would be well known and expected by Android Devs but still sometimes it's just convenient to go through few of them during preparation.
+I have been through a major Job search saga for Android Developer position in Germany during end of 2015. It was exhausting but a very interesting & exhilarating experience as well. I had to revise basics and grasp more deeper understanding of fundamental topics. This post is more focused on technical questions I faced during my interviews. I used to document them once done with an interview and it helped me for the coming ones. Most of the questions would be well known and expected by Android Devs but still sometimes it's just convenient to go through few of them during preparation.
 
 I would like to re-iterate that I applied for mid-level Android Dev position so questions included are all related to Java and Android domain. More importantly, it's practically impossible to cover all potential quetions so just sharing those which I can remember while writing this post. A lot has changed since then as Android like any other Technology is always evolving :)
 
 # Questions related to Java 
 
-
+<br><br><br>
 #### Explain the code shown below line by line.
 <br>
 
@@ -45,7 +45,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * Why *synchronized* keyword used?
 * Can *ListHelper* object have two different copies of member *list*?
 
-
+<br><br>
 #### What are common functions of Java Object class and what do you know about Object class?
 <br>
 **Hints:**
@@ -54,6 +54,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * Every class is a descendant, direct or indirect, of the Object class.
 * Briefly describe the purpose and use of common functions including clone(), equals(), hashcode(), getCLass(), finalize() and toString().
 
+<br><br>
 #### What is Information Hiding and give example?
 <br>
 **Hints:**
@@ -61,6 +62,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * Explain How Information Hiding is achieved in Object Oriented Programming.
 * Should be able to explain Abstraction, Encapsulation and difference between them.
 
+<br><br>
 #### What are Access Specifiers and what is default one?
 <br>
 **Hints:**
