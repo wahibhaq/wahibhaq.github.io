@@ -350,6 +350,7 @@ P.S : Be prepared to explain the usecase of the ones you mention and technical q
 * [Very good resource to revise](http://zeroturnaround.com/rebellabs/android-the-platform-the-framework-and-the-way-of-life/)
 * [100 Android Questions & Answers](http://100androidquestionsandanswers.com)
 * [Ultimate Resources for Android Devs](https://github.com/wahibhaq/ultimate-resources-android-devs)
+* [How to pass a programmer interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
 
 
 
