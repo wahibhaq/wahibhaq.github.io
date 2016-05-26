@@ -22,6 +22,7 @@ We all know, the struggle is very real!
 
 * * *
 
+&nbsp;
 
 # Questions related to Java
 
@@ -146,6 +147,7 @@ We all know, the struggle is very real!
 
 * * *
 
+&nbsp;
 
 # Questions related to Android 
 
