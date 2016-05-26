@@ -17,6 +17,8 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
+
+
 # Questions related to Java 
 
 &nbsp;
@@ -136,9 +138,9 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 * When can a Boolean be appropriately used? Read Lazy Loading.
 
 
-
-
 &nbsp;
+
+---
 
 &nbsp;
 
