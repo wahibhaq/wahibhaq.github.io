@@ -20,7 +20,8 @@ We all know, the struggle is very real!
 
 &nbsp;
 
-
+---
+&nbsp;
 
 # Questions related to Java 
 
@@ -342,9 +343,11 @@ P.S : Be prepared to explain the usecase of the ones you mention and technical q
 * I have listed few of the most famous ones [here](https://github.com/wahibhaq/ultimate-resources-android-devs/blob/master/README.md#regular-updates-banter--articles).
 * If you were not serious about it then maybe you should.
 
----
 
 &nbsp;
+
+
+---
 
 ![want-more-gif](https://media.giphy.com/media/D3OdaKTGlpTBC/giphy.gif)
 
