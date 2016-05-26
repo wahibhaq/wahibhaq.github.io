@@ -49,7 +49,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
-#### What are common functions of Java Object class and what do you know about Object class? 
+### What are common functions of Java Object class and what do you know about Object class? 
 <br>
 **Hints:**
 
@@ -59,7 +59,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
-#### What is Information Hiding and give example?
+### What is Information Hiding and give example?
 <br>
 **Hints:**
 
@@ -68,7 +68,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
-#### What are Access Specifiers and what is default one?
+### What are Access Specifiers and what is default one?
 <br>
 **Hints:**
 
