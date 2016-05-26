@@ -3,15 +3,13 @@ layout: post
 title: Compiled Android Interview Questions  
 tags: [android, professional, hiring, interview, development]  
 fb-img: http://d287f0h5fel5hu.cloudfront.net/blog/wp-content/uploads/2014/02/Android-Interview-Questions.jpg
-published: false
+published: true
 
 ---
 
 <br>
 
-Hello reader,
-
-I have been through a major Job search saga for Android Developer position in Germany during end of 2015. It was exhausting but a very interesting & exhilarating experience as well. I had to revise basics and grasp more deeper understanding of fundamental topics. This post is more focused on technical questions I faced during my interviews. I used to document them once done with an interview and it helped me for the coming ones. Most of the questions would be well known and expected by Android Devs but still sometimes it's just convenient to go through few of them during preparation.
+I have been through a major Job search saga for Android Developer position in Germany in 2015. It was exhausting but a very interesting & exhilarating experience as well. I had to revise basics and grasp more deeper understanding of fundamental topics. This post is more focused on technical questions I faced during my interviews. I used to document them once done with an interview and this practise helped me for the upcoming ones. Most of the questions would be well known and expected by Android Devs but still sometimes it's just convenient to go through few of them during preparation. 
 
 I would like to re-iterate that I applied for mid-level Android Dev position so questions included are all related to Java and Android domain. More importantly, it's practically impossible to cover all potential quetions so just sharing those which I can remember while writing this post. A lot has changed since then as Android like any other Technology is always evolving :)
 
@@ -55,8 +53,8 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 <br>
 **Hints:**
 
-* The Object class, in the java.lang package, sits at the top of the class hierarchy tree.
-* Every class is a descendant, direct or indirect, of the Object class.
+* The *Object* class, in the java.lang package, sits at the top of the class hierarchy tree.
+* Every class is a descendant, direct or indirect, of the *Object* class.
 * Briefly describe the purpose and use of common functions including clone(), equals(), hashcode(), getCLass(), finalize() and toString().
 
 &nbsp;
@@ -79,7 +77,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
-#### What is Reflection in Java and why would you use it?
+#### What is *Reflection* in Java and why would you use it?
 <br>
 **Hints:**
 
@@ -134,7 +132,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 **Hints:**
 
 * boolean is a java primitive type whereas Boolean is an object/reference type that wraps a boolean.
-* Read about Boxing and Unboxing
+* Read about *Boxing* and *Unboxing*
 * When can a Boolean be appropriately used? Read Lazy Loading.
 
 
@@ -159,7 +157,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
-#### What is Handler used for and why? other alternatives?
+#### What is *Handler* used for and why? other alternatives?
 <br>
 **Hints:**
 
@@ -185,15 +183,17 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
-#### Describe MVP Architectural design pattern for Android and it's benefits
+#### Describe MVP pattern for Android and it's benefits
 <br>
 **Hints:**
 
+* MVP is not an architectural pattern, it’s only responsible for the presentation layer.
 * View is a layer that displays data and reacts to user actions. On Android, this could be an Activity, a Fragment, an android.view.View or a Dialog.
 Model is a data access layer such as database API or remote server API.
 Presenter is a layer that provides View with data from Model. Presenter also handles background tasks.
 * MVP is a way to separate background tasks from activities/views/fragments to make them independent of most lifecycle-related events.
 * Application becomes simpler, overall application reliability increases up to 10 times, application code becomes shorter, code maintainability becomes better and  significantly easier to test code.
+* You'll find many amazing resources but [this](http://macoscope.com/blog/model-view-presenter-architecture-in-android-applications/) can give a good start.
 
 &nbsp;
 
@@ -201,7 +201,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 <br>
 **Hints:**
 
-* Allocation Tracker in Memory Monitor is a good handy tool for this which helps in tracking memory allocation.
+* *Allocation Tracker* in Memory Monitor is a good handy tool for this which helps in tracking memory allocation.
 * It can be useful not only for looking at specific uses of memory, but also to analyze critical code paths in an app such as scrolling & helps in improving the overall smoothness of the UI.
 * Possible scenarios can be rotating screens mutiple times in different activity states to detect if Activty, Context or View object causing leaks. Also try to switch between apps e.g navigate to home screen and come back again.
 
@@ -240,7 +240,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 <br>
 **Hints:**
 
-* Normally you can use Loader or AsyncTask. Loader performs asynchronous loading of data. While Loaders are active they should monitor the source of their data and deliver new results when the contents change. AsynTask is used to perfrom time consuming , short duration operation so that main UI thread don’t get the burden.
+* Normally you can use Loader or *AsyncTask*. Loader performs asynchronous loading of data. While Loaders are active they should monitor the source of their data and deliver new results when the contents change. AsynTask is used to perfrom time consuming , short duration operation so that main UI thread don’t get the burden.
 * In more advanced approaches, RxJava is used to perform various kinds of Async operations. 
 
 &nbsp;
@@ -314,6 +314,8 @@ Runnables has to know about it’s container so holds reference to Activity if d
 * Dependency Injection: Dagger2
 * API Integration: OkHttp, Retrofit
 
+This [resource](https://github.com/codepath/android_guides/wiki/Must-Have-Libraries) lists down most commonly used libs.
+
 P.S : Be prepared to explain the usecase of the ones you mention and technical questions related to them.
 
 &nbsp;
@@ -346,7 +348,6 @@ P.S : Be prepared to explain the usecase of the ones you mention and technical q
 * [Android Hiring Guide](http://www.toptal.com/android#hiring-guide)
 * [SkillGun Q&A](http://skillgun.com/android/interview-questions-and-answers)
 * [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
-* [Android Must Have Libs](https://github.com/codepath/android_guides/wiki/Must-Have-Libraries)
 * [Very good resource to revise](http://zeroturnaround.com/rebellabs/android-the-platform-the-framework-and-the-way-of-life/)
 * [100 Android Questions & Answers](http://100androidquestionsandanswers.com)
 * [Ultimate Resources for Android Devs](https://github.com/wahibhaq/ultimate-resources-android-devs)
