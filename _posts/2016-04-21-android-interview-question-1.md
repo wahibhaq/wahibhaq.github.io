@@ -9,9 +9,9 @@ published: true
 
 <br>
 
-I have been through a major Job search saga for Android Developer position in Germany in 2015. It was exhausting but a very interesting & exhilarating experience as well. I had to revise basics and grasp more deeper understanding of fundamental topics. This post is more focused on technical questions I faced during my interviews. I used to document them once done with an interview and this practise helped me for the upcoming ones. Most of the questions would be well known and expected by Android Devs but still sometimes it's just convenient to go through few of them during preparation. 
+I have been through a major Job search saga for Android Developer position in Germany in 2015. It was exhausting but a very interesting & exhilarating experience as well. I had to revise basics and grasp more deeper understanding of fundamental topics. I used to document the technical questions once done with an interview and this practise helped me for the upcoming ones. Normally, such posts about Interview questions only list down questions or give very detailed answers. I tried to keep it very simple and thought about giving some basic hints to give good enough pointers for further research. Most of the questions would be well known and expected by Android Devs but still sometimes it's just convenient to go through few of them during preparation. 
 
-I would like to re-iterate that I applied for mid-level Android Dev position so questions included are all related to Java and Android domain. More importantly, it's practically impossible to cover all potential quetions so just sharing those which I can remember while writing this post. A lot has changed since then as Android like any other Technology is always evolving :)
+I would like to re-iterate that I applied for mid-level Android Dev position so questions included are all related to Java and Android domain. I am not an expert and if you find any mistake or mis-information then I'll be thankful for your feedback. More importantly, it's practically impossible to cover all potential topics/quetions so just sharing those which I can remember while writing this post. A lot has changed since then as Android like any other Technology is always evolving :)
 
 &nbsp;
 
