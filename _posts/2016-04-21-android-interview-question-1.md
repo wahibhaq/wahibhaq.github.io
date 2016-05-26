@@ -20,10 +20,10 @@ We all know, the struggle is very real!
 
 &nbsp;
 
----
-&nbsp;
+* * *
 
-# Questions related to Java 
+
+# Questions related to Java
 
 &nbsp;
 
@@ -144,9 +144,8 @@ We all know, the struggle is very real!
 
 &nbsp;
 
----
+* * *
 
-&nbsp;
 
 # Questions related to Android 
 
@@ -346,8 +345,9 @@ P.S : Be prepared to explain the usecase of the ones you mention and technical q
 
 &nbsp;
 
+* * *
 
----
+&nbsp;
 
 ![want-more-gif](https://media.giphy.com/media/D3OdaKTGlpTBC/giphy.gif)
 
