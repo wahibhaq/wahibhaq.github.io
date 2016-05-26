@@ -11,9 +11,12 @@ published: true
 
 I have been through a major Job search saga for Android Developer position in Germany in 2015. It was exhausting but a very interesting & exhilarating experience as well. I had to revise basics and grasp more deeper understanding of fundamental topics. I used to document the technical questions once done with an interview and this practise helped me for the upcoming ones. Normally, such posts about Interview questions only list down questions or give very detailed answers. I tried to keep it very simple and thought about giving some basic hints to give good enough pointers for further research. Most of the questions would be well known and expected by Android Devs but still sometimes it's just convenient to go through few of them during preparation. 
 
-I would like to re-iterate that I applied for mid-level Android Dev position so questions included are all related to Java and Android domain. I am not an expert and if you find any mistake or mis-information then I'll be thankful for your feedback. More importantly, it's practically impossible to cover all potential topics/quetions so just sharing those which I can remember while writing this post. A lot has changed since then as Android like any other Technology is always evolving :)
+I would like to re-iterate that I applied for mid-level Android Dev position so questions included are all related to Java and Android domain. I am not an expert (not yet!) and if you find any mistake or misinformation then I'll be thankful for your feedback. More importantly, it's practically impossible to cover all potential topics/quetions so just sharing those which I can remember while writing this post. Android is just like any other form of technology, it is always evolving and adjusting to meet the demands :)
 
 &nbsp;
+
+![struggle-meme](https://cdn.meme.am/instances/57217525.jpg)<br>
+We all know, the struggle is very real!
 
 &nbsp;
 
@@ -339,7 +342,11 @@ P.S : Be prepared to explain the usecase of the ones you mention and technical q
 * I have listed few of the most famous ones [here](https://github.com/wahibhaq/ultimate-resources-android-devs/blob/master/README.md#regular-updates-banter--articles).
 * If you were not serious about it then maybe you should.
 
+---
+
 &nbsp;
+
+![want-more-gif](https://media.giphy.com/media/D3OdaKTGlpTBC/giphy.gif)
 
 &nbsp;
 
