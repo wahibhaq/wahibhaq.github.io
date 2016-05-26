@@ -77,7 +77,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
-#### What is *Reflection* in Java and why would you use it?
+### What is *Reflection* in Java and why would you use it?
 <br>
 **Hints:**
 
@@ -86,7 +86,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
-#### What is Inheritance, Diamond problem and difference between Inheritance and Sub-typing?
+### What is Inheritance, Diamond problem and difference between Inheritance and Sub-typing?
 <br>
 **Hints:**
 
@@ -96,7 +96,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
-#### What is Static and when to use and when not to use ?
+### What is Static and when to use and when not to use ?
 <br>
 **Hints:**
 
@@ -106,7 +106,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
-#### How to implement concurrency in Java?
+### How to implement concurrency in Java?
 <br>
 **Hints:**
 
@@ -115,7 +115,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
-#### How to make Java code thread safe? Give some suggestions.
+### How to make Java code thread safe? Give some suggestions.
 <br>
 **Hints:**
 
@@ -127,7 +127,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
-#### Difference between Boolean and boolean?
+### Difference between Boolean and boolean?
 <br>
 **Hints:**
 
@@ -146,7 +146,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
-#### What is Activity, Fragment and their association?
+### What is Activity, Fragment and their association?
 <br>
 **Hints:**
 
@@ -157,7 +157,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
-#### What is *Handler* used for and why? other alternatives?
+### What is *Handler* used for and why? other alternatives?
 <br>
 **Hints:**
 
@@ -173,7 +173,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
-#### What is ANR and how do you prevent it?
+### What is ANR and how do you prevent it?
 <br>
 **Hints:**
 
@@ -183,7 +183,7 @@ I would like to re-iterate that I applied for mid-level Android Dev position so 
 
 &nbsp;
 
-#### Describe MVP pattern for Android and it's benefits
+### Describe MVP pattern for Android and it's benefits
 <br>
 **Hints:**
 
@@ -197,7 +197,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 
 &nbsp;
 
-#### How to find the sections of app or actions which are not smooth from UX perspective? what are most common scenarios to test?
+### How to find the sections of app or actions which are not smooth from UX perspective? what are most common scenarios to test?
 <br>
 **Hints:**
 
@@ -207,7 +207,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 
 &nbsp;
 
-#### What is an improved way for implementing List Views offered by Android and why?
+### What is an improved way for implementing List Views offered by Android and why?
 <br>
 **Hints:**
 
@@ -216,7 +216,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 
 &nbsp;
 
-#### How would you implement your own drawing in a Custom View?
+### How would you implement your own drawing in a Custom View?
 <br>
 **Hints:**
 
@@ -226,7 +226,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 
 &nbsp;
 
-#### What are different types of Services?
+### What are different types of Services?
 <br>
 **Hints:**
 
@@ -236,7 +236,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 
 &nbsp;
 
-#### How would you perform standard Asynchronous operations in Android?
+### How would you perform standard Asynchronous operations in Android?
 <br>
 **Hints:**
 
@@ -245,7 +245,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 
 &nbsp;
 
-#### Is there a more optimized alternative available for HashMap in Android?
+### Is there a more optimized alternative available for HashMap in Android?
 <br>
 **Hints:**
 
@@ -254,7 +254,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 
 &nbsp;
 
-#### How can we avoid memory usage in our apps?
+### How can we avoid memory usage in our apps?
 <br>
 **Hints:**
 
@@ -265,7 +265,7 @@ Presenter is a layer that provides View with data from Model. Presenter also han
 
 &nbsp;
 
-#### How to avoid memory leaks?
+### How to avoid memory leaks?
 <br>
 **Hints:**
 
@@ -278,7 +278,7 @@ Runnables has to know about it’s container so holds reference to Activity if d
 
 &nbsp;
 
-#### Ever heard of Dependency Injection design patter? What is it about? Have you used it via any framework?
+### Ever heard of Dependency Injection design patter? What is it about? Have you used it via any framework?
 <br>
 **Hints:**
 
@@ -288,7 +288,7 @@ Runnables has to know about it’s container so holds reference to Activity if d
 
 &nbsp;
 
-#### In Unit Testing, what is referred by Unit & Testing? What is Test Driven Development (TDD) & what are advantages?
+### In Unit Testing, what is referred by Unit & Testing? What is Test Driven Development (TDD) & what are advantages?
 <br>
 **Hints:**
 
@@ -299,7 +299,7 @@ Runnables has to know about it’s container so holds reference to Activity if d
 
 &nbsp;
 
-#### What are the options of 3rd party libs/frameworks do we have or the ones you have used for various tasks in app development?
+### What are the options of 3rd party libs/frameworks do we have or the ones you have used for various tasks in app development?
 <br>
 **Hints:**
 
@@ -320,7 +320,7 @@ P.S : Be prepared to explain the usecase of the ones you mention and technical q
 
 &nbsp;
 
-#### How do you implement Internationalization for an app to be available in multiple countries?
+### How do you implement Internationalization for an app to be available in multiple countries?
 <br>
 **Hints:**
 
@@ -330,7 +330,7 @@ P.S : Be prepared to explain the usecase of the ones you mention and technical q
 
 &nbsp;
 
-#### What are your favourite most common channels to keep yourself up-to-date with what's happening in Android ecosystem?
+### What are your favourite most common channels to keep yourself up-to-date with what's happening in Android ecosystem?
 <br>
 **Hints:**
 
@@ -341,7 +341,7 @@ P.S : Be prepared to explain the usecase of the ones you mention and technical q
 
 &nbsp;
 
-# Other Valuable Resources
+## Other Valuable Resources
 
 * [Top 50 Android Interview Questions](http://www.itechaleart.com/2013/05/top-50-android-interview-questions_10.html)
 * [Toptal Interview Questions](http://www.toptal.com/android/interview-questions)
