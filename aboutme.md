@@ -9,7 +9,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-I'm a techie, reader, a married Batman (not with a Catwoman), a foodie and an adherer to <a href="https://en.wikipedia.org/wiki/Dudeism" target="_blank">Dudeism</a>. Additionally I'm a Programmer by choice, Engineer by education and Mobile Apps junkie by passion. I am currently working as an <strong>Android Developer</strong> at <img src="/img/icon-freeletics.ico" width="23" height="23"> <a href="http://freeletics.com" target="_blank">Freeletics</a> where I brew code into elixirs to be sold at Google Play.  
+I'm a techie, reader, a married Batman (not with a Catwoman), a foodie and an adherer to <a href="https://en.wikipedia.org/wiki/Dudeism" target="_blank">Dudeism</a>. Additionally, I'm a Programmer, Engineer by education and Mobile Apps junkie by passion. I am currently working as an <strong>Android Developer</strong> at <img src="/img/icon-freeletics.ico" width="23" height="23"> <a href="http://freeletics.com" target="_blank">Freeletics</a> where I brew code into elixirs to be sold at Google Play.  
 </p>
 
 <p class="about-text">
@@ -19,12 +19,12 @@ I completed <strong>BSc. Information and Communication Systems Engingeering</str
 
 <p class="about-text">
 <span class="fa fa-paper-plane about-icon"></span>
-I am a curious learner and passionate about things around Mobile, Technology, Startups and Life in general. All hobby projects or the proverbial itch that needs scratching would go in <a href="http://wahibhaq.com/projects">projects</a> section. In my free time, I love travelling, playing badminton with wife, hanging out with friends or watching a good movie at home.
+I am a curious learner and passionate about things around Mobile, Technology, Startups and Life in general. All hobby projects or the proverbial itch that needs scratching would go in <a href="http://wahibhaq.com/projects">projects</a> section. In my free time, I love travelling, doing sports, hanging out with friends or watching a good movie at home.
 </p>
 
 <p class="about-text">
 <span class="fa fa-heartbeat about-icon"></span>
-I was born and bred in <strong>Rawalpindi, Pakistan</strong>. If you are curious to know more about multifaceted Pakistan <img src="/img/pakistan-flag.png" width="25" height="25">, then do checkout <a href="http://wahibhaq.com/pakistan-unveiled">Pakistan Unveiled</a>. I can successfully speak three languages (English, Urdu & Punjabi), and 'ein Bisschen' or 'a little bit' level of German. 
+I was born and bred in <strong>Rawalpindi, Pakistan</strong>. If you are curious to know more about multifaceted Pakistan <img src="/img/pakistan-flag.png" width="25" height="25">, then do checkout <a href="http://wahibhaq.com/pakistan-unveiled">Pakistan Unveiled</a>. I can successfully speak three languages (English, Urdu & Punjabi), and 'ein bisschen' or 'a little bit' level of German. 
 </p> 
 
 <p class="about-text">
