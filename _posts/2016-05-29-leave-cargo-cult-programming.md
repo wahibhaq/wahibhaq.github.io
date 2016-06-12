@@ -1,3 +1,11 @@
+---
+layout: post  
+title: How to leave cargo cult programming  
+tags: [android, programming, cargo cult, improve, efficient]  
+fb-img: http://d287f0h5fel5hu.cloudfront.net/blog/wp-content/uploads/2014/02/Android-Interview-Questions.jpg
+published: false
+
+---
 # How to step forward from Cargo Cult Programming phase
 
 - Read official documentation first
