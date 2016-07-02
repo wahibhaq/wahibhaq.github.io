@@ -31,6 +31,10 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 
   - [Tripkar Tours](http://tripkar.com/tours/) 
 
+### International Tourists who visited Pakistan
+
+  - [Surprising Pakistan](http://einspurig-reisen.de/?p=6258) : A german couple visited Pakistan and drove to famous Karakoram Highway on bike. This is their blog post sharing their amazing experience (sorry, it's in German!). 
+
 
 
 <br>
