@@ -22,6 +22,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Karakoram Highway, The world’s best roadtrip](http://unusualtraveler.com/karakoram-highway/) : The Karakoram Highway was one of the greatest engineering achievement of the 20th century. Take the most stunning roadtrip in the world.
   - [“Rediscovering Pakistan - The Untold Tale”](https://vimeo.com/119388524) : 9 riders from across the oceans came to Pakistan to explore the beautiful northern areas with [Moin Khan](http://www.adifferentagenda.com). Here is the full film to showcase our small exploration of the gorgeous north.
   - [Gwadar to Khunjerab](https://www.facebook.com/MyPakistanIsGreat/videos/605748266253501/) : An epic compilation of shots taken by drones to offer aerial videography of all famous landmarks and beauty in Pakistan.
+  - [Skardu](https://www.facebook.com/213481479037132/videos/248021585583121/) : A videography on Skardu, Pakistan. 
   
 ### Collection of Breathtaking Photos 
 
