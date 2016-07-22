@@ -37,6 +37,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 
 ### International Tourists who visited Pakistan
 
+  - [Sophee Southall (Australian)](http://sopheesmiles.com/about/sophees-story/) travelled to Lahore, Islamabad and Northern Pakistan and described her experience as "I carried a reinvigorated sense of hope and optimist with me. It’s the best souvenir I could’ve asked for. Thank you Pakistan". She also wrote a detailed [blog post](http://sopheesmiles.com/2015/08/22/pakistan-unveiled/) and I believe it's the best I have read so far.
   - [Surprising Pakistan](http://einspurig-reisen.de/?p=6258) : A german couple visited Pakistan and drove to famous Karakoram Highway on bike. This is their blog post sharing their amazing experience (sorry, it's in German!). 
   - Alex (Netherland) & Sebastian (American) reached Pakistan from Iran through the [taftan border](http://lostwithpurpose.com/the-longest-border-crossing-in-the-world/) and travelled from southern most point to northern Pakistan. I came to know about them through the [article in dawn](http://images.dawn.com/news/1175844/meet-the-hiking-duo-that-took-a-chance-on-pakistan) and found out they have a brand, ["Lost with Purpose"](http://lostwithpurpose.com). They shared their experience with this [video](https://www.youtube.com/watch?v=G7JCpfasdAo), beautiful [instagram](https://www.instagram.com/lostwithpurpose/) pictures and series of blog posts including [5 serious dangers of traveling in Pakistan](http://lostwithpurpose.com/5-serious-dangers-traveling-pakistan/).
 
