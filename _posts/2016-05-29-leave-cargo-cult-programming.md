@@ -23,3 +23,7 @@ published: false
 Also use content from here on using Google for search http://codeahoy.com/2016/04/30/do-experienced-programmers-use-google-frequently/
 
 Use concept and even quote words from this http://blog.valbonne-consulting.com/2014/08/16/the-imposter-syndrome-in-software-development/ related to "And being genuine isn’t nearly as important as being able to identify what is already available and can be re-used with a bit of “glue” : mention it in a way that programmers should have a life other than programmers. 
+
+---
+
+This post was published on February 11, 2016. See a [typo](https://github.com/wahibhaq/wahibhaq.github.io/edit/master/_posts/2016-05-29-leave-cargo-cult-programming.md)? #Update the date later on
