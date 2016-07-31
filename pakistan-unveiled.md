@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pakistan Unveiled
+fb-img: http://wahibhaq.com/img/blog/pakistan-mypassion-cover.jpg
 ---
 
 <div class="text-center">
