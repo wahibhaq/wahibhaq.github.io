@@ -32,12 +32,13 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 
   - [Wonderful Pakistan album](https://www.facebook.com/media/set/?set=a.370615079670914.85280.143997832332641&type=3)
 
-### Agencies/Companies to help you in planning trips
+### Agencies/Portals to help you in planning trips
 
   - [Tripkar Tours](http://tripkar.com/tours/) 
   - [TACTACK](https://www.facebook.com/tactackgear/) 
   - [Lets Go To Pakistan](https://www.facebook.com/LetsGoToPakistan/)
   - [Carvanistan](http://caravanistan.com/) offers defined [tours](http://caravanistan.com/tours/pakistan/).
+  - [FindMyAdventure.pk](http://www.findmyadventure.pk/#/)
 
 ### Instruction Manual for Foreign Tourists
 
