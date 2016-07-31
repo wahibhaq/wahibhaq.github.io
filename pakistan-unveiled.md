@@ -25,6 +25,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Skardu](https://www.facebook.com/213481479037132/videos/248021585583121/) : A videography on Skardu, Pakistan. 
   - [Trekking to Fairy Meadows](http://www.thebrokebackpacker.com/trekking-fairy-meadows-pakistan/) : The Fairy Meadows is one of the most stunning places I have ever been and when you go to Pakistan be sure to visit.
   - 4 friends, 9 days, 1000 miles, and countless memories. Thanks to [37Production Team](https://www.facebook.com/37th.prod/?fref=nf) for capturing the trip to Khunjerab Pass via this [video](https://www.facebook.com/37th.prod/videos/1150066255056440/) so brilliantly!
+  - [Documentary on Norther Pakistan](https://www.facebook.com/hazara.com.pk/posts/1395563127126751) : A group of 4 travelors (originally from Karachi) went from Babusar Top to Khunjerab Pass touching almost all the famous touristic spots in North. This video is a beautiful compilation of their visit and is worthy to be used as a bucket list.
 
 ### Collection of Breathtaking Photos 
 
