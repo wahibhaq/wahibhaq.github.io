@@ -31,11 +31,17 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 
   - [Wonderful Pakistan album](https://www.facebook.com/media/set/?set=a.370615079670914.85280.143997832332641&type=3)
 
-### Portals to help you in planning trips
+### Agencies/Companies to help you in planning trips
 
   - [Tripkar Tours](http://tripkar.com/tours/) 
   - [TACTACK](https://www.facebook.com/tactackgear/) 
   - [Lets Go To Pakistan](https://www.facebook.com/LetsGoToPakistan/)
+  - [Carvanistan](http://caravanistan.com/) offers defined [tours](http://caravanistan.com/tours/pakistan/).
+
+### Instruction Manual for Foreign Tourists
+
+  - [Backpacking Pakistan - Travel Guide](http://www.thebrokebackpacker.com/pakistan-travel-ultimate-backpacker-guide/) is  a very useful article for foreigners who are planning a trip to Pakistan. It shares some really useful information about the challenges like visa, border crossing and how to cope with security forces. It also outlines famous spots for adventurers and tourists alike to visit and make the best out of their trip.
+  - [Carvanistan](http://caravanistan.com/) have compiled vital information about [visa application](http://caravanistan.com/visa/pakistan/) for Pakistan, [border-crossings](http://caravanistan.com/border-crossings/pakistan/).
 
 ### International Tourists who visited Pakistan
 
