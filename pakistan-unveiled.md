@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pakistan Unveiled
-fb-img: http://wahibhaq.com/img/blog/pakistan-mypassion-cover.jpg
+subtitle: "The country which cop a lot of flak in the media"
 ---
 
 <div class="text-center">
