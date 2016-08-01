@@ -76,3 +76,6 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 - [Coke Studio](www.cokestudio.com.pk/) : Pakistan's biggest music television franchise which features live studio-recorded music performances by various artists.
 - [Nescafe Basement](https://www.nescafebasement.pk/) : A creative platform that nurtures the talent and drive of a group of gifted unknown youngsters and their love for Music.
 
+<br>
+---
+Feel free to give any kind of feedback. What categories should I add? Is there any amazing resource, documentary, travelog or travel agency you would like me to add? You can easily reach out to me via [twitter](http://twitter.com/wahibhaq) or [email](mailto:wahib.tech@gmail.com). If you want to contribute yourself then feel free to create a [PR](https://github.com/wahibhaq/wahibhaq.github.io/edit/master/pakistan-unveiled.md) :)
