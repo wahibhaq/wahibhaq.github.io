@@ -1,0 +1,2 @@
+- create a menu item on top bar referring to page "Pakistan Unveiled" and then add a separate page for tourism thing and link it
+- investigate how to add social media sharing on markdown pages and add it.
