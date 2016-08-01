@@ -55,6 +55,9 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - Alex (Netherland) & Sebastian (American) reached Pakistan from Iran through the [taftan border](http://lostwithpurpose.com/the-longest-border-crossing-in-the-world/) and travelled from southern most point to northern Pakistan. I came to know about them through the [article in dawn](http://images.dawn.com/news/1175844/meet-the-hiking-duo-that-took-a-chance-on-pakistan) and found out they have a brand, ["Lost with Purpose"](http://lostwithpurpose.com). They shared their experience with this [video](https://www.youtube.com/watch?v=G7JCpfasdAo), beautiful [instagram](https://www.instagram.com/lostwithpurpose/) pictures and series of blog posts including [5 serious dangers of traveling in Pakistan](http://lostwithpurpose.com/5-serious-dangers-traveling-pakistan/).
   - [Cynthia D. Ritchie](https://twitter.com/CynthiaDRitchie), a former Goodwill Ambassador to Pakistan has traveled around Pakistan and meticulously navigated the country’s social, political, and cultural layers.  She is now on a mission to produce a docu-series that will capture “the true spirit of Pakistan,” by showing its beauty, vibrance, and devotion to hospitality. Recently she addressed questions and changed perceptions - all through [Twitter](http://images.dawn.com/news/1175944).
 
+### Unofficial Social Media Accounts To Follow
+
+  - [BeautyPakistani](https://twitter.com/BeautyPakistani) 
 
 
 <br>
