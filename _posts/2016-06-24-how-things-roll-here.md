@@ -1,3 +1,11 @@
+---
+layout: post  
+title: How Things Roll here 
+tags:   
+fb-img: 
+published: false
+
+---
 Points to present from Freeletics :
 
  - Trust Factor, involved in decision making even you are a new hire
