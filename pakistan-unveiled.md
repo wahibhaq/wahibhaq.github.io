@@ -27,6 +27,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Trekking to Fairy Meadows](http://www.thebrokebackpacker.com/trekking-fairy-meadows-pakistan/) : The Fairy Meadows is one of the most stunning places I have ever been and when you go to Pakistan be sure to visit.
   - 4 friends, 9 days, 1000 miles, and countless memories. Thanks to [37Production Team](https://www.facebook.com/37th.prod/?fref=nf) for capturing the trip to Khunjerab Pass via this [video](https://www.facebook.com/37th.prod/videos/1150066255056440/) so brilliantly!
   - [Documentary on Norther Pakistan](https://www.facebook.com/hazara.com.pk/posts/1395563127126751) : A group of 4 travelors (originally from Karachi) went from Babusar Top to Khunjerab Pass touching almost all the famous touristic spots in North. This video is a beautiful compilation of their visit and is worthy to be used as a bucket list.
+  - [Global Perspective](http://globalperspect.com/all-about-pakistan/) : A nice initiative of presenting collection of documentaries and pictures to promotes culture and tourism in Pakistan. 
 
 ### Collection of Breathtaking Photos 
 
@@ -39,6 +40,8 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Lets Go To Pakistan](https://www.facebook.com/LetsGoToPakistan/)
   - [Carvanistan](http://caravanistan.com/) offers defined [tours](http://caravanistan.com/tours/pakistan/).
   - [FindMyAdventure.pk](http://www.findmyadventure.pk/#/)
+  - [Pakistan Travel Guide](http://www.pakistantravelguide.pk/tours/)
+  - [MashabrumClub](http://mashabrumclub.pk)
 
 ### Instruction Manual for Foreign Tourists
 
@@ -50,6 +53,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Sophee Southall (Australian)](http://sopheesmiles.com/about/sophees-story/) travelled to Lahore, Islamabad and Northern Pakistan and described her experience as "I carried a reinvigorated sense of hope and optimist with me. It’s the best souvenir I could’ve asked for. Thank you Pakistan". She also wrote a detailed [blog post](http://sopheesmiles.com/2015/08/22/pakistan-unveiled/) and I believe it's the best I have read so far.
   - [Surprising Pakistan](http://einspurig-reisen.de/?p=6258) : A german couple visited Pakistan and drove to famous Karakoram Highway on bike. This is their blog post sharing their amazing experience (sorry, it's in German!). 
   - Alex (Netherland) & Sebastian (American) reached Pakistan from Iran through the [taftan border](http://lostwithpurpose.com/the-longest-border-crossing-in-the-world/) and travelled from southern most point to northern Pakistan. I came to know about them through the [article in dawn](http://images.dawn.com/news/1175844/meet-the-hiking-duo-that-took-a-chance-on-pakistan) and found out they have a brand, ["Lost with Purpose"](http://lostwithpurpose.com). They shared their experience with this [video](https://www.youtube.com/watch?v=G7JCpfasdAo), beautiful [instagram](https://www.instagram.com/lostwithpurpose/) pictures and series of blog posts including [5 serious dangers of traveling in Pakistan](http://lostwithpurpose.com/5-serious-dangers-traveling-pakistan/).
+  - [Cynthia D. Ritchie](https://twitter.com/CynthiaDRitchie), a former Goodwill Ambassador to Pakistan has traveled around Pakistan and meticulously navigated the country’s social, political, and cultural layers.  She is now on a mission to produce a docu-series that will capture “the true spirit of Pakistan,” by showing its beauty, vibrance, and devotion to hospitality. Recently she addressed questions and changed perceptions - all through [Twitter](http://images.dawn.com/news/1175944).
 
 
 
