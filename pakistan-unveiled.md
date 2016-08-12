@@ -59,10 +59,10 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Antoine Girard](https://www.facebook.com/antoinegirardfly/) is a world famous paraglider from Franch who completed 1260km bivouac fly solo in Pakistan in 19 days. Something he refers as "A great experience in a wilderness land. Beautiful encounter with the Pakistanis people!". He recorded a short [video](https://www.facebook.com/antoinegirardfly/videos/536424379890793/) sharing breathtaking views of Himalayas. 
   - [Emily Hauze](https://twitter.com/EmilyHauze) is an American blogger & professional photographer. She frequently visits her loved ones in Pakistan but confidently says that there are many other reasons of attraction to the culture and curiosity about the Pakistani way of life. But for her, the question of a “reason to visit Pakistan” is almost irrelevant, because the truth is that Pakistan has given her a reason to do almost everything that she does. Recently her [interview](https://www.jovago.net/blog/emily-hauze-american-loves-pakistan-3188) with [Jovago](https://twitter.com/JovagoPakistan) got published and that's how I came to know about her. She is quite active in maintaining a [blog](http://www.emilyhauze.com/blog-index.html) and sharing her experiences in Pakistan. We can just say a heartiest "Shukriya" to her for the effort :)
 
-### Unofficial Social Media Accounts To Follow
+### Social Media Accounts To Follow
 
   - [BeautyPakistani](https://twitter.com/BeautyPakistani) 
-
+  - [Discover Pakistan](https://www.facebook.com/DPakistanOfficial/?fref=ts)
 
 <br>
 
