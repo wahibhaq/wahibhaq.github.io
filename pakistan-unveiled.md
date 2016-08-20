@@ -29,6 +29,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Documentary on Norther Pakistan](https://www.facebook.com/hazara.com.pk/posts/1395563127126751) : A group of 4 travelors (originally from Karachi) went from Babusar Top to Khunjerab Pass touching almost all the famous touristic spots in North. This video is a beautiful compilation of their visit and is worthy to be used as a bucket list.
   - [Global Perspective](http://globalperspect.com/all-about-pakistan/) : A nice initiative of presenting collection of documentaries and pictures to promotes culture and tourism in Pakistan. 
   - [Ho Jao Aazad](https://www.youtube.com/watch?v=V-VJki-Bbyc) : This is actually not a documentary but a music video by super talented [Zoe Viccaji](https://twitter.com/Zoeviccaji) and shot brilliantly. I thought about mentioning it because it shows a lot of famous touristic landmarks in Northern Pakistan. I am damn sure those places look more beautiful than shown in this video. 
+  - This timelapse [video](https://www.facebook.com/Moojoz/videos/1546229875674566/?hc_ref=NEWSFEED) is a gift for the lovers of Hunza Valley & Nanga Parbat. It took almost a year for the photographers from [Moojoz](https://www.facebook.com/Moojoz/?hc_ref=NEWSFEED) to capture content for this video. 
 
 ### Collection of Breathtaking Photos 
 
