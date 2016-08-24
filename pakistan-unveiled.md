@@ -14,6 +14,8 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 
 > Ultimately, while Pakistan offers enough experiences to entertain short-term tourists, this complex country isn't a holiday destination, it's a unique classroom offering a sharp, character-building education for adventurous nomads. A trip to Pakistan will not only change your perspective on Pakistani and Muslim culture, it'll also challenge how you view the rest of the world especially countries which cop a lot of flak in the media.
 
+
+
 # Tourism : Visit Pakistan
 ---
 
@@ -61,6 +63,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Antoine Girard](https://www.facebook.com/antoinegirardfly/) is a world famous paraglider from Franch who completed 1260km bivouac fly solo in Pakistan in 19 days. Something he refers as "A great experience in a wilderness land. Beautiful encounter with the Pakistanis people!". He recorded a short [video](https://www.facebook.com/antoinegirardfly/videos/536424379890793/) sharing breathtaking views of Himalayas. 
   - [Emily Hauze](https://twitter.com/EmilyHauze) is an American blogger & professional photographer. She frequently visits her loved ones in Pakistan but confidently says that there are many other reasons of attraction to the culture and curiosity about the Pakistani way of life. But for her, the question of a “reason to visit Pakistan” is almost irrelevant, because the truth is that Pakistan has given her a reason to do almost everything that she does. Recently her [interview](https://www.jovago.net/blog/emily-hauze-american-loves-pakistan-3188) with [Jovago](https://twitter.com/JovagoPakistan) got published and that's how I came to know about her. She is quite active in maintaining a [blog](http://www.emilyhauze.com/blog-index.html) and sharing her experiences in Pakistan. We can just say a heartiest "Shukriya" to her for the effort :)
   - [Will Hatton](https://twitter.com/wandering_will?lang=en) who is more known in the world as the guy behind [The Broke Backpacker](http://www.thebrokebackpacker.com). He has done a backpacking trip to Pakistan and described it in his words, "I thanked my lucky stars for taking a chance on Pakistan; this country is the most incredible place I have ever been." He was kind enough to write about [10 reasons to travel to Pakistan](http://www.thebrokebackpacker.com/travel-to-pakistan/). You can follow his adventures on [facebook page](https://www.facebook.com/thebrokebackpacker/).
+  - [Clara Arrighi](https://www.facebook.com/clara.arrighi) visited Pakistan on an official trip and stayed 7 months in 2016. She described her experience in a [Facebook post](https://www.facebook.com/photo.php?fbid=10154049837213152&set=a.10151649891908152.1073741826.551518151&type=3) but the highlight were these amazing words: Luckily, someone also told me: "When you go to Pakistan you cry two times: when you are sent there and when you have to leave”. Seven months afterwards I indeed have cried two times.
 
 ### Social Media Accounts To Follow
 
