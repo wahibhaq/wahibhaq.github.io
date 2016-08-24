@@ -19,7 +19,7 @@ I completed <strong>BSc. Information and Communication Systems Engingeering</str
 
 <p class="about-text">
 <span class="fa fa-paper-plane about-icon"></span>
-I am a curious learner and passionate about things around Mobile, Technology, Startups and Life in general. All hobby projects or the proverbial itch that needs scratching would go in <a href="http://wahibhaq.com/projects">projects</a> section. I'm an avid reader, easy-to-go guy, a foodie (I come from the lands of exotic food) and a lazy social activist. In my free time, I love travelling, doing sports, hanging out with friends or watching a good movie at home.
+I am a curious learner and passionate about things around Software, Tech Startups, History and Life in general. I'm an avid reader, easy-to-go guy, a foodie (I come from the lands of exotic food) and a lazy social activist. In my free time, I love travelling, doing sports, hanging out with friends or watching a good movie at home. All hobby projects or the proverbial itch that needs scratching would go in <a href="http://wahibhaq.com/projects">projects</a> section.
 </p>
 
 <p class="about-text">
