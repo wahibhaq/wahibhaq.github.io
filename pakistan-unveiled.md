@@ -47,12 +47,17 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Pakistan Travel Guide](http://www.pakistantravelguide.pk/tours/)
   - [MashabrumClub](http://mashabrumclub.pk)
   - [Pakistan Tour and Travel](http://pakistantourntravel.com)
+  - [Silent Traveler](https://web.facebook.com/thesilenttraveler)
 
 ### Instruction Manual for Foreign Tourists
 
   - [Backpacking Pakistan - Travel Guide](http://www.thebrokebackpacker.com/pakistan-travel-ultimate-backpacker-guide/) is  a very useful article for foreigners who are planning a trip to Pakistan. It shares some really useful information about the challenges like visa, border crossing and how to cope with security forces. It also outlines famous spots for adventurers and tourists alike to visit and make the best out of their trip.
   - [Carvanistan](http://caravanistan.com/) have compiled vital information about [visa application](http://caravanistan.com/visa/pakistan/) for Pakistan, [border-crossings](http://caravanistan.com/border-crossings/pakistan/).
   - [Pakistan Outdoor Map](https://www.google.com/maps/d/u/0/viewer?shorturl=1&mid=1OYoE9yY-Kpu3Dmm5EOimPE_n0ew) can be used to find Lakes, Peaks, Waterfalls, Hill Stations, Forts, Parks, Hotel & Resorts by using left panel on the map. 
+
+### Quality Travelogues with detailed plan
+
+  - [Silent Traveler](http://thesilenttraveler.com) is created and managed by Sher Ali Saafi as his personal travelogue where he shares his travel experiences. You can also checkout his [facebook page](https://web.facebook.com/thesilenttraveler).
 
 ### International Tourists who visited Pakistan
 
