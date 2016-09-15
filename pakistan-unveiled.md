@@ -32,6 +32,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Global Perspective](http://globalperspect.com/all-about-pakistan/) : A nice initiative of presenting collection of documentaries and pictures to promotes culture and tourism in Pakistan. 
   - [Ho Jao Aazad](https://www.youtube.com/watch?v=V-VJki-Bbyc) : This is actually not a documentary but a music video by super talented [Zoe Viccaji](https://twitter.com/Zoeviccaji) and shot brilliantly. I thought about mentioning it because it shows a lot of famous touristic landmarks in Northern Pakistan. I am damn sure those places look more beautiful than shown in this video. 
   - This timelapse [video](https://www.facebook.com/Moojoz/videos/1546229875674566/?hc_ref=NEWSFEED) is a gift for the lovers of Hunza Valley & Nanga Parbat. It took almost a year for the photographers from [Moojoz](https://www.facebook.com/Moojoz/?hc_ref=NEWSFEED) to capture content for this video. 
+  - Checkout this [video](https://www.facebook.com/mangobaaz/videos/547716132057429/?hc_ref=NEWSFEED) to find out 17 gorgeous places that are NOT in the North of Pakistan.
 
 ### Collection of Breathtaking Photos 
 
