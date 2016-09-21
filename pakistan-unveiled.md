@@ -40,6 +40,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 
 ### Agencies/Portals to help you in planning trips
 
+  - [The Karakoram Club](https://web.facebook.com/groups/thekarakoramclub/?ref=nf_target&fref=nf) : This facebook group acts as a one stop platform for travel enthusiasts in Pakistan.
   - [Tripkar Tours](http://tripkar.com/tours/) 
   - [TACTACK](https://www.facebook.com/tactackgear/) 
   - [Lets Go To Pakistan](https://www.facebook.com/LetsGoToPakistan/)
