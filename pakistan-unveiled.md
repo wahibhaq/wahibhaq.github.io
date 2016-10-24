@@ -19,6 +19,10 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 # Tourism : Visit Pakistan
 ---
 
+### New Offers for International Tourists
+
+ - The guys from [The Broke Backpacker](http://www.thebrokebackpacker.com/) are planning a small operation with a focus on cultural experiences and real, off-the beaten path, adventures. They will take a group of International tourists to Pakistan in [September 2017](http://www.thebrokebackpacker.com/broke-backpacker-adventure-tours/). If you are interested than you should checkout the details of the trip in this [document](https://www.dropbox.com/s/nh3ca2j4rvr94oq/Incredible%20Pakistan%202017.pdf?dl=0).
+
 ### Travel Documentaries
 
   - [3 months. 100 sites. 220 seconds](https://www.facebook.com/itsagam/posts/10209048073138760) (Made by Agam Saran) : Come, be a part of a journey of a lifetime to celebrate life in a solo cross-country tour and live... all those dreams. 
@@ -73,6 +77,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Clara Arrighi](https://www.facebook.com/clara.arrighi) visited Pakistan on an official trip and stayed 7 months in 2016. She described her experience in a [Facebook post](https://www.facebook.com/photo.php?fbid=10154049837213152&set=a.10151649891908152.1073741826.551518151&type=3) but the highlight were these amazing words: Luckily, someone also told me: "When you go to Pakistan you cry two times: when you are sent there and when you have to leave”. Seven months afterwards I indeed have cried two times.
   - [11 Images That Will Change Your Perception About Pakistan](http://www.parhlo.com/11-images-that-will-change-your-perception-about-pakistan/?track=fb) : This article includes reference to several international travelors/photographers/mountaineers who visited Pakistan in 2015.
   - [Youth Outreach Ski Camp in Pakistan](http://www.sidetracked.com/ski-pakistan/) : Two Austrian ski guides (Andreas Gumpenberger and Stefan Ager), the photographer and filmmaker Jan Eric Euler, Mirza Ali and our very own mountaineer Samina Baig were behind this project. 
+  - [Matthieu Paley](http://paleyphoto.com/info/bio/) is a National Geographic photographer who has been visiting Northern Pakistan since 1999. He wrote this [article](http://news.nationalgeographic.com/2016/10/gojali-pakistan-islam/) describing how things changed in Passau in past 15 years. 
 
 ### Social Media Accounts To Follow
 
