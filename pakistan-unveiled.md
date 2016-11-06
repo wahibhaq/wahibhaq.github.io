@@ -54,6 +54,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [MashabrumClub](http://mashabrumclub.pk)
   - [Pakistan Tour and Travel](http://pakistantourntravel.com)
   - [Silent Traveler](https://web.facebook.com/thesilenttraveler)
+  - [Climax Adventure Pakistan](https://www.facebook.com/climaxadventurepk/)
 
 ### Instruction Manual for Foreign Tourists
 
