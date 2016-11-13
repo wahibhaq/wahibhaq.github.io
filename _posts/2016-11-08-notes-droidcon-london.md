@@ -126,11 +126,33 @@ This is just a small effort to transform my handwritten notes to a blog post. Th
 
 ---
 
-On a personal level, I felt previleged to represent [Freeletics](www.freeletics.com) as it was my first experience of a mainstream Android conference. The talks and the discussions with other attendees were very information and enlightening. Last but not the least, the highlight was my 1st experience of London and something I could finally check off my bucket list :) 
+On a personal level, I felt previleged to represent [Freeletics](www.freeletics.com) as it was my first experience of a mainstream Android conference. We also managed to get our first official tshirts (they're pretty cool!!) designed and printed well on time. The talks and the discussions with other attendees were very informative and enlightening. I finally managed to listen a live talk from [Jack Wharton](https://twitter.com/jakewharto), Woo hoo!! Last but not the least, the highlight was my 1st experience of London and something I could finally check off my bucket list :) 
 
 These are few memorable pictures with the my team members.
-
-
+<br><br>
+**Groopic at Freeletics HQ**
+<br>
+![Groopic at Freeletics HQ](https://github.com/wahibhaq/wahibhaq.github.io/blob/master/img/blog/posts/droidcon-london-2016/group-pic-with-tshirts.jpg)
+<br><br><br>
+**This was for a Contest which I didn't win :/**
+<br>
+![This was for a Contest which I didn't won :/](https://github.com/wahibhaq/wahibhaq.github.io/blob/master/img/blog/posts/droidcon-london-2016/fighting-for-prize.jpg)
+<br><br><br>
+**Random Selfie**
+<br>
+![Random Selfie](https://github.com/wahibhaq/wahibhaq.github.io/blob/master/img/blog/posts/droidcon-london-2016/selfie-1.jpg)
+<br><br><br>
+**Coz I like Collages**
+<br>
+![Coz I like Collages](https://github.com/wahibhaq/wahibhaq.github.io/blob/master/img/blog/posts/droidcon-london-2016/collage.jpg)
+<br><br><br>
+**Make Love Not War**
+<br>
+![Message of Love](https://github.com/wahibhaq/wahibhaq.github.io/blob/master/img/blog/posts/droidcon-london-2016/apple-android-love.jpg)
+<br><br><br>
+**We all have been there, right?**
+<br>
+![Takeaway for all of us!](https://github.com/wahibhaq/wahibhaq.github.io/blob/master/img/blog/posts/droidcon-london-2016/code-suck-slide.jpg)
 
 
 
