@@ -136,23 +136,23 @@ These are few memorable pictures with the my team members.
 <br><br><br>
 **This was for a Contest which I didn't win :/**
 <br>
-![This was for a Contest which I didn't won :/](../img/blog/posts/droidcon-london-2016/fighting-for-prize.jpg)
+![This was for a Contest which I didn't won :/](http://wahibhaq.com/img/blog/posts/droidcon-london-2016/fighting-for-prize.jpg)
 <br><br><br>
 **Random Selfie**
 <br>
-![Random Selfie](../img/blog/posts/droidcon-london-2016/selfie-1.jpg)
+![Random Selfie](http://wahibhaq.com/img/blog/posts/droidcon-london-2016/selfie-1.jpg)
 <br><br><br>
 **Coz I like Collages**
 <br>
-![Coz I like Collages](../img/blog/posts/droidcon-london-2016/collage.jpg)
+![Coz I like Collages](http://wahibhaq.com/img/blog/posts/droidcon-london-2016/collage.jpg)
 <br><br><br>
 **Make Love Not War**
 <br>
-![Message of Love](../img/blog/posts/droidcon-london-2016/apple-android-love.jpg)
+![Message of Love](http://wahibhaq.com/img/blog/posts/droidcon-london-2016/apple-android-love.jpg)
 <br><br><br>
 **We all have been there, right?**
 <br>
-![Takeaway for all of us!](../img/blog/posts/droidcon-london-2016/code-suck-slide.jpg)
+![Takeaway for all of us!](http://wahibhaq.com/img/blog/posts/droidcon-london-2016/code-suck-slide.jpg)
 
 
 
