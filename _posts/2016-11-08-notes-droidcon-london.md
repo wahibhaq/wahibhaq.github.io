@@ -128,7 +128,7 @@ This is just a small effort to transform my handwritten notes to a blog post. Th
 
 On a personal level, I felt previleged to represent [Freeletics](www.freeletics.com) as it was my first experience of a mainstream Android conference. We also managed to get our first official tshirts (they're pretty cool!!) designed and printed well on time. The talks and the discussions with other attendees were very informative and enlightening. I finally managed to listen a live talk from [Jack Wharton](https://twitter.com/jakewharto), Woo hoo!! Last but not the least, the highlight was my 1st experience of London and something I could finally check off my bucket list :) 
 
-These are few memorable pictures with the my team members.
+These are few memorable pictures with team members.
 <br><br>
 **Groopic at Freeletics HQ**
 <br>
