@@ -132,7 +132,7 @@ These are few memorable pictures with the my team members.
 <br><br>
 **Groopic at Freeletics HQ**
 <br>
-![Groopic at Freeletics HQ](/img/blog/posts/droidcon-london-2016/group-pic-with-tshirts.jpg)
+![Groopic at Freeletics HQ](http://wahibhaq.com/img/blog/posts/droidcon-london-2016/group-pic-with-tshirts.jpg)
 <br><br><br>
 **This was for a Contest which I didn't win :/**
 <br>
