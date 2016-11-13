@@ -118,10 +118,10 @@ This is just a small effort to transform my handwritten notes to a blog post. Th
 	- Prefix the Palette
 - Naming Convention Tips for Styles
 	- Avoid Custom Components and use AppCompat
-	- Recommended Read for [Theming with AppCompat](https://medium.com/google-developers/theming-with-appcompat-1a292b754b35#.yrnk65pw3) and Watch [Android themes & styles demystified - Google I/O 2016](https://www.youtube.com/watch?v=TIHXGwRTMWI) 
+	- Recommended reading of [Theming with AppCompat](https://medium.com/google-developers/theming-with-appcompat-1a292b754b35#.yrnk65pw3) and Watch [Android themes & styles demystified - Google I/O 2016](https://www.youtube.com/watch?v=TIHXGwRTMWI) 
 	- Avoid **Layout_*** attributes
 	- Prefix theme styles
-- Create a Pattern Library -> Recommended read of [Atomic Design book](http://atomicdesign.bradfrost.com/table-of-contents/)
+- Create a Pattern Library -> Recommended reading of [Atomic Design book](http://atomicdesign.bradfrost.com/table-of-contents/)
 
 
 ---
