@@ -65,6 +65,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 ### Quality Travelogues with detailed plan
 
   - [Silent Traveler](http://thesilenttraveler.com) is created and managed by Sher Ali Saafi as his personal travelogue where he shares his travel experiences. You can also checkout his [facebook page](https://web.facebook.com/thesilenttraveler).
+  - [FFK Travel Blog](http://fehmeedakhan.com/travel-blog/) shares a lot of valuable information about guides, travel ideas, detailed plans and informations on what to visit in Pakistan. 
 
 ### International Tourists who visited Pakistan
 
