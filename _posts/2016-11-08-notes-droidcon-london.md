@@ -9,8 +9,6 @@ published: true
 
 <br>
 
-# Droidcon London 2016 
----
 
 This is just a small effort to transform my handwritten notes to a blog post. They are just important points, tips and things which I noted for myself to be explored later. For the talks whose videos are already published, I have made the title as hyperlink so that you can watch directly. For rest, you can explore yourself [here](http://uk.droidcon.com/#program).
 
@@ -128,7 +126,7 @@ This is just a small effort to transform my handwritten notes to a blog post. Th
 
 ---
 
-On a personal level, I felt previleged to represent [Freeletics](www.freeletics.com) as it was my first experience of a mainstream Android conference. The talks and the discussions with other attendees were very information and enlightening. I substantially increased number of android devs I follow on twitter. Last but not the least, the highlight was my 1st experience of London and something I could finally check off my bucket list :) 
+On a personal level, I felt previleged to represent [Freeletics](www.freeletics.com) as it was my first experience of a mainstream Android conference. The talks and the discussions with other attendees were very information and enlightening. Last but not the least, the highlight was my 1st experience of London and something I could finally check off my bucket list :) 
 
 These are few memorable pictures with the my team members.
 
