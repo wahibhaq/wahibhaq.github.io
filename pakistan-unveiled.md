@@ -80,6 +80,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [11 Images That Will Change Your Perception About Pakistan](http://www.parhlo.com/11-images-that-will-change-your-perception-about-pakistan/?track=fb) : This article includes reference to several international travelors/photographers/mountaineers who visited Pakistan in 2015.
   - [Youth Outreach Ski Camp in Pakistan](http://www.sidetracked.com/ski-pakistan/) : Two Austrian ski guides (Andreas Gumpenberger and Stefan Ager), the photographer and filmmaker Jan Eric Euler, Mirza Ali and our very own mountaineer Samina Baig were behind this project. 
   - [Matthieu Paley](http://paleyphoto.com/info/bio/) is a National Geographic photographer who has been visiting Northern Pakistan since 1999. He wrote this [article](http://news.nationalgeographic.com/2016/10/gojali-pakistan-islam/) describing how things changed in Passau in past 15 years. 
+  - [Will Meara](https://www.facebook.com/william.meara?hc_ref=NEWSFEED&fref=nf) visited Pakistan in Oct-Nov 2016 and loved every bit of it. He wrote a very moving post titled ["7 reasons why Pakistan needs to be your next holiday destination"](http://readyforroad.com/7-reasons-why-pakistan-needs-to-be-your-next-holiday-destination/) sharing his most rewarding travel experience ever. 
 
 ### Social Media Accounts To Follow
 
