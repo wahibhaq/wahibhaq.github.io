@@ -89,6 +89,13 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 
 <br>
 
+# Positive Vibes
+---
+
+### Platforms/Organizations
+
+- [Mera Passion Pakistan](http://merapassionpakistan.org) : MPP ultimately aspires to become a platform where all the well-wishers of the country can come together and become harbingers of hope, optimism and change. 
+
 # Music 
 ---
 
