@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Compiled Android Interview Questions  
+title: Compiled Java & Android Interview Questions  
 tags: [android, professional, hiring, interview, development]  
 fb-img: http://d287f0h5fel5hu.cloudfront.net/blog/wp-content/uploads/2014/02/Android-Interview-Questions.jpg
 published: true
@@ -141,6 +141,44 @@ We all know, the struggle is very real!
 * boolean is a java primitive type whereas Boolean is an object/reference type that wraps a boolean.
 * Read about *Boxing* and *Unboxing*
 * When can a Boolean be appropriately used? Read Lazy Loading.
+
+&nbsp;
+
+### Give an example where lines of code compile without errors but give a runtime exception. (Reference to logical error)
+<br>
+**Hints:**
+
+
+		Object[] objArr = new String[10]; 
+		objArr[0] = new Long(0L); // compiles; fails at runtime with ArrayStoreException
+
+
+* In our example the array store check will fail because we are trying to add a Long to an array of String. Failure of the array store check is reported by means of a ArrayStoreException.
+* Read [here](http://www.angelikalanger.com/GenericsFAQ/FAQSections/ParameterizedTypes.html#FAQ102) for more details.
+
+&nbsp;
+
+### Will this function work?
+<br>
+
+
+		void printAll(ArrayList<Object> c) { 
+		  for (Object o : c)  
+			System.out.println(o); 
+		}
+
+
+		ArrayList<String> list = new ArrayList<String>(); 
+		//fill list
+		printAll(list);   // what will happen?
+
+<br>
+**Hints:**
+
+* printAll(list) will give error. 
+* Why? An ```ArrayList<String>``` object cannot be passed as argument to a method that asks for a ```ArrayList<Object>``` because the two types are instantiations of the same generic type, but for different type arguments, and for this reason they are not compatible with each other. 
+* They are non-covariant. 
+* Read [here](http://www.angelikalanger.com/GenericsFAQ/FAQSections/ParameterizedTypes.html#FAQ102) for more details.
 
 
 &nbsp;
@@ -344,6 +382,16 @@ P.S : Be prepared to explain the usecase of the ones you mention and technical q
 * I have listed few of the most famous ones [here](https://github.com/wahibhaq/ultimate-resources-android-devs/blob/master/README.md#regular-updates-banter--articles).
 * If you were not serious about it then maybe you should.
 
+&nbsp;
+
+### What is Pure Java? Do you think Java used in Android is "Pure"? If yes, why? 
+<br>
+**Hints:**
+
+* 100% Pure Java code is code that conforms to the Java ideal of universal portability. Writing an application that doesn't exploit operating system/platform specific features is a great start, but you also have to write the code in a platform neutral way. 
+*  It’s the changes to the Bytecode during conversion that makes the Java written for Android less “pure”. Another way Android diverges from Java is with the availability of standard libraries. Android offers a subset of what Java provides, and what it does provide is only for Android.
+
+&nbsp;
 
 &nbsp;
 
