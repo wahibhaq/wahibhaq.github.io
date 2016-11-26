@@ -13,6 +13,8 @@ I have been through a major Job search saga for Android Developer position in Ge
 
 I would like to re-iterate that I applied for mid-level Android Dev position so questions included are all related to Java and Android domain. I am not an expert (not yet!) and if you find any mistake or misinformation then I'll be thankful for your feedback. More importantly, it's practically impossible to cover all potential topics/questions so just sharing those which I can remember while writing this post. Android is just like any other form of technology, it is always evolving and adjusting to meet the demands :)
 
+**P.S: I'll update this post time to time as soon as I stumble upon something I find worthy of being a good interview question :)**
+
 &nbsp;
 
 ![struggle-meme](https://cdn.meme.am/instances/57217525.jpg)<br>
@@ -159,8 +161,6 @@ We all know, the struggle is very real!
 &nbsp;
 
 ### Will this function work?
-<br>
-
 
 		void printAll(ArrayList<Object> c) { 
 		  for (Object o : c)  
@@ -384,7 +384,7 @@ P.S : Be prepared to explain the usecase of the ones you mention and technical q
 
 &nbsp;
 
-### What is Pure Java? Do you think Java used in Android is "Pure"? If yes, why? 
+### What is Pure Java? Do you think Java used in Android is "Pure"? If No, why? 
 <br>
 **Hints:**
 
