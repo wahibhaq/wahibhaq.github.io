@@ -180,6 +180,20 @@ We all know, the struggle is very real!
 * They are non-covariant. 
 * Read [here](http://www.angelikalanger.com/GenericsFAQ/FAQSections/ParameterizedTypes.html#FAQ102) for more details.
 
+&nsbp;
+
+### What are different types of references in Java?
+<br>
+**Hints:**
+
+* A reference is the direction of an object that is annotated, so you can access it. Java has by default 4 types of references: strong, soft, weak and phantom.
+* Strong reference: Anytime we create a new object, a strong reference is by default created. It will prevent the Garbage Collector of picking it up and destroy it, which is what we mostly want. 
+* Weak reference: a weak reference is a reference not strong enough to keep the object in memory. It is quite important to be used in order to avoid memory leak.
+* Soft reference: think of a SoftReference as a stronger WeakReference. Whereas a WeakReference will be collected immediately, a SoftReference will beg to the GC to stay in memory unless there is no other option. This makes a SoftReference very useful for the implementation of a cache
+* Phantom reference: An Object that has only being referenced through a PhantomReference them can be collected whenever the Garbage Collector wants. No further explanations, no “call me back”. This makes it hard to characterise.
+
+&nbsp;
+
 
 &nbsp;
 
