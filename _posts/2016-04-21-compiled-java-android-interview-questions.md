@@ -143,6 +143,7 @@ We all know, the struggle is very real!
 * boolean is a java primitive type whereas Boolean is an object/reference type that wraps a boolean.
 * Read about *Boxing* and *Unboxing*
 * When can a Boolean be appropriately used? Read Lazy Loading.
+* When the field will be initialized with its default value (this will typically be a null value for Boolean type or false if the object is a boolean type).
 
 &nbsp;
 
