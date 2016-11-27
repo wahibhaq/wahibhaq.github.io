@@ -393,6 +393,20 @@ P.S : Be prepared to explain the usecase of the ones you mention and technical q
 
 &nbsp;
 
+### Briefly describe flow of events in View lifecycle and importance of each event and also when to use invalidate()/requestLayout()?
+<br>
+**Hints:**
+
+* See the diagram [here](http://1.bp.blogspot.com/-9UCoqk4eOYs/UXOXi4Gqy5I/AAAAAAAAAG4/A8z6ociZjPY/s640/android.png) & this [article](https://medium.com/@romandanylyk96/android-draw-a-custom-view-ef79fe2ff54b#.3e8jil12i) which I am using as source for answers.
+* Constructor: is a great opportunity to prepare it for initial drawing, making various calculation, setting default values or whatever we need.
+* onAttachedToWindow: If your view is working with user’s other views located in same layout.xml it is good place to find them by id (which you can set by attributes) and save as global (if needed) reference.
+* onMeasure: Means that our custom view is on stage to find out it’s own size. It’s very important method, as for most cases you will need your view to have specific size to fit in your layout.
+* onLayout: This method is assigning a size and position to each of its children.
+* onDraw: A Canvas instance comes as onDraw parameter, it basicly respond for drawing a different shapes, while Paint object defines that color that shape will get. 
+* invalidate() method is used to simply redrawing view. While your view for example updates its text, color or touch interactivity. requestLayout() method, as you can see will produce view update through its lifecycle just from onMeasure() method. And what it means that you will need it while after your view updates, it changed it’s size and you need to measure it once again to draw it depending on new size.
+
+&nbsp;
+
 &nbsp;
 
 * * *
