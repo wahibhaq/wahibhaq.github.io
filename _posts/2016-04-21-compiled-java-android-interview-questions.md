@@ -422,6 +422,16 @@ P.S : Be prepared to explain the usecase of the ones you mention and technical q
 
 &nbsp;
 
+### How can we test 'deterministically' about our app behavior when we know Android framework may destroy activity any time due to any reason (out of memory and so on)?
+<br>
+**Hints:**
+
+* Enable "Don't keep Activities" option in *Developer Option*. 
+* This option simply changes the framework's behavior so it will always destroy your activity when it goes into the background or backstack. This allows you to test how your activity responds to what is normally a rare occurrence.
+* As a recommended practise, it's better to habitually leave "don't keep activities" turned on all the time.
+
+&nbsp;
+
 &nbsp;
 
 * * *
