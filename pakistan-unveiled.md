@@ -45,6 +45,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 ### Agencies/Portals to help you in planning trips
 
   - [The Karakoram Club](https://web.facebook.com/groups/thekarakoramclub/?ref=nf_target&fref=nf) : This facebook group acts as a one stop platform for travel enthusiasts in Pakistan.
+  - [K2 Kings Tourist Association of Pakistan](http://k2ktourists.com/) : This is a group of bikers who like to receive travelers, for pure entertainment, advise and help them with a sole intention of giving a good impression of Pakistan. It is completely non-profit and are very nice people.
   - [Tripkar Tours](http://tripkar.com/tours/) 
   - [TACTACK](https://www.facebook.com/tactackgear/) 
   - [Lets Go To Pakistan](https://www.facebook.com/LetsGoToPakistan/)
@@ -61,6 +62,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Backpacking Pakistan - Travel Guide](http://www.thebrokebackpacker.com/pakistan-travel-ultimate-backpacker-guide/) is  a very useful article for foreigners who are planning a trip to Pakistan. It shares some really useful information about the challenges like visa, border crossing and how to cope with security forces. It also outlines famous spots for adventurers and tourists alike to visit and make the best out of their trip.
   - [Carvanistan](http://caravanistan.com/) have compiled vital information about [visa application](http://caravanistan.com/visa/pakistan/) for Pakistan, [border-crossings](http://caravanistan.com/border-crossings/pakistan/).
   - [Pakistan Outdoor Map](https://www.google.com/maps/d/u/0/viewer?shorturl=1&mid=1OYoE9yY-Kpu3Dmm5EOimPE_n0ew) can be used to find Lakes, Peaks, Waterfalls, Hill Stations, Forts, Parks, Hotel & Resorts by using left panel on the map. 
+  - Tati, a Spanish travelor who stayed in Pakistan for 45 days during September and October 2016 write a [Guide](http://www.caminandoporelglobo.com/2016/11/guia-completa-viajar-pakistan/) which gives a nice perspective of Do's & Dont's from a foreigner perspective. She covered topics like Security, Society, Clothing, Food, Visa, How to Reach, Lodging, Transportation and Budget. Only problem is that she wrote in Spanish but I'm sure it's easy to translate :)
 
 ### Quality Travelogues with detailed plan
 
@@ -81,6 +83,8 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Youth Outreach Ski Camp in Pakistan](http://www.sidetracked.com/ski-pakistan/) : Two Austrian ski guides (Andreas Gumpenberger and Stefan Ager), the photographer and filmmaker Jan Eric Euler, Mirza Ali and our very own mountaineer Samina Baig were behind this project. 
   - [Matthieu Paley](http://paleyphoto.com/info/bio/) is a National Geographic photographer who has been visiting Northern Pakistan since 1999. He wrote this [article](http://news.nationalgeographic.com/2016/10/gojali-pakistan-islam/) describing how things changed in Passau in past 15 years. 
   - [Will Meara](https://www.facebook.com/william.meara?hc_ref=NEWSFEED&fref=nf) visited Pakistan in Oct-Nov 2016 and loved every bit of it. He wrote a very moving post titled ["7 reasons why Pakistan needs to be your next holiday destination"](http://readyforroad.com/7-reasons-why-pakistan-needs-to-be-your-next-holiday-destination/) sharing his most rewarding travel experience ever. 
+  - [Petr Jan Juračka](http://petr.juracka.eu), a Czech scientist at Charles University of Prague and an amateur photographer travelled to Pakistan to break the world record in altitude photography. On June 30, 2016, Petr flew his drone at the altitude of 6,334 metres above sea level on K2’s Camp One for three minutes under freezing conditions — a likely world record and the [video](https://www.youtube.com/watch?v=P4ISPYddSzY) is just breathtaking. 
+  - Tati, a Spanish Adventurer stayed 45 days in Pakistan and travelled from South to North in September and October 2016. She wrote a very comprehensive [guide](http://www.caminandoporelglobo.com/2016/11/guia-completa-viajar-pakistan/) based on her wonderful experience and shared details ranging from society, safety, clothing to food and [visa procedure](http://www.caminandoporelglobo.com/2016/11/visa-viajar-pakistan/). In her own words, Pakistan is a country that will put your travel rod too high, because you can not help but compare every country with it and still you'll keep it in a special place in your heart.
 
 ### Social Media Accounts To Follow
 
