@@ -63,6 +63,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Carvanistan](http://caravanistan.com/) have compiled vital information about [visa application](http://caravanistan.com/visa/pakistan/) for Pakistan, [border-crossings](http://caravanistan.com/border-crossings/pakistan/).
   - [Pakistan Outdoor Map](https://www.google.com/maps/d/u/0/viewer?shorturl=1&mid=1OYoE9yY-Kpu3Dmm5EOimPE_n0ew) can be used to find Lakes, Peaks, Waterfalls, Hill Stations, Forts, Parks, Hotel & Resorts by using left panel on the map. 
   - Tati, a Spanish travelor who stayed in Pakistan for 45 days during September and October 2016 write a [Guide](http://www.caminandoporelglobo.com/2016/11/guia-completa-viajar-pakistan/) which gives a nice perspective of Do's & Dont's from a foreigner perspective. She covered topics like Security, Society, Clothing, Food, Visa, How to Reach, Lodging, Transportation and Budget. Only problem is that she wrote in Spanish but I'm sure it's easy to translate :)
+  - These [tips](http://www.parhlo.com/tips-to-travel-in-pakistan/), if followed, will result in an enhanced experience while you travel from one location to another. You will enter the field prepared and ready to take on any challenge that the travel in Pakistan can throw your way!
 
 ### Quality Travelogues with detailed plan
 
