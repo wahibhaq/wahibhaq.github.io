@@ -195,6 +195,33 @@ We all know, the struggle is very real!
 
 &nbsp;
 
+### What's the impact of `final` keyword in this code?
+
+		import java.util.ArrayList;
+		import java.util.List;
+
+		class Test {
+		    private final List foo;
+
+		    public Test() {
+			foo = new ArrayList();
+			foo.add("foo");
+		    }
+
+		    public void setFoo(List foo) {
+		       this.foo = foo; 
+		    }
+		}
+<br>
+**Hints:**
+
+* With this question, interviewer tries to find out how well you understand the behavior of objects with respect to constructors, methods, class variables (static variables) and instance variables.
+* You are always allowed to initialize a final variable. The compiler makes sure that you can do it only once.
+* `final` is only about the reference itself, and not about the contents of the referenced object.
+* Source: https://stackoverflow.com/questions/15655012/how-final-keyword-works 
+
+&nbsp;
+
 
 &nbsp;
 
