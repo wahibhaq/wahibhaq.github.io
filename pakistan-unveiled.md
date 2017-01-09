@@ -37,6 +37,8 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Ho Jao Aazad](https://www.youtube.com/watch?v=V-VJki-Bbyc) : This is actually not a documentary but a music video by super talented [Zoe Viccaji](https://twitter.com/Zoeviccaji) and shot brilliantly. I thought about mentioning it because it shows a lot of famous touristic landmarks in Northern Pakistan. I am damn sure those places look more beautiful than shown in this video. 
   - This timelapse [video](https://www.facebook.com/Moojoz/videos/1546229875674566/?hc_ref=NEWSFEED) is a gift for the lovers of Hunza Valley & Nanga Parbat. It took almost a year for the photographers from [Moojoz](https://www.facebook.com/Moojoz/?hc_ref=NEWSFEED) to capture content for this video. 
   - Checkout this [video](https://www.facebook.com/mangobaaz/videos/547716132057429/?hc_ref=NEWSFEED) to find out 17 gorgeous places that are NOT in the North of Pakistan.
+  - Megan Smith from [MeganoTravels](https://www.facebook.com/meganotravels1/) spent two weeks (Oct/Nov 2016) traveling about 3000 km in Pakistan (with [Travelore Adventures](https://www.facebook.com/TraveloreAdventures/?pnref=story)), discovering what it has to offer in beauty, culture, diversity, history, and religion. This is a [video](https://vimeo.com/198610026) which she compiled and shared on her facebook page
+
 
 ### Collection of Breathtaking Photos 
 
@@ -56,6 +58,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Pakistan Tour and Travel](http://pakistantourntravel.com)
   - [Silent Traveler](https://web.facebook.com/thesilenttraveler)
   - [Climax Adventure Pakistan](https://www.facebook.com/climaxadventurepk/)
+  - [TraveloreAdventures](https://www.facebook.com/TraveloreAdventures/)
 
 ### Instruction Manual for Foreign Tourists
 
@@ -87,6 +90,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Petr Jan Juračka](http://petr.juracka.eu), a Czech scientist at Charles University of Prague and an amateur photographer travelled to Pakistan to break the world record in altitude photography. On June 30, 2016, Petr flew his drone at the altitude of 6,334 metres above sea level on K2’s Camp One for three minutes under freezing conditions — a likely world record and the [video](https://www.youtube.com/watch?v=P4ISPYddSzY) is just breathtaking. 
   - Tati, a Spanish Adventurer stayed 45 days in Pakistan and travelled from South to North in September and October 2016. She wrote a very comprehensive [guide](http://www.caminandoporelglobo.com/2016/11/guia-completa-viajar-pakistan/) based on her wonderful experience and shared details ranging from society, safety, clothing to food and [visa procedure](http://www.caminandoporelglobo.com/2016/11/visa-viajar-pakistan/). In her own words, Pakistan is a country that will put your travel rod too high, because you can not help but compare every country with it and still you'll keep it in a special place in your heart.
   - Globetrotter Cassie de Pecol arrives in Karachi in pursuit of [Guinness World Record](http://www.msn.com/en-us/money/other/millennial-visits-180-countries-in-15-months/vp-AAkmzn6). The 27-year-old American was in Karachi on 14.12.16 for a bit of sightseeing as part of her daring journey to set a Guinness World Record of becoming the first female to travel to 196 countries of which Pakistan is 191st. It was covered by [Dawn](http://images.dawn.com/news/1176752/globetrotter-cassie-de-pecol-arrives-in-karachi-in-pursuit-of-guinness-world-record).
+  -  Megan Smith (American citizen) from [MeganoTravels](https://www.facebook.com/meganotravels1/) spent two weeks (Oct/Nov 2016) traveling about 3000 km in Pakistan (with [Travelore Adventures](https://www.facebook.com/TraveloreAdventures/?pnref=story)), discovering what it has to offer in beauty, culture, diversity, history, and religion. She shared a [video](https://vimeo.com/198610026) and also a [blog post](http://www.meganotravels.com/pakistans-real-truth/) about her experience. 
 
 ### Social Media Accounts To Follow
 
