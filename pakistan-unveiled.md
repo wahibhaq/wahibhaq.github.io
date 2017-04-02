@@ -59,6 +59,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Silent Traveler](https://web.facebook.com/thesilenttraveler)
   - [Climax Adventure Pakistan](https://www.facebook.com/climaxadventurepk/)
   - [TraveloreAdventures](https://www.facebook.com/TraveloreAdventures/)
+  - [Visit Swat](http://visitswat.org/)
 
 ### Instruction Manual for Foreign Tourists
 
