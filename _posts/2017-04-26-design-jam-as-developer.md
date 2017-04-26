@@ -21,3 +21,7 @@ Anyways coming back to event, it started with short intro about event and mandat
 
 
 We were are a team of 3 including the business guy from Allianz and designer from IDEO. Frankly, it was first time for me to create storyboards but it was fun. My core learning was about how differently engineers and designers perceive a solution and we definitely suck (quite a stereotype) at sketching :) 
+
+
+Slides link http://www.slidesnack.com/my-slidesnack/details/?slide=b7ul49nt 
+Download photos from Photos and see rachel tweets 
