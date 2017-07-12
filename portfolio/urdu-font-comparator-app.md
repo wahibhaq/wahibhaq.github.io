@@ -11,12 +11,20 @@ published: true
 
 *Note: The content published here is just a summarized version of complete study available on [Github repo page.](https://github.com/wahibhaq/urdu-font-comparator-app)*
 
+
 ## Description
 
 
-<img src="https://wahibhaq.github.io/img/projects/urdu-font-comparator-img.png" width="100" height="100" align="center"> 
+<img src="https://wahibhaq.github.io/img/projects/urdu-font-comparator-img.png" width="100" height="100" align="left"> 
 
-This project is about an Android application which offers following features: 
+
+This project is about an Android application (soon available on Google Play) which allows users to explore various Urdu Fonts, eventually helping them in choosing the right one. This project is additionally intended to make users appreciate why [Nasta'liq](https://en.wikipedia.org/wiki/Nasta%CA%BFl%C4%ABq_script) script should be a natural choice for Urdu content on mobile devices.
+
+<br>
+
+## Features
+
+The application offers following features: 
 
 * Explore various Urdu Fonts available and pick anyone of them
 * Visually see how sample text looks like in each font style
@@ -24,7 +32,7 @@ This project is about an Android application which offers following features:
 * Swipe the sample text area to switch fonts more conveniently
 * See details of each font which provides important pointers about that font
 * Give feedback via rating which eventually helps other users to get an idea of popular fonts
-* More importantly, see and appreciate why [Nasta'liq](https://en.wikipedia.org/wiki/Nasta%CA%BFl%C4%ABq_script) script should be a natural choice for Urdu content on mobile devices. 
+* More importantly, see and appreciate why [Nasta'liq](https://en.wikipedia.org/wiki/Nasta%CA%BFl%C4%ABq_script) script is better than [Naskh](https://en.wikipedia.org/wiki/Naskh_(script)) and should be a natural choice for Urdu content on mobile devices. 
 
 <br>
 
