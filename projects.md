@@ -3,12 +3,19 @@ layout: page
 title: Projects
 ---
 
-# In Progress
+# Near to Completion
 ---
 
-### Personal Website + Blog + Portfolio : [wahibhaq.com](http://wahibhaq.com)  
+### [Urdu Font Comparator App](http://wahibhaq.com/projects/urdu-font-comparator-app/)
 
-I have been planning to have my personal website for a long time and finally, it is getting executed. It is hosted using [Jekyll](https://jekyllrb.com) as a static site generator with [GitHub Pages](https://pages.github.com). I was looking for something which saves me effort of hosting and still get that feeling of 'geekiness' of customizing things by hand. After extensive research to chose the appropriate theme, I ended up using [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/) theme which is clean, elegant and serves the purpose. The website is hosted on _Github_ as a public repository (obviously!) and made my domain i.e [**wahibhaq.com**](http://wahibhaq.com) point to the _Github Pages_ site.
+This project is about an Android application (soon available on Google Play) which allows users to explore various Urdu Fonts, eventually helping them in choosing the right one. This project is additionally intended to make users appreciate why Nasta'liq script should be a natural choice for Urdu content on mobile devices. 
+
+It is a very personal project which I formally kicked off in Feb 2017. I was also super motivated because one of my 2017 New Year's goals was to develop my own Android app from scratch and get it published on Google Play. This idea seemed like a good way to achieve this goal. The The source code is also available as open-source on [GitHub](https://github.com/wahibhaq/urdu-font-comparator-app).
+
+<br> 
+
+# Always On-going
+---
 
 ### [Ultimate Resources for Android Developers](https://github.com/wahibhaq/ultimate-resources-android-devs)
 
@@ -19,6 +26,16 @@ Like any other developer, I explore, read and follow a lot of different resource
 
 # Completed
 ---
+
+### [Slack Community for Android Devs from Pakistan](androiddevs-pakistan.slack.com)
+
+I have created a [Slack community for Android Developers](androiddevs-pakistan.slack.com) exclusively for Pakistanis. Long story short, it's purpose is to provide a platform to devs in Pakistan to connect and discuss problems together. At the same time, it is also intended to help in knowledge transfer from experts working in International companies and researchers in foreign universities. After talking to fellow devs and graduating students, many of us have realized that there's a significant gap when it comes to care for "doing things the right way" and using latest tools and libraries. Experts working anywhere in the world can get a chance to help and groom those who are really interested to up their game.
+
+We have currently 50+ members and it's growing every week. If you are interested, you are more than welcome to join or otherwise at least do share this [invite page link](https://slack-androidpak-landingpage.herokuapp.com/) with the right people.
+
+### Personal Website + Blog + Portfolio : [wahibhaq.com](http://wahibhaq.com)  
+
+I have been planning to have my personal website for a long time and finally, it is getting executed. It is hosted using [Jekyll](https://jekyllrb.com) as a static site generator with [GitHub Pages](https://pages.github.com). I was looking for something which saves me effort of hosting and still get that feeling of 'geekiness' of customizing things by hand. After extensive research to chose the appropriate theme, I ended up using [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/) theme which is clean, elegant and serves the purpose. The website is hosted on _Github_ as a public repository (obviously!) and made my domain i.e [**wahibhaq.com**](http://wahibhaq.com) point to the _Github Pages_ site.
 
 ### Android Video Gallery  
     
