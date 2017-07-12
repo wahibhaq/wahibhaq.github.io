@@ -20,7 +20,7 @@ published: true
 
 This project is about an Android application (soon available on Google Play) which allows users to explore various Urdu Fonts, eventually helping them in choosing the right one. This project is additionally intended to make users appreciate why [Nasta'liq](https://en.wikipedia.org/wiki/Nasta%CA%BFl%C4%ABq_script) script should be a natural choice for Urdu content on mobile devices.
 
-<br>
+
 
 ## Features
 
