@@ -74,6 +74,10 @@ I believe limited use of proper font for Urdu language has over the years led ma
 
 I personally believe in order to make Google and other big players genuinely interested in doing their part, we first have to make them believe that Urdu as a language can no longer be ignored due to it’s use and reach. The more we start using and publishing mobile apps with Urdu content, the more it will get the deserving attention. Local IT industry and governing bodies can then push through various channels with more confidence and substance. 
 
+<br>
+
+Many people helped me in some way or another during this project and I'm thankful to all of them. I have tried to mention all of them in [Contributors list](urdu-font-comparator-app/Contributors.md);
+
 <br><br>
 
 *Continue reading on [Github repo page.](https://github.com/wahibhaq/urdu-font-comparator-app)*
