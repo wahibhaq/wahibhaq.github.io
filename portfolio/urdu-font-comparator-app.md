@@ -33,6 +33,7 @@ The application offers following features:
 * See details of each font which provides important pointers about that font
 * Give feedback via rating which eventually helps other users to get an idea of popular fonts
 * More importantly, see and appreciate why [Nasta'liq](https://en.wikipedia.org/wiki/Nasta%CA%BFl%C4%ABq_script) script is better than [Naskh](https://en.wikipedia.org/wiki/Naskh_(script)) and should be a natural choice for Urdu content on mobile devices. 
+* Application (at point of writing) includes 9 Fonts in total containing 6 from Nasta'liq, 2 from Naskh and 1 from Riqa script.
 
 <br>
 
@@ -70,7 +71,6 @@ By and large, Arabic today is written in [Naskh](https://en.wikipedia.org/wiki/N
 I believe limited use of proper font for Urdu language has over the years led many people to lose interest in reading Urdu on Internet. 
 
 ## Status of Nasta'liq support on Android
-
 
 I personally believe in order to make Google and other big players genuinely interested in doing their part, we first have to make them believe that Urdu as a language can no longer be ignored due to it’s use and reach. The more we start using and publishing mobile apps with Urdu content, the more it will get the deserving attention. Local IT industry and governing bodies can then push through various channels with more confidence and substance. 
 
