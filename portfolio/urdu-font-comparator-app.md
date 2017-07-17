@@ -42,9 +42,9 @@ The application offers following features:
 
 <br>
 
-<img src="https://wahibhaq.github.io/img/projects/urdu-app-screenshot-home.png" width="200" height="350" align="middle"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<img src="https://wahibhaq.github.io/img/projects/urdu-app-screenshot-home.png" width="200" height="350" align="middle"> &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://wahibhaq.github.io/img/projects/urdu-app-screenshot-picker.png" width="200" height="350" align="middle"> 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; 
 <img src="https://wahibhaq.github.io/img/projects/urdu-app-screenshot-font-info.png" width="200" height="350" align="middle">
 
 <br>
