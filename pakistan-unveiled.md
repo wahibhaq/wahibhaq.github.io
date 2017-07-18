@@ -19,9 +19,10 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 # Tourism : Visit Pakistan
 ---
 
-### New Offers for International Tourists
+### New Options for International Tourists
 
  - The guys from [The Broke Backpacker](http://www.thebrokebackpacker.com/) are planning a small operation with a focus on cultural experiences and real, off-the beaten path, adventures. They will take a group of International tourists to Pakistan in [September 2017](http://www.thebrokebackpacker.com/broke-backpacker-adventure-tours/). If you are interested than you should checkout the details of the trip in this [document](https://www.dropbox.com/s/nh3ca2j4rvr94oq/Incredible%20Pakistan%202017.pdf?dl=0).
+- Dawn has published a nice [article](https://www.dawn.com/news/1345531/travel-summers-here-five-treks-to-do-up-north) on the idea of **SUMMER’S HERE: FIVE TREKS TO DO UP NORTH**. Pakistan is a mountaineer’s paradise. This makes the possibility of the sheer variety of treks among these giants nearly endless. They’ve shortlisted five once-in-a-lifetime treks for you to take this summer, in order of difficulty. The main trekking and mountaineering season ends in September and so there is still time to head for an adventure in the north. 
 
 ### Travel Documentaries
 
