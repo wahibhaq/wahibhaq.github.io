@@ -82,7 +82,7 @@ I personally believe in order to make Google and other big players genuinely int
 
 <br>
 
-Many people helped me in some way or another during this project and I'm thankful to all of them. I have tried to mention all of them in [Contributors list](urdu-font-comparator-app/Contributors.md);
+Many people helped me in some way or another during this project and I'm thankful to all of them. I have tried to mention all of them in [Contributors list](urdu-font-comparator-app/CONTRIBUTORS.md);
 
 <br><br>
 
