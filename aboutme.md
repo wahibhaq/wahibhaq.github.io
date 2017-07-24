@@ -9,7 +9,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-I'm a programmer by choice, android enthusiast and takes keen interest in more than just the coding side of an app. I am currently working as an <strong>Android Developer</strong> at <img src="/img/icon-freeletics.ico" width="23" height="23"> <a href="http://freeletics.com" target="_blank">Freeletics</a> where I brew code into elixirs to help users become greater version of themselves. I first found my passion for <a href="https://developer.android.com/index.html" target="_blank">Android</a> whilst I was at university and have been working with it non-stop since – I find it an amazing platform. 
+I'm a programmer by choice, user experience enthusiast and takes keen interest in more than just the coding side of an app. I am currently working as an <strong>Android Developer</strong> at <img src="/img/icon-freeletics.ico" width="23" height="23"> <a href="http://freeletics.com" target="_blank">Freeletics</a> where I brew code into elixirs to help users become greater version of themselves. I first found my passion for <a href="https://developer.android.com/index.html" target="_blank">Android</a> whilst I was at university and have been working with it non-stop since – I find it an amazing platform. 
 </p>
 
 <p class="about-text">
@@ -19,7 +19,7 @@ I completed <strong>BSc. Information and Communication Systems Engingeering</str
 
 <p class="about-text">
 <span class="fa fa-paper-plane about-icon"></span>
-I am a curious learner and passionate about things around Software, Tech Startups, History and Life in general. I'm an avid reader, easy-to-go guy, a foodie (I come from the lands of exotic food) and a lazy social activist. In my free time, I love travelling, doing sports, hanging out with friends or watching a good movie at home. All hobby projects or the proverbial itch that needs scratching would go in <a href="http://wahibhaq.com/projects">projects</a> section.
+I am a curious learner and passionate about things around Software, ICT Innovation, World History and Life in general. I'm an avid reader, easy-to-go guy, a foodie (I come from the lands of exotic food) and a lazy social activist. In my free time, I love travelling, doing sports, hanging out with friends or watching a good movie at home. All hobby projects or the proverbial itch that needs scratching would go in <a href="http://wahibhaq.com/projects">projects</a> section.
 </p>
 
 <p class="about-text">
