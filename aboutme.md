@@ -9,7 +9,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-I am currently working as an <strong>Android Developer</strong> at <img src="/img/icon-freeletics.ico" width="23" height="23"> <a href="http://freeletics.com" target="_blank">Freeletics</a> where I brew code into elixirs to help users become greater version of themselves. I first found my passion for <a href="https://developer.android.com/index.html" target="_blank">Android</a> whilst I was at university and have been working with it non-stop since – I find it an amazing platform.
+I'm a programmer by choice, android enthusiast and takes keen interest in more than just the coding side of an app. I am currently working as an <strong>Android Developer</strong> at <img src="/img/icon-freeletics.ico" width="23" height="23"> <a href="http://freeletics.com" target="_blank">Freeletics</a> where I brew code into elixirs to help users become greater version of themselves. I first found my passion for <a href="https://developer.android.com/index.html" target="_blank">Android</a> whilst I was at university and have been working with it non-stop since – I find it an amazing platform. 
 </p>
 
 <p class="about-text">
