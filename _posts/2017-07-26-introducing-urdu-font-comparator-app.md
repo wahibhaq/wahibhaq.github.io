@@ -67,4 +67,4 @@ rate different fonts (this data will be helpful) and leave a review on Google Pl
 [README page](https://github.com/wahibhaq/urdu-font-comparator-app/blob/master/README.md)
 
 
-P.S: I know it's kind of ironic that I wrote this post in English while talking about Urdu but I hope you understand that I want it to be read by my Internatinal friends and followers. 
+P.S: I know it's kind of ironic that I wrote this post in English while talking about Urdu but I hope you understand that I also want it to be read by my Internatinal friends and followers. 
