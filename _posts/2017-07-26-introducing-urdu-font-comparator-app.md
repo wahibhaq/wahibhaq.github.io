@@ -6,6 +6,7 @@ fb-img: http://wahibhaq.github.io/img/projects/Urdu Banner_1.1.png
 published: true
 ---
 
+<br>
 
 > "If your life is not on a successful track, then ask yourself: Am I a consumer or a creator?"
  
@@ -49,22 +50,20 @@ available to use by everyone. It will help my portfolio but more importantly it 
 Android devs from Pakistan and maybe it also inspire others to make their work available as open-source. There's no much 
 point in keeping it private and then letting the project die or become obsolete. 
   
-I have been working on this research and the Android app since Feb 2017 and got the first version launched on July 24th,
-2017. Several people helped me out in this 6 month journey and all of them are mentioned 
-[here](https://github.com/wahibhaq/urdu-font-comparator-app/blob/master/CONTRIBUTORS.md) but more importantly
-it was genuine assistance from [Zeeshan](https://github.com/ZeeshanShabbir) who contributed approx. 1000 lines of code :)
+I have been working on this research and the Android app since Feb 2017 and got the first version launched on July 24th, 2017. So, overall, many people helped me in some way or another during this 6 month journey and I'm thankful to all of them. I have tried to mention all of them in [Contributors list](https://github.com/wahibhaq/urdu-font-comparator-app/blob/master/CONTRIBUTORS.md).
 
 I would really appreciate if you could:
 
-1) Share this post and specially with those who care about writing and publishing Urdu content. 
+1) Share this post on Facebook, Twitter, Linkedin and specially with those who care about writing and publishing Urdu content. 
 2) Install the app from [Google Play](https://play.google.com/store/apps/details?id=com.androidistan.urdufontcomparator), 
 rate different fonts (this data will be helpful) and leave a review on Google Play (check 'Rate this app' in top right menu)
 3) If you want to read or share the details of the study done, checkout 
-[Github repo page](https://github.com/wahibhaq/urdu-font-comparator-app)
+[README page](https://github.com/wahibhaq/urdu-font-comparator-app/blob/master/README.md)
  
 سلیقے سے ہواؤں میں جو خوشبو گھول سکتے ہیں
 
 ابھی کچھ لوگـ باقی ہیں جو اُردو بول سکتے ہیں
 
-P.S: I know it's kind of ironic that I wrote this post in English while talking about Urdu but I hope you understand that I want 
-it to be read by my Internatinal friends and followers. 
+<br>
+
+P.S: I know it's kind of ironic that I wrote this post in English while talking about Urdu but I hope you understand that I want it to be read by my Internatinal friends and followers. 
