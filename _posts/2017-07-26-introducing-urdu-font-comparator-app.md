@@ -2,7 +2,7 @@
 layout: post
 title: How I ended up working on "Urdu Font Comparator" Project
 tags: [android, urdu, font, pakistan, google play, open-source]  
-fb-img: http://wahibhaq.github.io/img/projects/Urdu Banner_1.1.png
+fb-img: http://wahibhaq.github.io/img/projects/Urdu_Banner_Cover.png
 published: true
 ---
 
@@ -23,22 +23,28 @@ and write messages except Pakistanis. We either use Roman Urdu or just plain Eng
 for me than embarrassing because no one cares about it anymore. I found my lost love and dignity once I started 
 using Urdu in text messages last year.
 
+<img src="https://i.imgur.com/9nw5ttS.png" width="500" height="200" align="middle">
+
+Credits: [Rekhta](https://rekhta.org/couplets/saliiqe-se-havaaon-men-jo-khushbuu-ghol-sakte-hain-unknown-couplets?lang=ur)
+
+
 [Dawn](https://www.dawn.com/news/1313737) published an article in Feb introducing [**Meher Nastaliq**](http://csalt.itu.edu.pk/urdufont/) 
 font developed by ITU’s Center for Speech 
 and Language Technologies ([CSaLT](http://csalt.itu.edu.pk/)) laboratory. Now, I was already aware that Urdu suffers big time
 when it comes to it's adoption on Web and even worse when it comes to Mobile devices. We can't even claim it to be a language 
 which has successfully integrated with what we know as "[Digital Age](https://en.wikipedia.org/wiki/Information_Age)" and 
 one of the many reasons is lack of an optimal font. We have actually many Urdu fonts but still not something of an optimal 
-size, quickly renderable, supports OTF and, more importantly,adheres to intricate Nastaliq style. I was so happy to know 
-that and wanted to just try out the font right away and this isexactly what I did. I created a new Android project, spent 
+size, quickly renderable, supports OTF and, more importantly, adheres to intricate Nastaliq style. I was so happy to know 
+that and wanted to just try out the font right away and this is exactly what I did. I created a new Android project, spent 
 next 30-40 mins and Voila! I could see it on my device and it looked beautiful. But then instantly I had a realization that
 not everyone can do what I did because it requires certain skills and knowledge whether for Web or Mobile. Also when I talked
 to couple of experts I knew, I found out that not many peole are even aware of their options and end up choosing a Naskh 
 font because they don't have enough exposure and understanding of its implications for the reader.
 
 This gave me enough motivation to build an application which will help anyone to visually see how different fonts
-look like, why Nastaleeq should be our natural preference over Naskh script, and eventually helping decision makers
-in choosing the best one.
+look like on a mobile device, why Nastaleeq should be our natural preference over Naskh script, and eventually helping decision makers in choosing the best one.
+
+<img src="http://wahibhaq.github.io/img/projects/Urdu_Banner_Cover.png" width="600" height="300" align="middle">
 
 Later, when I actually started my research I found out that it's so freaking difficult to even gather latest 
 information on the related topics because either not many people have written or this information is all scattered. 
@@ -54,16 +60,11 @@ I have been working on this research and the Android app since Feb 2017 and got 
 
 I would really appreciate if you could:
 
-1) Share this post on Facebook, Twitter, Linkedin and specially with those who care about writing and publishing Urdu content. 
-2) Install the app from [Google Play](https://play.google.com/store/apps/details?id=com.androidistan.urdufontcomparator), 
+1. Share this post on Facebook, Twitter, Linkedin and specially with those who care about writing and publishing Urdu content. 
+2. Install the app from [Google Play](https://play.google.com/store/apps/details?id=com.androidistan.urdufontcomparator), 
 rate different fonts (this data will be helpful) and leave a review on Google Play (check 'Rate this app' in top right menu)
-3) If you want to read or share the details of the study done, checkout 
+3. If you want to read or share the details of the study done, checkout 
 [README page](https://github.com/wahibhaq/urdu-font-comparator-app/blob/master/README.md)
- 
-سلیقے سے ہواؤں میں جو خوشبو گھول سکتے ہیں
 
-ابھی کچھ لوگـ باقی ہیں جو اُردو بول سکتے ہیں
-
-<br>
 
 P.S: I know it's kind of ironic that I wrote this post in English while talking about Urdu but I hope you understand that I want it to be read by my Internatinal friends and followers. 
