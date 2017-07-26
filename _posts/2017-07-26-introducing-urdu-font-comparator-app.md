@@ -69,7 +69,7 @@ I have been working on this research and the Android app since Feb 2017 and got 
 
 I would really appreciate if you could:
 
-1. Share this post on Facebook, Twitter, Linkedin and specially with those who care about writing and publishing Urdu content. 
+1. Share this post on Facebook, Twitter, LinkedIn and specially with those who care about writing and publishing Urdu content. 
 2. Install the app from [Google Play](https://play.google.com/store/apps/details?id=com.androidistan.urdufontcomparator), 
 rate different fonts (this data will be helpful) and leave a review on Google Play (check 'Rate this app' in top right menu)
 3. If you want to read or share the details of the study done, checkout 
