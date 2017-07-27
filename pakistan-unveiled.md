@@ -77,6 +77,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 
   - [Silent Traveler](http://thesilenttraveler.com) is created and managed by Sher Ali Saafi as his personal travelogue where he shares his travel experiences. You can also checkout his [facebook page](https://web.facebook.com/thesilenttraveler).
   - [FFK Travel Blog](http://fehmeedakhan.com/travel-blog/) shares a lot of valuable information about guides, travel ideas, detailed plans and informations on what to visit in Pakistan. 
+  - Arslan has shared the details of his journey from Islamabad to Skardu in his [blog post](http://pudgylogic.blogspot.de/2017/07/islamabad-to-skardu-trip-2017.html). In his own words, "This blog post is about the trip. Destinations covered, the difficulties we faced and why you should do it too if you are a nature lover."
 
 ### International Tourists who visited Pakistan
 
