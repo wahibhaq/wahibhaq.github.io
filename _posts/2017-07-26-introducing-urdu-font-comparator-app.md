@@ -57,10 +57,12 @@ available to use by everyone. It will help my portfolio but more importantly it 
 Android devs from Pakistan and maybe it also inspire others to make their work available as open-source. There's no much 
 point in keeping it private and then letting the project die or become obsolete. So, feel free to fork repo or use any part of the project code. 
 
+Just to clarify, this app has a limited purpose and scope and it was supposed to be like this. I am aware that it's for a very niche audience and one of those kinds of apps which are not meant to attract constant user engagement. You can see the app as an extension to the research study and a compass which could give better direction to those who want to produce localized content in Urdu.
+
 This app and the research could be useful for following people:
 
 * Urdu enthusiast who is just curious to know more about Nastaliq vs Naskh and understand the challenges faced.
-* Project Owner who is responsible to manage publishing an Urdu version of new or existing app.
+* Project Owner who is responsible to manage publishing an Urdu version of new or existing app. User-generated ratings about fonts can assist in making a decision.
 * Developer who wants to offer a section or complete app natively in Urdu content.
 * Students who will like to research on related topic and somehow want to reuse any part of the app.
 * If you are an Android developer and just want to explore how things are done in the app. Maybe fork it and contribute with improvements :) 
