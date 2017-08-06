@@ -20,7 +20,7 @@ Like any other developer, I explore, read and follow a lot of different resource
 
 This project is about an Android application (available on [Google Play](https://goo.gl/NXp6js)) which allows users to explore various Urdu Fonts, eventually helping them in choosing the right one. This project is additionally intended to make users appreciate why Nasta'liq script should be a natural choice for Urdu content on mobile devices. 
 
-It is a very personal project which I formally kicked off in Feb 2017. I was also super motivated because one of my 2017 New Year's goals was to develop my own Android app from scratch and get it published on Google Play. This idea seemed like a good way to achieve this goal. I wrote about the motivation and purpose in more detail as a [blog post](http://wahibhaq.com/blog/introducing-urdu-font-comparator-app/) and code is also open-sourced on [GitHub](https://github.com/wahibhaq/urdu-font-comparator-app).
+It is a very personal project which I formally kicked off in Feb 2017 and completed in July 2017. I was also super motivated because one of my 2017 New Year's goals was to develop my own Android app from scratch and get it published on Google Play. This idea seemed like a good way to achieve this goal. I wrote about the motivation and purpose in more detail as a [blog post](http://wahibhaq.com/blog/introducing-urdu-font-comparator-app/) and code is also open-sourced on [GitHub](https://github.com/wahibhaq/urdu-font-comparator-app).
 
 ### [Slack Community for Android Devs from Pakistan](androiddevs-pakistan.slack.com)
 
