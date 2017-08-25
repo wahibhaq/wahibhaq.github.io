@@ -41,6 +41,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - Megan Smith from [MeganoTravels](https://www.facebook.com/meganotravels1/) spent two weeks (Oct/Nov 2016) traveling about 3000 km in Pakistan (with [Travelore Adventures](https://www.facebook.com/TraveloreAdventures/?pnref=story)), discovering what it has to offer in beauty, culture, diversity, history, and religion. This is a [video](https://vimeo.com/198610026) which she compiled and shared on her facebook page.
   - A team from Britain representing [Power of Youth](https://www.facebook.com/pwrofyouth/) and [WeAreCampfire](https://www.facebook.com/wearecampfire/) visited Pakistan in Nov 2016. They compiled a [video](https://www.facebook.com/pwrofyouth/videos/1201469856600858/) which beautifully captures the most realistic and raw moments of a normal city life in Pakistan. It eloquently answers the question, "Have you ever wondered what Pakistan is like?".
  - [Video](https://www.youtube.com/watch?v=AuoaeYvuvLk) titled "Glimpses of Pakistan: Call of the Sublime" highlights some of the most scenic and iconic landmarks in Pakistan from a unique perspective. The video briefly covers the old city of Lahore and Islamabad.
+ - Travel [film](https://www.facebook.com/AWboys/videos/1160330464097306/) titled "Among Giants", shot over Deosai National Park, Baltoro Glacier and K2 Mountain. It's hard to believe that Pakistan holds such wonders the rest of the world simply isn't aware of.
  
 
 ### Collection of Breathtaking Photos 
