@@ -42,6 +42,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - A team from Britain representing [Power of Youth](https://www.facebook.com/pwrofyouth/) and [WeAreCampfire](https://www.facebook.com/wearecampfire/) visited Pakistan in Nov 2016. They compiled a [video](https://www.facebook.com/pwrofyouth/videos/1201469856600858/) which beautifully captures the most realistic and raw moments of a normal city life in Pakistan. It eloquently answers the question, "Have you ever wondered what Pakistan is like?".
  - [Video](https://www.youtube.com/watch?v=AuoaeYvuvLk) titled "Glimpses of Pakistan: Call of the Sublime" highlights some of the most scenic and iconic landmarks in Pakistan from a unique perspective. The video briefly covers the old city of Lahore and Islamabad.
  - Travel [film](https://www.facebook.com/AWboys/videos/1160330464097306/) titled "Among Giants", shot over Deosai National Park, Baltoro Glacier and K2 Mountain. It's hard to believe that Pakistan holds such wonders the rest of the world simply isn't aware of.
+ - [Video](https://www.facebook.com/northfaceofpakistan/videos/1954116854829717/) about Road Trip from Naran > Gilgit > Ghizer > Chitral and showing some breathtaking scenery. 
  
 
 ### Collection of Breathtaking Photos 
@@ -64,6 +65,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Climax Adventure Pakistan](https://www.facebook.com/climaxadventurepk/)
   - [TraveloreAdventures](https://www.facebook.com/TraveloreAdventures/)
   - [Visit Swat](http://visitswat.org/)
+  - [NorthFace Pakistan](https://www.facebook.com/northfaceofpakistan/)
 
 ### Instruction Manual for Foreign Tourists
 
