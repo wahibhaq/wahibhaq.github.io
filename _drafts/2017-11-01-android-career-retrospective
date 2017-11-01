@@ -1,0 +1,48 @@
+---
+layout: post
+title: A Career Retrospective
+tags: [android, google, career, mobile, development]  
+fb-img: http://wahibhaq.com/img/blog/posts/freeletics-android-tech-stack-2017/freeletics-app-view.png
+published: false
+---
+
+# A Career Retrospective—All these years as Android App Developer
+
+Yesterday, I watched this entertaining talk from Romain Guy and Chet Haase on topic of "[Android: A Developer's History](https://academy.realm.io/posts/romain-guy-chet-haase-android-developers-history/)". I'll be surprised if a professional Android Dev doesn't know about these two guys from Google and Chet is always a treat to listen to. Anyways, this talk was about going through the history of Android and share insights about each SDK version, things which changed through the passage of time and their learnings. One slide in the beginning of the talk really got my attention which mentioned comments from John Forsyth (Symbian) and Steve Ballmer (Microsoft) back in 2007 before the official announcement of Android SDK release on Nov 11, 2007. 
+
+<img src="https://i.imgur.com/wioMbCP.png" width="500" height="300" align="middle">
+
+This was funny and very satisfying at the same time. Android has come a long way in these 10 years and Google has done a pretty good job in defying its critics in the Tech Industry. It is probably Google's most successful product outside of search (at least in terms of user base). At the end of 80 min talk, I knew more key points about each Android release and also got a little deeper understanding on the career of the Googlers who have been behind the APIs which devs use till today. Another thought which I consumed my brainpower was about my own history and how I have reached this point in career where I am today. 
+
+In retrospective, it'll be roughly 7 years for me since I decided to formally learn Java and kick-off Android app development as a career choice. 
+
+## How it all started
+
+It was 2009 and I was in my 3rd year of undergrad program at [NUST-SEECS](http://seecs.nust.edu.pk/), Pakistan.  Going a little further back in history, a group was started by name of "SEECS Open Mobile Squad" in 2008 and Qasim Ali Khawaja was the founding member. He was one of our seniors and very passionate about moble devices, open hardware and mobile applications. I still remember that he used to share with me that only few senior students and professors were even interested in this domain and he wanted to increase awareness and wanted SEECS to take lead in Pakistan. At that time, the famous mobile platforms included J2ME, Windows Phone, Symbian, Nokia, iOS and Android. But Qasim was interested in Linux, Hacking and Open-Source philosophy and that's what brought "[OPENMOKO](http://wiki.openmoko.org/wiki/Main_Page)" into limelight. A Tiawani company, OPENMOKO was lanuched in 2007 and initiated a complelty new concept of Open Mobile Hardware which runs on a mobile Linux-based open source phones. Qasim was able to convince [Dr. Arshad Ali](http://drarshad.seecs.nust.edu.pk/personal.htm) (Director General, SEECS) and got couple of [Neo FreeRunner](http://wiki.openmoko.org/wiki/Neo_FreeRunner) devices along with Neo Development Kit. These devices will become the first ever mobile device which we'll build apps for but that comes a bit later. A lot of credit goes to Qasim and Dr. Arshad Ali for laying foundations of research in direction of mobile computing and apps which later became another reason why SEECS is famous for. Its a surprise though that official blog of [SOMS](https://seecsopenmobile.wordpress.com/) is still up and running ✌🏻
+
+<img src="https://i.imgur.com/1rugaOf.jpg" width="500" height="300" align="middle">
+<br>(https://seecsopenmobile.wordpress.com/)
+
+I met Qasim somewhere in 2009 and got really interested in what he was working on. Even though our undergrad program was not completely focused on computer science but we had a shared interest for programming, linux, hacking and open-source technologies. I became an official member of SOMS and that's how I got more exposed to technologies and future prospects of mobile apps. SOMS was able to organize a seminar on "Open Mobiles and Android" in June 2009. The aim of the talk was to let students and faculty aware of the recent shift in the whole mobile eco-system from closed world system to open and free loyalty systems. It also discussed the emergence, significance and future of open source mobile platforms. The speakers were from the industry with sound knowledge and experience in the respective field. Moreover one of them had created a first Android application, published in Google Martketplace as far as Pakistan is concerned. So, they showed us a very promising future for developers if they start learning and building apps for Android platform. I was sold by the stats and kind of apps we can build using the SDK. 
+
+## Why Android?
+
+Many people have asked me this question at several instances and with all honesty its difficult to say exactly why but there are still some solid convincing points why I personally ended up as an Android developer and let's say not an iOS or Windowns Phone developer. 
+
+
+### Open vs Close Mobile eco-system
+
+Android was officially launched in 2007 and the year 2008 was considered to be the year of mobile Linux. "Open vs Close mobile eco-system" was a huge topic and I hope you already got an idea that we were very biased towards Open mobile technology. For the context, Open mobile technology is the one which is oriented towards developers and therefore, end users much more control over the software running on cell phones. It was naturally more attractive for geeks as compared to stylish iPhone which had its significant limitations. On one hand, OpenMoko was the flag bearer of this movement to create an open platform that empowers customers to personalize their phone and even termed as "OpenMoko is the anti-iPhone". On the other hand, Android was also based on Linux, open-sourced and claimed for more being developer focused. But things were progressing at a very high pace with iPhone and Android bringing smartphone apps more into the mainstream, leaving OpenMoko less and less room to maneuver. Eventually by June 2009, OpenMoko was officially dead. This made it very clear to me what I needed to focus on.
+
+### Barriers for developers
+
+We didn't have any Android test devices because they were quite expensive and not even so easily available in Pakistan. But we had OpenMoko phones which could very well be a hacker’s paradise for having a reputation for being world's first open source hardware. So virtually any MobileOS having its’ root based on linux, can run on OpenMoko hardware and that's exactly what we did. OpenMoko was dead for good but we were willing to make good use of the hardware devices. After an effort of couple of weeks we were able to install Android on one of those FreeRunner devices we had and trust me it was an amazing feeling to see it running in hands for the first time 😄 
+
+Secondly, Android development could be done on any operating system. I had Ubuntu on my laptop, I installed Eclipse (which I don't miss at all!) and I was good to go. It wasn't the same for iOS app development. As per my experience, this is mostly the main reason why people start with Android apps development instead of iOS. 
+
+## Goal Oriented Approach 
+
+
+
+
+share about fyp project https://www.youtube.com/watch?v=O6ACpXtqiw8&app=desktop 
