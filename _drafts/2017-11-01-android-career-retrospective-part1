@@ -1,0 +1,76 @@
+---
+layout: post
+title: A Career Retrospective - part 1
+tags: [android, google, career, mobile, development, apps]  
+fb-img: http://wahibhaq.com/img/blog/posts/freeletics-android-tech-stack-2017/freeletics-app-view.png
+published: false
+---
+
+# A Career Retrospective — Part 1
+
+Yesterday, I watched this entertaining talk from Romain Guy and Chet Haase on topic of "[Android: A Developer's History](https://academy.realm.io/posts/romain-guy-chet-haase-android-developers-history/)". I'll be surprised if a professional Android Dev doesn't know about these two guys from Google and Chet is always a treat to listen to. Anyways, this talk was about going through the history of Android and share insights about each SDK version, things which changed through the passage of time and their learnings. One slide in the beginning of the talk really got my attention which mentioned comments from John Forsyth (Symbian) and Steve Ballmer (Microsoft) back in 2007 before the official announcement of Android SDK release on Nov 11, 2007. 
+
+<img src="https://i.imgur.com/wioMbCP.png" width="500" height="300" align="middle">
+
+This was funny and very satisfying at the same time. Android has come a long way in these 10 years and Google has done a pretty good job in defying its critics in the Tech Industry. It is probably Google's most successful product outside of search (at least in terms of user base). At the end of 80 min talk, I knew more key points about each Android release and also got a little deeper understanding on the career of the Googlers who have been behind the APIs which devs use till today. Another thought which I consumed my brainpower was about my own history and how I have reached this point in career where I am today. 
+
+In retrospective, it'll be roughly 7 years for me since I decided to focus on *mobile*, formally learn Java and kick-off Android app development as a career choice. I have a roughly 4 year (to date) full-time experience behind me excluding 2 years masters degree. I decided to write about reasons, goal and situations which influenced my decisions and how I did what I did and maybe there's something others can learn from it. To make it easier to write and read, I'll make it a 2 part series.
+
+## How it all started
+
+It was 2009 and I was in my 3rd year of undergrad program at [NUST-SEECS](http://seecs.nust.edu.pk/), Pakistan.  Going a little further back in history, a group was started by name of "SEECS Open Mobile Squad" in 2008 and Qasim Ali Khawaja was the founding member. He was one of our seniors and very passionate about moble devices, linux and mobile applications. I still remember that he used to tell me that only few senior students and professors were even interested in this domain and he wanted to increase awareness and wanted SEECS to take lead in Pakistan. At that time, the famous mobile platforms included J2ME, Windows Phone, Symbian, Nokia, iOS and Android to name a few. A Tiawani company, "[OPENMOKO](http://wiki.openmoko.org/wiki/Main_Page)" was lanuched in 2007 and initiated a complelty new concept of Open Mobile Hardware which runs on a mobile Linux-based open source phones. Qasim was able to convince [Dr. Arshad Ali](http://drarshad.seecs.nust.edu.pk/personal.htm) (Director General, SEECS) and got couple of [Neo FreeRunner](http://wiki.openmoko.org/wiki/Neo_FreeRunner) devices along with Neo Development Kit. These devices will become the first ever mobile device which we'll build apps for but that comes a bit later. A lot of credit goes to Qasim and Dr. Arshad Ali for laying foundations of research in direction of mobile computing and apps which later became another reason why SEECS is famous for. Its a surprise though that official blog of [SOMS](https://seecsopenmobile.wordpress.com/) is still up and running ✌🏻
+
+> I learnt early on that its very important to be aware of whats happening around you and this requires good networking skills. Talk to people and avoid living in isolation and be always genuinely curious to know what others are doing and working on. Also, if you have to convince someone to spend money on your idea you better have done really good research and then be well prepared to present how its a win-win situation for both parties. 
+
+
+<img src="https://i.imgur.com/1rugaOf.jpg" width="500" height="300" align="middle">
+<br>(https://seecsopenmobile.wordpress.com/)
+
+I met Qasim somewhere in 2009 and got really interested in what he was working on. Even though our undergrad program was not completely focused on computer science but we had a shared interest for programming, linux, hacking and open-source technologies. I became an official member of SOMS and that's how I got more exposed to technologies and future prospects of mobile apps. SOMS was able to organize a seminar on "Open Mobiles and Android" in June 2009. The aim of the talk was to let students and faculty aware of the recent shift in the whole mobile eco-system from closed world system to open and free loyalty systems. It also discussed the emergence, significance and future of open source mobile platforms. The speakers were from the industry with sound knowledge and experience in the respective field. Moreover one of them had created a first Android application, published in Google Martketplace as far as Pakistan is concerned. So, they showed us a very promising future for developers if they start learning and building apps for Android platform. I was sold by the stats and kind of apps we can build using the SDK. 
+
+> I was just very lucky to know during my 3rd year what technology stack I'll be working on and what position I'll apply for after graduation. It won't be an understatement to say that maybe 60% of my batch didn't know exactly what they'll do after graduation. I believe that it is very important for students to find an answer to this question. Talk to seniors, talk to people in industry, try different technologies in semester projects and free time. Attend all kinds of events even if they sound irrelevant because you never know. You never know how one event, one speaker or one chat session can give you a clear perspective about your future. 
+
+
+
+## Why Android?
+
+Many people have asked me this question at several instances and with all honesty its difficult to say exactly why but there are still some solid convincing points why I personally ended up as an Android developer and let's say not an iOS or Windowns Phone developer. 
+
+### Open vs Close Mobile Eco-system
+
+Android was officially launched in 2007 and the year 2008 was considered to be the year of mobile Linux. "Open vs Close mobile eco-system" was a huge topic and with my limited understand and some influence, I was quite biased towards Open mobile technology. For the context, Open mobile technology is the one which is oriented towards developers and therefore, end users and offer much more control over the software running on cell phones. It was naturally more attractive for geeks (I used to love that word) as compared to stylish iPhone which had its significant limitations. On one hand, OpenMoko was the flag bearer of this movement to create an open platform that empowers customers to personalize their phone and even termed as "OpenMoko is the anti-iPhone". On the other hand, Android was also based on Linux, open-sourced and claimed for more being developer focused. But things were progressing at a very high pace with iPhone and Android bringing smartphone apps more into the mainstream, leaving OpenMoko less and less room to maneuver. Eventually by June 2009, OpenMoko was officially dead. This made it more clear to me what I needed to focus on.
+
+Funny thing about Frameworks and Technology is that the most famous and shiny name can become obsolete in next few years. Betting on a new one is a risk you take in order to be among the fist adopters. By 2010, I was sure about one thing that the word "mobile" does excites me and instantly gets my attention. Even till today, it catches my attention for all the good reasons. 
+
+> Try to find that buzz word which gets your attention no matter if its "data", "web", "robots" or "artificial intelligence". Then try to get deeper understanding of the topic and future prospects and find experts who can answer your questions and address your concerns and confusions. 
+
+
+### Love for Open-Source technologies
+
+I was lucky to be mentored by people like [Atif Mumtaz](https://www.linkedin.com/in/amumtaz/) and Qasim who were big fans of open-source and I got the influence and understood its value through them. This is one of those things which affects your decisions and mindset in more ways than you can imagine. I do confess that it was considered 'cool' to be a fan of open-source and I was always a consumer like everyone else until recently when I started contributing back. But all contributors have been the beneficiaries of free software until they were capable to give back to the community by any means. 
+
+The Android platform is open source (the entire Android source code is [browsable](https://source.android.com/), albeit with some proprietary software such as Google Play), making the developer ecosystem dynamic and collectively enriching. The programming language used for Android app development, [Java SE](http://openjdk.java.net/) is also open-source and so is [Eclipse IDE](https://git.eclipse.org/c/). The impression was that Android is great for development with Java as its programming language as most of its users come from an open source background. It had a profound impact on early adopters like me.
+
+I know it sounds weird to mention Eclipse IDE but there was no [Android Studio](https://developer.android.com/studio/index.html) at that time and also no [Kotlin](https://kotlinlang.org/). Nevertheless, both are also open-source. 
+
+> Its a very personal thing but in this time I don't think you can build a career or a product without using not one but several open-source technologies and tools. Be very thankful for the [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) community and strive for giving back even if its as small as reporting a bug. 
+
+> Try your best to find mentors around you specially when you are in university. It can be anyone from your senior batch, your faculty, industry or someone remotely. Its important to have someone who can guide you and show you the bigger picture so that you can be well prepared for the Industry once you graduate. Someone who can share what are common mistakes done by students and what you need to do up your game and stand out among the lot. 
+
+### Barriers for developers
+
+We didn't have any Android test devices because they were quite expensive and not even so easily available in Pakistan. But we had OpenMoko phones which could very well be a hacker’s paradise for having a reputation for being world's first open source hardware. So virtually any MobileOS having its’ root based on linux, can run on OpenMoko hardware and that's exactly what we did. OpenMoko was dead for good but we were willing to make good use of the hardware devices. After an effort of couple of weeks we were able to install Android on one of those FreeRunner devices we had and trust me it was an amazing feeling to see it running in hands for the first time 😄 
+
+> Ask psychologists and they'll tell you that our problems, challenges, and opportunities may become more manageable with constraints that direct us to make the best out of what we have. Learn to make best use of resources you have in hand. 
+
+Secondly, Android development could be done on any operating system. I had Ubuntu on my laptop, I installed Eclipse (which I don't miss at all!) and I was good to go. It wasn't the same for iOS app development. As per my experience, this is mostly the main reason why people started with Android apps development instead of iOS. 
+
+> Just because I started with Android doesn't give me a privilige to say that everyone should prefer Android over iOS. I just wanted to share my personal experiences and I no longer engage in debate on Android vs iOS war because it is meaningless. At the end of the day, we are all software engineers who are just working on different platforms and no one has any higher standing. The most important lesson IT industry keep teaching us is not to get too dependent and married to one specific language/framework. It's important to be a "Expert" in one but it's equally important to have a mindset of a "Generalist". 
+
+### Just Amazing Stats
+
+<img src="https://static4.uk.businessinsider.com/image/57bb2555dd0895c3098b47f5-1200/20160822_android_ios.png" width="500" height="400" align="middle">
+
+I don't think I need to go in detail of the numbers but just so you know, the growth rate of Android apps reaching Android Market (later renamed to Google Play) and devices activation rate has always been very promising. For example, there were roughly 100,000 apps in Android Market by Nov 2010 and by September 2017 the number has surpassed 3.3 million.  According to Gartner, 67.2 million Android-based units were sold in 2010, accounting for 22.7% of the market. A year earlier, 6.7 million Android-based phones were sold, for a market share of just 3.9%. For a perspective on growth rate, In Q4 2016, 432 million smartphones were sold, 352 million ran Android (81.7 percent) and 77 million ran iOS (17.9 percent).
+
+> Back in 2009-2010, Windows phone was dying, Android and iOS were growing but Symbian phones were still in majority. I personally had a symbian phone. It was a tough call but that's where you need to make good use of your research skills and taking opinion from the right people. Android devs are facing a different yet similar situation right now with making a decision if they need to start learning Kotlin or not. If you are following the trends and the community, you shouldn't have any doubts on not learning Kotlin. Being an active observer of the community is a key factor in keeping a close eye on new happenings and trends. Twitter helps me a lot in this regard and can't recommend this enough to fellow developers.
