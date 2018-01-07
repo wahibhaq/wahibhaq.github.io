@@ -14,7 +14,9 @@ Roughly 3 months ago I was going through the job search phase for Android dev po
 <br>
 <img src="http://wahibhaq.github.io/img/blog/posts/summary-thoughts-clean-architecture-mvp/architecture-meme.jpg" width="450" height="400" align="center">
 <br><br>
-I did some research, compiled my personal thoughts and submitted it. Kindly don't expect to find details of Clean Architecture or MVP in this post as it was supposed to be something which just gives an idea about the proposed solution and highlight my reasoning behind it. Ignoring what happened with the interview process, I thought to publish them as a blog post now. 
+I did some research, compiled my personal thoughts and submitted it. Today, I decided to publish them as a blog post. 
+
+> Disclaimer: Kindly don't expect to find detailed explanations of *Clean Architecture* or *MVP* in this post as it was supposed to be something short, only to give an idea about the proposed solution and highlight my reasoning behind it.
 
 Something unrelated but 2017 was the year when I got super interested in **[Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_1?ie=UTF8&qid=1515276671&sr=8-1&keywords=clean+architecture)** and was lucky to get hands-on experience with implementing **[MVP](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)** in our Android source code at Freeletics. Architectures in general has always been my area of interest and more importantly because I was never able to properly use one in any of my past Android projects. Android Devs clearly know the struggle with building robust, production-quality and maintainable apps without any reliable app architecture. 
 
@@ -102,7 +104,7 @@ Some key technical benefits achieved:
 ### Cross-Functional Team and Architecture
 <br>
 
-If you remember, Challenge description had a mention of **[Spotify Squads](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)** which is a very interesting concept coming out of Spotify Engineering Culture. Product squads seem to be a great way to build strong, knowledgeable development teams. In layman's terms, Squad is a small cross-functional self-organized scrum team. They have end-to-end responsibilities and they work together towards their long-term mission. On Squads the key drive is autonomy. 
+The challenge statement shared above also had a mention of **[Spotify Squads](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)** which is a very interesting concept coming out of Spotify Engineering Culture. Product squads seem to be a great way to build strong, knowledgeable development teams. In layman's terms, Squad is a small cross-functional self-organized scrum team. They have end-to-end responsibilities and they work together towards their long-term mission. On Squads the key drive is autonomy. 
 
 For an employer, being Agile is a critical requirement and hence the expectation from an architecture to support it.  One of the more important agile principles is: 
 
