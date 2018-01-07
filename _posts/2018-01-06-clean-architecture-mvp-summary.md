@@ -7,7 +7,7 @@ published: true
 ---
 
 <br>
-Roughly 3 months ago I was going through the job search process for Android dev position and went through all kinds of different interviews steps. From one of the potential employers, I was given a task to submit a 1 page recommendation of an architecture for a situation as follow:
+Roughly 3 months ago I was going through a job search process for Android dev position and went through various interview steps. I was given a task, from one of the potential employers, to submit one page recommendation of an architecture for the following situation:
 
 ```
 You are an experienced developer. Can you design 1-page architecture of an app
