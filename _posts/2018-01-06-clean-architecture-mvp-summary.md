@@ -7,7 +7,7 @@ published: true
 ---
 
 <br>
-Roughly 3 months ago I was going through the job search phase for Android dev position and went through all kinds of different interviews. From one of the potential employers, I was given a challenge to submit a 1 page recommendation of an architecture for a situation as follow:
+Roughly 3 months ago I was going through the job search process for Android dev position and went through all kinds of different interviews steps. From one of the potential employers, I was given a task to submit a 1 page recommendation of an architecture for a situation as follow:
 
 ```
 You are an experienced developer. Can you design 1-page architecture of an app
@@ -102,7 +102,7 @@ Some key technical benefits achieved:
 <br>
 ### Cross-Functional Team and Architecture
 
-The challenge statement shared above also had a mention of **[Spotify Squads](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)** which is a very interesting concept coming out of Spotify Engineering Culture. Product squads seem to be a great way to build strong, knowledgeable development teams. In layman's terms, Squad is a small cross-functional self-organized scrum team. They have end-to-end responsibilities and they work together towards their long-term mission. On Squads the key drive is autonomy. 
+The problem statement shared above also had a mention of **[Spotify Squads](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)** which is a very interesting concept coming out of Spotify Engineering Culture. Product squads seem to be a great way to build strong, knowledgeable development teams. In layman's terms, Squad is a small cross-functional self-organized scrum team. They have end-to-end responsibilities and they work together towards their long-term mission. On Squads the key drive is autonomy. 
 
 For an employer, being Agile is a critical requirement and hence the expectation from an architecture to support it.  One of the more important agile principles is: 
 
