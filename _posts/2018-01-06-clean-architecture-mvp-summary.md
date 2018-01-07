@@ -113,3 +113,16 @@ For an employer, being Agile is a critical requirement and hence the expectation
 * The software architecture shouldn't be complicated in order to make it difficult for a team of 5 to 9 members to take a feature from all the way to shippable. 
 * Clean Architecture provides a separation of concerns that gives development teams the cadence and agility they need to manage the complexity and rapid change in their environment. By design it creates a clear cut between your components, and at the same time establishes the contract for future communication. This allows android devs to work in harmony with members of other *tribes*. 
 * The practise of defining the [MVP contract](https://github.com/googlesamples/android-architecture/blob/todo-mvp-clean/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailContract.java) before starting working on a feature indirectly helps android devs in the same *squad* to efficiently define areas of responsibilities among themselves. 
+
+<br>
+### Further Reading
+
+* [What is all this Clean Architecture jibber-jabber about?](http://pguardiola.com/blog/clean-architecture-part-1/)
+* [Android Architecture Series](http://five.agency/android-architecture-part-1-every-new-beginning-is-hard/ )
+* [Converting an App to Use Clean Architecture
+](https://academy.realm.io/posts/converting-an-app-to-use-clean-architecture/)
+* [Architecting Android...The clean way?
+](https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
+* [A complete idiot’s guide to Clean Architecture](https://android.jlelse.eu/a-complete-idiots-guide-to-clean-architecture-2422f428946f)
+* [Reactive Clean Architecture with Android Architecture Components
+](https://mag.n26.com/reactive-clean-architecture-with-android-architecture-components-685a6682e0ca)
