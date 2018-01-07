@@ -3,7 +3,7 @@ layout: post
 title: A Brief Summary of thoughts on Clean Architecture and MVP
 tags: [clean architecture, model view presenter, mvp, architecture, mobile, android]  
 fb-img: http://wahibhaq.com/img/blog/posts/freeletics-android-tech-stack-2017/freeletics-app-view.png
-published: false
+published: true
 ---
 
 # A Brief Summary of thoughts on Clean Architecture and MVP
