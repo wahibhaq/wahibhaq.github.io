@@ -9,7 +9,12 @@ published: true
 <br>
 Roughly 3 months ago I was going through the job search phase for Android dev position and went through all kinds of different interviews. From one of the potential employers, I was given a challenge to submit a 1 page recommendation of an architecture for a situation as follow:
 
-> You are an experienced developer. Can you design 1-page architecture of an app for a financial product with 50k users base (3k daily), that can work in a modern setup of development, e.g. Spotify squads? Once you come onboard you may have to design for 10-100x userbase. The architecture can be a generic view. 
+```
+You are an experienced developer. Can you design 1-page architecture of an app
+for a financial product with 50k users base (3k daily), that can work in a
+modern setup of development, e.g. Spotify squads? Once you come onboard you may
+have to design for 10-100x userbase. The architecture can be a generic view.
+```
 
 <br>
 <img src="http://wahibhaq.github.io/img/blog/posts/summary-thoughts-clean-architecture-mvp/architecture-meme.jpg" width="450" height="400" align="center">
