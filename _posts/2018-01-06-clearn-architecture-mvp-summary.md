@@ -13,6 +13,9 @@ Roughly 3 months ago I was in the job search phase for Android dev position and 
 
 > You are an experienced developer. Can you design 1-page architecture of an app for a financial product with 50k users base (3k daily), that can work in a modern setup of development, e.g. Spotify squads? Once you come onboard you may have to design for 10-100x userbase. The architecture can be a generic view. 
 
+<br>
+<img src="http://wahibhaq.github.io/img/blog/posts/summary-thoughts-clean-architecture-mvp/architecture-meme.jpg" width="450" height="400" align="center">
+<br><br>
 I did some research, compiled my personal thoughts and submitted it. Kindly don't expect to find details of Clean Architecture or MVP in this post as it was supposed to be something which just gives an idea about the proposed solution and highlight my reasoning behind it. Ignoring what happened with the interview process, I thought to publish them as a blog post now. 
 
 Something unrelated but 2017 was the year when I got super interested in **[Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_1?ie=UTF8&qid=1515276671&sr=8-1&keywords=clean+architecture)** and was lucky to get hands-on experience with implementing **[MVP](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)** in our Android source code at Freeletics. Architectures in general has always been my area of interest and more importantly because I was never able to properly use one in any of my past Android projects. Android Devs clearly know the struggle with building robust, production-quality and maintainable apps without any reliable app architecture. 
@@ -101,4 +104,4 @@ For an employer, being Agile is a critical requirement and hence the expectation
 * Clean Architecture provides a separation of concerns that gives development teams the cadence and agility they need to manage the complexity and rapid change in their environment. By design it creates a clear cut between your components, and at the same time establishes the contract for future communication. This allows android devs to work in harmony with members of other *tribes*. 
 * The practise of defining the [MVP contract](https://github.com/googlesamples/android-architecture/blob/todo-mvp-clean/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailContract.java) before starting working on a feature indirectly helps android devs in the same *squad* to efficiently define areas of responsibilities among themselves. 
 
-
+##### More Resources to  
