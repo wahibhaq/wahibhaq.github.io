@@ -6,9 +6,7 @@ fb-img: http://wahibhaq.com/img/blog/posts/freeletics-android-tech-stack-2017/fr
 published: true
 ---
 
-# A Brief Summary of thoughts on Clean Architecture and MVP
-
-
+<br>
 Roughly 3 months ago I was in the job search phase for Android dev position and went through all kinds of different interviews. From one of the potential employers, I was given a challenge to submit a 1 page recommendation of an architecture for a situation as follow:
 
 > You are an experienced developer. Can you design 1-page architecture of an app for a financial product with 50k users base (3k daily), that can work in a modern setup of development, e.g. Spotify squads? Once you come onboard you may have to design for 10-100x userbase. The architecture can be a generic view. 
