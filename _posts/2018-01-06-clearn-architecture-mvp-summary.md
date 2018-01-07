@@ -23,6 +23,7 @@ Interesting enough, 2017 will always be remembered as the year when for the firs
 
 --- 
 
+<br>
 ### What should we expect from a modern app architecture? 
 
 IMHO it needs to be robust, stable, easily extendable with as less effort as possible, adaptable to change as per agile requirements, fast to incorporate new platform features and, supports testability, at the same time, understandable to many different developers to ensure maintainability.
@@ -46,39 +47,44 @@ Some key technical benefits achieved:
 > Separation of Concern
 > Decoupled Code
 ```
-<br><br>
+<br>
 #### Different layers, components and how they communicate with each other
 
 <img src="http://wahibhaq.github.io/img/blog/posts/summary-thoughts-clean-architecture-mvp/srp-clean-architecture-diagram.png" width="700" height="350" align="center">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Source: five.agency
 
-<br><br>
+<br>
 ##### Presentation/UI Layer
+<br>
 
 * MVP is much suitable for the UI/presentation layer. 
 * Views are dumb and implement [Passive View](https://martinfowler.com/eaaDev/PassiveScreen.html) pattern. It is a set of interfaces that could be implemented by any Android view, such as Activities, Fragments, Adapters or Custom Views.
 * Presenter serve as a middleman between views (abstractions over Android specific components) and the business logic (interactors/Use Cases). They handle user interactions, invoke appropriate business logic, and send the data to the UI for rendering.
 * Presenter doesn’t depend on Android classes hence improves testability.
 
-<br><br>
+<br>
 ##### Domain Layer
+<br>
 
 * Use Case is something like “Transfer money from one account to another”. Each Use Case is a reusable component that executes a specific business logic. It fetches the data from a repository, executes the business logic and returns the result to the presenter. 
 
-<br><br>
+<br>
 ##### Data Layer (Database & API)
+<br>
 
 * [Repository Pattern](https://martinfowler.com/eaaCatalog/repository.html) is responsible to create an abstraction of the data sources from which the Use Cases get the data to act upon. All under-the-hood persistence should be here: DAOs, ORM stuff, Retrofit (or any other Network related stuff) services, JSON parsing etc.
 * App should work seamlessly even on a spotty network. The ability to cache and reuse previously fetched resources is a critical aspect of optimizing for performance.
 * Business logic shouldn’t know where the data comes from. Act locally, but sync globally.
 
-<br><br>
+<br>
 ##### Device Layer
+<br>
 
 * Device contains the implementations of the gritty Android stuff such as sensors, alarms, notifications, players, all kinds of Managers, and so on. 
 
-<br><br>
+<br>
 ### Analysis of Proposed Architecture
+<br>
 
 * Adheres to Clean Architecture.
 * It’s all neatly separated by module level, package level, and class level. So *Single Responsibility Principle* and *Separation of Concern* should be satisfied. 
@@ -94,6 +100,7 @@ Some key technical benefits achieved:
 
 <br><br>
 ### Cross-Functional Team and Architecture
+<br>
 
 If you remember, Challenge description had a mention of **[Spotify Squads](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)** which is a very interesting concept coming out of Spotify Engineering Culture. Product squads seem to be a great way to build strong, knowledgeable development teams. In layman's terms, Squad is a small cross-functional self-organized scrum team. They have end-to-end responsibilities and they work together towards their long-term mission. On Squads the key drive is autonomy. 
 
