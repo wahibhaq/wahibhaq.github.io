@@ -54,32 +54,37 @@ Some key technical benefits achieved:
 > Decoupled Code
 ```
 
+<br>
 ### Different layers, components and how they communicate with each other
 
 <img src="http://wahibhaq.github.io/img/blog/posts/summary-thoughts-clean-architecture-mvp/srp-clean-architecture-diagram.png" width="700" height="350" align="center">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Source: five.agency
 
-###### Presentation/UI Layer
+#### Presentation/UI Layer
 
 * MVP is much suitable for the UI/presentation layer. 
 * Views are dumb and implement [Passive View](https://martinfowler.com/eaaDev/PassiveScreen.html) pattern. It is a set of interfaces that could be implemented by any Android view, such as Activities, Fragments, Adapters or Custom Views.
 * Presenter serve as a middleman between views (abstractions over Android specific components) and the business logic (interactors/Use Cases). They handle user interactions, invoke appropriate business logic, and send the data to the UI for rendering.
 * Presenter doesn’t depend on Android classes hence improves testability.
 
-###### Domain Layer
+<br>
+#### Domain Layer
 
 * Use Case is something like “Transfer money from one account to another”. Each Use Case is a reusable component that executes a specific business logic. It fetches the data from a repository, executes the business logic and returns the result to the presenter. 
 
-###### Data Layer (Database & API)
+<br>
+#### Data Layer (Database & API)
 
 * [Repository Pattern](https://martinfowler.com/eaaCatalog/repository.html) is responsible to create an abstraction of the data sources from which the Use Cases get the data to act upon. All under-the-hood persistence should be here: DAOs, ORM stuff, Retrofit (or any other Network related stuff) services, JSON parsing etc.
 * App should work seamlessly even on a spotty network. The ability to cache and reuse previously fetched resources is a critical aspect of optimizing for performance.
 * Business logic shouldn’t know where the data comes from. Act locally, but sync globally.
 
-###### Device Layer
+<br>
+#### Device Layer
 
 * Device contains the implementations of the gritty Android stuff such as sensors, alarms, notifications, players, all kinds of Managers, and so on. 
 
+<br>
 ### Analysis of Proposed Architecture
 
 * Adheres to Clean Architecture.
@@ -94,6 +99,7 @@ Some key technical benefits achieved:
 * Following this approach is difficult and time consuming but consider it like doing a favor to future developers that are going to work and maintain the code.
 * It is worth mentioning, that this supports using a dependency injection framework like [Dagger](https://google.github.io/dagger/). 
 
+<br>
 ### Cross-Functional Team and Architecture
 
 The challenge statement shared above also had a mention of **[Spotify Squads](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)** which is a very interesting concept coming out of Spotify Engineering Culture. Product squads seem to be a great way to build strong, knowledgeable development teams. In layman's terms, Squad is a small cross-functional self-organized scrum team. They have end-to-end responsibilities and they work together towards their long-term mission. On Squads the key drive is autonomy. 
