@@ -19,7 +19,7 @@ I completed <strong>BSc. Information and Communication Systems Engingeering</str
 
 <p class="about-text">
 <span class="fa fa-paper-plane about-icon"></span>
-I am a curious learner and passionate about things around Software, ICT Innovation, World History and Life in general. I'm an avid reader, easy-to-go guy, a foodie (I come from the lands of exotic food) and a lazy social activist. In my free time, I love travelling, doing sports, hanging out with friends or watching a good movie at home. I recently published my first (personal) Android app on <a href="https://play.google.com/store/apps/details?id=com.androidistan.urdufontcomparator" target="_blank">Google Play</a> and also wrote <a href="http://wahibhaq.com/blog/introducing-urdu-font-comparator-app/" target="_blank">post</a> about the project. All hobby projects or the proverbial itch that needs scratching would go in <a href="http://wahibhaq.com/projects">projects</a> section.
+I am a curious learner and passionate about things around Software, Startups, Food and Life in general. I'm an avid reader, easy-to-go guy, a foodie (I come from the lands of exotic food) and a lazy social activist. In my free time, I love travelling, reading books, hanging out with friends or watching a good movie at home. I recently published my first (personal) Android app on <a href="https://play.google.com/store/apps/details?id=com.androidistan.urdufontcomparator" target="_blank">Google Play</a> and also wrote <a href="http://wahibhaq.com/blog/introducing-urdu-font-comparator-app/" target="_blank">post</a> about the project. All hobby projects or the proverbial itch that needs scratching would go in <a href="http://wahibhaq.com/projects">projects</a> section.
 </p>
 
 <p class="about-text">
