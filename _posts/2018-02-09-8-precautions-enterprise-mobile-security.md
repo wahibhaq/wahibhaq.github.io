@@ -6,7 +6,8 @@ fb-img: http://wahibhaq.github.io/img/blog/posts/precautions-mobile-app-security
 published: true
 ---
 <br>
-<img src="http://wahibhaq.github.io/img/blog/posts/precautions-mobile-app-security/mobile-fraud.png" width="500" height="300" align="center">
+<img src="http://wahibhaq.github.io/img/blog/posts/precautions-mobile-app-security/mobile-fraud.png" width="550" height="300" align="center">
+<br>Source: TechCrunch
 
 As the marketplace turns to mobile, large and small enterprises are seeing a rise in mobile security breaches. From [phishing attacks to failures](https://securityintelligence.com/six-major-data-breach-trends-from-2017/) in addressing known vulnerabilities, breaches are being reported across all industries.
 
