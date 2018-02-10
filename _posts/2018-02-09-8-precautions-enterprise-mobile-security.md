@@ -5,10 +5,10 @@ tags: [app security, precautions, enterprise, mobile, android, ios]
 fb-img: http://wahibhaq.github.io/img/blog/posts/precautions-mobile-app-security/mobile-fraud.png
 published: true
 ---
-
+<br>
 <img src="http://wahibhaq.github.io/img/blog/posts/precautions-mobile-app-security/mobile-fraud.png" width="700" height="300" align="center">
 
-As the marketplace turns to mobile, large and small enterprises are seeing a rise in mobile security breaches. From [phishing attacks to failures in addressing known vulnerabilities](https://securityintelligence.com/six-major-data-breach-trends-from-2017/), breaches are being reported across all industries.
+As the marketplace turns to mobile, large and small enterprises are seeing a rise in mobile security breaches. From [phishing attacks to failures](https://securityintelligence.com/six-major-data-breach-trends-from-2017/) in addressing known vulnerabilities, breaches are being reported across all industries.
 
 > The Ponemon Institute recently published [survey results](https://www.ibm.com/security/data-breach?ce=ISM0484&ct=SWG&cmp=IBMSocial&cm=h&cr=Security&ccy=US&cm_mc_uid=71186390017615162339055&cm_mc_sid_50200000=1516233905&cm_mc_sid_52640000=1516233905=) indicating that at least 25% of business will experience a major security breach. To address the issue, enterprises need to develop more robust security testing and assessment procedures that address vulnerabilities across the entire enterprise environment. 
 
@@ -48,6 +48,7 @@ Always verify the security of free and open-source resources. While these outsid
 
 ## 6. Assess Developer Skillsets
 
+<br>
 > As an app developer, you’re the last line of defense for your company's product or service.
 
 If you don’t ensure your app is secure, all the app users are at risk. Mobile app developers focus on front-end issues like user experience (UX) and user interface (UI) or backend implementation. Most of the time security is not their primary concern especially for user-facing apps. They should, however, have security experts on their teams. 
@@ -70,6 +71,7 @@ Security is not just a matter of enterprise policy; in many cases, certain secur
 
 Enterprise security testing means ensuring that mobile app development incorporates security standards from the beginning. By establishing procedures that make security a priority throughout the process, all enterprises can reduce their risk to data breaches that can cause legal, financial, technological, and public relations nightmares.
 
+<br>
 ---
 
 <span style="color:grey">This article was co-authored by freelance editor, [Rae Steinbach](https://twitter.com/araesininthesun). Rae is a graduate of Tufts University with a combined International Relations and Chinese degree. After spending time living and working abroad in China, she returned to NYC to pursue her career and continue curating quality content. Rae is passionate about travel, food, and writing, of course.</span>
