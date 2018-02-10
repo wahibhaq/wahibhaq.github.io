@@ -6,7 +6,7 @@ fb-img: http://wahibhaq.github.io/img/blog/posts/precautions-mobile-app-security
 published: true
 ---
 <br>
-<img src="http://wahibhaq.github.io/img/blog/posts/precautions-mobile-app-security/mobile-fraud.png" width="700" height="300" align="center">
+<img src="http://wahibhaq.github.io/img/blog/posts/precautions-mobile-app-security/mobile-fraud.png" width="500" height="300" align="center">
 
 As the marketplace turns to mobile, large and small enterprises are seeing a rise in mobile security breaches. From [phishing attacks to failures](https://securityintelligence.com/six-major-data-breach-trends-from-2017/) in addressing known vulnerabilities, breaches are being reported across all industries.
 
@@ -48,10 +48,9 @@ Always verify the security of free and open-source resources. While these outsid
 
 ## 6. Assess Developer Skillsets
 
-<br>
-> As an app developer, you’re the last line of defense for your company's product or service.
-
 If you don’t ensure your app is secure, all the app users are at risk. Mobile app developers focus on front-end issues like user experience (UX) and user interface (UI) or backend implementation. Most of the time security is not their primary concern especially for user-facing apps. They should, however, have security experts on their teams. 
+
+> As an app developer, you’re the last line of defense for your company's product or service.
 
 Enterprise solutions should always enforce security to be a core competency for developers or any third-party developer. If we talk about Android and iOS platforms then both offers extensive documentation on tips and guidelines to significantly reduce the frequency and impact of application security issues. 
 
@@ -67,11 +66,12 @@ Assessing IT support and response, whether in-house or outsourced, can expose pr
 
 ## 8. Know Industry Security Standards and Regulations
 
-Security is not just a matter of enterprise policy; in many cases, certain security requirements are enforced by cyber-security and privacy laws, like HIPAA. Otherwise, they can be governed by ISO certification standards, the [Federal Information Processing Standard (FIPS)](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-2.pdf), [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/topics/standards/standards) and/or OWASP among other industry as well as system-specific requirements.
+Security is not just a matter of enterprise policy; in many cases, certain security requirements are enforced by cyber-security and privacy laws, like [HIPAA](https://www.hhs.gov/hipaa/index.html). Otherwise, they can be governed by ISO Certification Standards, [FIPS](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-2.pdf), [ENISA](https://www.enisa.europa.eu/topics/standards/standards) or [OWASP](https://www.owasp.org/) among many others. 
+
+> Keeping applications and data in compliance based on industry and regional requirement has to be one of the biggest headache for IT department in many organizations.
 
 Enterprise security testing means ensuring that mobile app development incorporates security standards from the beginning. By establishing procedures that make security a priority throughout the process, all enterprises can reduce their risk to data breaches that can cause legal, financial, technological, and public relations nightmares.
 
-<br>
 ---
 
 <span style="color:grey">This article was co-authored by freelance editor, [Rae Steinbach](https://twitter.com/araesininthesun). Rae is a graduate of Tufts University with a combined International Relations and Chinese degree. After spending time living and working abroad in China, she returned to NYC to pursue her career and continue curating quality content. Rae is passionate about travel, food, and writing, of course.</span>
