@@ -3,7 +3,7 @@ layout: post
 title: Is Your Company Using These 8 Precautions to Prevent Mobile App Security Breaches?
 tags: [app security, precautions, enterprise, mobile, android, ios]  
 fb-img: http://wahibhaq.github.io/img/blog/posts/precautions-mobile-app-security/mobile-fraud.png
-published: false
+published: true
 ---
 
 <img src="http://wahibhaq.github.io/img/blog/posts/precautions-mobile-app-security/mobile-fraud.png" width="700" height="300" align="center">
@@ -72,6 +72,4 @@ Enterprise security testing means ensuring that mobile app development incorpora
 
 ---
 
-This article was co-authored by freelance editor, [Rae Steinbach](https://twitter.com/araesininthesun).
-
-Rae is a graduate of Tufts University with a combined International Relations and Chinese degree. After spending time living and working abroad in China, she returned to NYC to pursue her career and continue curating quality content. Rae is passionate about travel, food, and writing, of course.
+<span style="color:grey">This article was co-authored by freelance editor, [Rae Steinbach](https://twitter.com/araesininthesun). Rae is a graduate of Tufts University with a combined International Relations and Chinese degree. After spending time living and working abroad in China, she returned to NYC to pursue her career and continue curating quality content. Rae is passionate about travel, food, and writing, of course.</span>
