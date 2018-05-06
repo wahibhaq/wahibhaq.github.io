@@ -11,21 +11,17 @@
   <meta name="description" content="{{ page.subtitle }}">
   {% endif %}
 
-<<<<<<< HEAD
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
   {% include gtm_head.html %}
-=======
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
   
  <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
->>>>>>> new updates from beutifuljekyll
 
   {% if layout.common-ext-css %}
     {% for css in layout.common-ext-css %}
       {% include ext-css.html css=css %}
     {% endfor %}
-<<<<<<< HEAD
   {% endif %}
 
   {% if layout.common-css %}
@@ -34,8 +30,6 @@
     {% endfor %}
   {% endif %}
 
-=======
-  {% endif %}  
   {% if layout.common-ext-css %}
     {% for css in layout.common-ext-css %}
       <link rel="stylesheet" href="{{ css }}" />
@@ -58,7 +52,6 @@
       <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
     {% endfor %}
   {% endif %}
->>>>>>> new updates from beutifuljekyll
   {% if layout.common-googlefonts %}
     {% for font in layout.common-googlefonts %}
       <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
@@ -69,39 +62,31 @@
     {% for css in page.ext-css %}
       {% include ext-css.html css=css %}
     {% endfor %}
-<<<<<<< HEAD
   {% endif %}
 
-=======
-  {% endif %}  
   {% if layout.ext-css %}
     {% for css in layout.ext-css %}
       <link rel="stylesheet" href="{{ css }}" />
     {% endfor %}
   {% endif %}  
   
->>>>>>> new updates from beutifuljekyll
   {% if page.css %}
     {% for css in page.css %}
       <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
     {% endfor %}
   {% endif %}
-<<<<<<< HEAD
 
-=======
   {% if layout.css %}
     {% for css in layout.css %}
       <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
     {% endfor %}
   {% endif %}
   
->>>>>>> new updates from beutifuljekyll
   {% if page.googlefonts %}
     {% for font in page.googlefonts %}
       <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
     {% endfor %}
   {% endif %}
-<<<<<<< HEAD
 
     <!-- Facebook OpenGraph tags -->
   {% if site.fb_app_id %}
@@ -125,7 +110,6 @@
   {% endif %}
 
 
-=======
   {% if layout.googlefonts %}
     {% for font in layout.googlefonts %}
       <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
@@ -134,7 +118,6 @@
   
   <!-- Facebook OpenGraph tags -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
->>>>>>> new updates from beutifuljekyll
   <meta property="og:type" content="website" />
 
   {% if page.id %}
@@ -182,10 +165,7 @@
   {% if site.matomo %}
   {% include matomo.html %}
   {% endif %}
-<<<<<<< HEAD
 
 </head>
-=======
   
 </head>
->>>>>>> new updates from beutifuljekyll

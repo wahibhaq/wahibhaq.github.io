@@ -64,7 +64,6 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-<<<<<<< HEAD
   name: Some Person
 
 # Select your active Social Network Links.
@@ -97,7 +96,6 @@ share-links-active:
   facebook: true
   google: false
   linkedin: true
-=======
   name: Wahib-Ul-Haq
   email: "wahib.tech@gmail.com"
 #  facebook: yourname  # eg. daattali
@@ -117,7 +115,6 @@ footer-links-active:
   linkedin: true
   stackoverflow: true
   quora: true
->>>>>>> Updated About Me
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
