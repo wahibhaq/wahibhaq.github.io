@@ -1,15 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: "Or: why you'd want to hangout with me"
+subtitle: "Or: why you'd like to hangout with me"
 css: "/css/aboutme.css"
 ---
+
+*tl;dr: Android & other stuff at <a href="https://ki-labs.com" target="_blank">KI labs</a>. Ever-Curious Spirit. Lazy Storyteller. 🇵🇰 expat in 🇩🇪*
+
+
+<br>
 
 <div id="aboutme-section">
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-I'm a programmer by choice, user experience enthusiast and takes keen interest in more than just the coding side of an app. I am currently working as an <strong>Android Developer</strong> at <a href="https://ki-labs.com" target="_blank">KI labs</a> where I turn elixirs of code into always-happy customers and clients. Prior to this, I was at <a href="https://freeletics.com" target="_blank">Freeletics</a> for 2 years where I was working on the <a href="https://play.google.com/store/apps/details?id=com.freeletics.lite&hl=en" target="_blank">bodyweight</a> app. I first found my passion for <a href="https://developer.android.com/index.html" target="_blank">Android</a> whilst I was at university and have been working with it non-stop since – I find it an amazing platform. 
+My name is Wahib, I'm a programmer by choice, product developent enthusiast and someone who takes keen interest in more than just the coding side of a mobile app. I am currently working as an <strong>Android Developer</strong> at <a href="https://ki-labs.com" target="_blank">KI labs</a> where I turn elixirs of code into always-happy customers and clients. Prior to this, I was at <a href="https://freeletics.com" target="_blank">Freeletics</a> for 2 years where I was working on the <a href="https://play.google.com/store/apps/details?id=com.freeletics.lite&hl=en" target="_blank">bodyweight</a> app. I first found my passion for <a href="https://developer.android.com/index.html" target="_blank">Android</a> whilst I was at university and have been working with it non-stop since – I find it an amazing platform. 
 </p>
 
 <p class="about-text">
@@ -19,17 +24,19 @@ I completed <strong>BSc. Information and Communication Systems Engingeering</str
 
 <p class="about-text">
 <span class="fa fa-paper-plane about-icon"></span>
-I am a curious learner and passionate about things around Software, Startups, Food and Life in general. I'm an avid reader, easy-to-go guy, a foodie (I come from the lands of exotic food) and a lazy social activist. In my free time, I love travelling, reading books, hanging out with friends or watching a good movie at home. I recently published my first (personal) Android app on <a href="https://play.google.com/store/apps/details?id=com.androidistan.urdufontcomparator" target="_blank">Google Play</a> and also wrote <a href="http://wahibhaq.com/blog/introducing-urdu-font-comparator-app/" target="_blank">post</a> about the project. All hobby projects or the proverbial itch that needs scratching would go in <a href="http://wahibhaq.com/projects">projects</a> section.
+I am a curious learner and passionate about things around software, mobile computing, tech startups, history and culture in general. I'm an avid reader, easy-to-go guy, a foodie (I come from the lands of exotic food!). In my free time, I love travelling, reading books, hanging out with friends or watching a good movie at home. All hobby projects or the proverbial itch that needs scratching would go in <a href="http://wahibhaq.com/projects">projects</a> section.
 </p>
 
 <p class="about-text">
 <span class="fa fa-heartbeat about-icon"></span>
-I was born and bred in <strong>Rawalpindi, Pakistan</strong>. If you are curious to know more about multifaceted Pakistan <img src="/img/pakistan-flag.png" width="25" height="25">, then do checkout <a href="http://wahibhaq.com/pakistan-unveiled">Pakistan Unveiled</a>. I can successfully speak three languages (English, Urdu & Punjabi), and 'ein bisschen' or 'a little bit' level of German. 
+I was born and bred in <strong>Rawalpindi, Pakistan</strong> and quite an Urdu language enthusiast. I invested some time and energy last year to work on a side project to create awareness about using "Nastaliq" for Urdu on digital space. I ended up publishing an Android app on <a href="https://play.google.com/store/apps/details?id=com.androidistan.urdufontcomparator" target="_blank">Google Play</a> and also wrote <a href="http://wahibhaq.com/blog/introducing-urdu-font-comparator-app/" target="_blank">post</a> about the project.
+
+If you are curious to know more about multifaceted Pakistan <img src="/img/pakistan-flag.png" width="25" height="25"> and maybe thought about visiting, then do checkout <a href="http://wahibhaq.com/pakistan-unveiled">Pakistan Unveiled</a>. It is just a personal effort to compile updates about International tourists visiting Pakistan.
 </p> 
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon" id="contactme"></span>
-It’s another place I love to connect with like minded people, so feel free to ping me at <strong>wahib.tech@gmail.com</strong>, connect via <a href="https://www.linkedin.com/in/wahibhaq">Linkedin</a> or follow me on <a href="http://twitter.com/wahibhaq">Twitter</a>. I normally tweet about Android, All things Pakistani & life in Germany. I write what I like, but sometimes not, and any opinions I express are usually my own. 
+It’s another place I love to connect with like minded people, so feel free to ping me at <strong>wahib.tech@gmail.com</strong>, connect via <a href="https://www.linkedin.com/in/wahibhaq">Linkedin</a> or follow me on <a href="http://twitter.com/wahibhaq">Twitter</a> / <a href="http://instagram.com/not_that_pindi_boy">Instagram</a>. I normally tweet about Android, Expat, All things Pakistani & Life's lemons. I am a kind of lazy storyteller who likes to share about what's going around him. I write what I like, but sometimes not, and any opinions I express are usually my own. 
 </p>
 
 </div>
