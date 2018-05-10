@@ -23,7 +23,9 @@ description: A Personal Website and Blog !
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me:
+  - Bio: "aboutme"
+  - Resume: "resume-simple.html"
   Projects:
     - Hobby Projects: "hobby-projects"
     - Portfolio: "portfolio"
