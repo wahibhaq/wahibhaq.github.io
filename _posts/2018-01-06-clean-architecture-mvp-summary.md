@@ -1,8 +1,10 @@
 ---
 layout: post
-title: A Brief Summary of thoughts on Clean Architecture and MVP
+title:  Thoughts on Clean Architecture and MVP
+subtitle: A Brief Summary
 tags: [clean architecture, model view presenter, mvp, architecture, mobile, android]  
-fb-img: http://wahibhaq.github.io/img/blog/posts/summary-thoughts-clean-architecture-mvp/clean-architecture-ring-diagram.png
+share-img: http://wahibhaq.github.io/img/blog/posts/summary-thoughts-clean-architecture-mvp/clean-architecture-ring-diagram.png
+bigimg: /img/blog/posts/summary-thoughts-clean-architecture-mvp/clean-architecture-ring-diagram.png
 published: true
 ---
 

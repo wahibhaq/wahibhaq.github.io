@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Is Your Company Using These 8 Precautions to Prevent Mobile App Security Breaches?
+title:  Prevent Mobile App Security Breaches?
+subtitle: Is Your Company Using These 8 Precautions?
 tags: [app security, precautions, enterprise, mobile, android, ios]  
-fb-img: http://wahibhaq.github.io/img/blog/posts/precautions-mobile-app-security/mobile-fraud.png
+share-img: http://wahibhaq.github.io/img/blog/posts/precautions-mobile-app-security/mobile-fraud.png
+bigimg: /img/blog/posts/precautions-mobile-app-security/mobile-fraud.png
 published: true
 ---
-<br>
-<img src="http://wahibhaq.github.io/img/blog/posts/precautions-mobile-app-security/mobile-fraud.png" width="550" height="300" align="center">
-<br>Source: TechCrunch
+
 
 As the marketplace turns to mobile, large and small enterprises are seeing a rise in mobile security breaches. From [phishing attacks to failures](https://securityintelligence.com/six-major-data-breach-trends-from-2017/) in addressing known vulnerabilities, breaches are being reported across all industries.
 

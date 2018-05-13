@@ -2,12 +2,11 @@
 layout: post  
 title: Droidcon London 2016
 tags: [android, droidcon, conference, notes, resources]  
-fb-img: http://photos2.meetupstatic.com/photos/event/a/b/e/9/600_448424009.jpeg
+share-img: http://photos2.meetupstatic.com/photos/event/a/b/e/9/600_448424009.jpeg
+bigimg: /img/blog/posts/droidcon-london-2016/group-pic-with-tshirts.jpg
 published: true
 
 ---
-
-<br>
 
 
 This is just a small effort to transform my handwritten notes to a blog post. They are just important points, tips and things which I noted for myself to be explored later. For the talks whose videos are already published, I have made the title as hyperlink so that you can watch directly. For rest, you can explore yourself [here](http://uk.droidcon.com/#program).

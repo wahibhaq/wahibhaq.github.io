@@ -28,10 +28,10 @@ navbar-links:
   - Resume: "resume-simple.html"
   Projects:
     - Hobby Projects: "hobby-projects"
-    - Portfolio: "portfolio"
+    # - Portfolio: "portfolio"
   Community Work: 
-    - Presentations: "presentations" 
-    - Android DevChat for Pakistanis: "android-devchat-slack"
+    # - Presentations: "presentations" 
+    # - Android DevChat for Pakistanis: "android-devchat-slack"
     - Pakistan Unveilved: "pakistan-unveiled"
 
 # Image to show in the navigation bar - image must be a square (width = height)

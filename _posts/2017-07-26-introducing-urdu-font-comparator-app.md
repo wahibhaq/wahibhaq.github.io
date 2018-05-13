@@ -1,12 +1,12 @@
 ---
 layout: post
-title: How I ended up working on "Urdu Font Comparator" Project
+title: Urdu Font Comparator App
+subtitle: How I ended up working on this project
 tags: [android, urdu, font, pakistan, google play, open-source]  
-fb-img: http://wahibhaq.github.io/img/projects/Urdu_Banner_Cover.png
+share-img: http://wahibhaq.github.io/img/projects/Urdu_Banner_Cover.png
+bigimg: /img/blog/posts/urdu-font-comparator-project/urdu-cover.png
 published: true
 ---
-
-<br>
 
 > "If your life is not on a successful track, then ask yourself: Am I a consumer or a creator?"
  
