@@ -30,7 +30,7 @@ navbar-links:
     - Hobby Projects: "hobby-projects"
     # - Portfolio: "portfolio"
   Community Work: 
-    # - Presentations: "presentations" 
+    - Presentations & Talks: "presentations-and-talks" 
     # - Android DevChat for Pakistanis: "android-devchat-slack"
     - Pakistan Unveilved: "pakistan-unveiled"
 
