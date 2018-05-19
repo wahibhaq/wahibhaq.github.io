@@ -10,7 +10,7 @@ title: Presentations and Talks
 
 This is just my humble effort to share insights and learnings from my career and things I wish I would have known back in the day. There will be advice, rant, anecdotes, things which worked for me and how devs can step up their game.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/tJ3JLVmMjYRG9q" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/zvleUtXvi7jzqn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 --- 
 
