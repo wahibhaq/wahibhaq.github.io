@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Pakistan Unveiled
+title: Pakistan Tourism
 subtitle: "The country which cop a lot of flak in the media"
+bigimg: /img/blog/pakistan-mypassion-cover.jpg
 ---
 
-<div class="text-center">
-  <img src="{{ site.baseurl }}/img/blog/pakistan-mypassion-cover.jpg" />
-</div>
-
-This is where I would write about Pakistan, to clear misconceptions of outside world and would try to give a rational picture. Something more about how I feel the world should know my homeland and a nation of 200 million awesome human beings minus religious fanatics. 
+This is where I would write about Traveling to Pakistan, to clear misconceptions of outside world and would try to give a rational picture. Something more about how I feel the world should know my homeland and a nation of 200 million awesome human beings minus religious fanatics. 
 
 Sophee Southall, An australian travel blogger, famously described her [experience](http://sopheesmiles.com/2015/08/22/pakistan-unveiled/) of visiting Pakistan in these words.
 
@@ -50,6 +47,11 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Wonderful Pakistan album](https://www.facebook.com/media/set/?set=a.370615079670914.85280.143997832332641&type=3)
 
 ### Agencies/Portals to help you in planning trips
+
+#### Bike Trips
+  - [Karakoram Bikers](https://www.karakorambikers.com/about) is a well reputed team who deliver custom designed motorcycle tours that will see you fall in love with the northern areas of Pakistan.
+  
+#### Others  
 
   - [The Karakoram Club](https://web.facebook.com/groups/thekarakoramclub/?ref=nf_target&fref=nf) : This facebook group acts as a one stop platform for travel enthusiasts in Pakistan.
   - [K2 Kings Tourist Association of Pakistan](http://k2ktourists.com/) : This is a group of bikers who like to receive travelers, for pure entertainment, advise and help them with a sole intention of giving a good impression of Pakistan. It is completely non-profit and are very nice people.
