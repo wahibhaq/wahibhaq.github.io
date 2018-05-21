@@ -12,10 +12,6 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 > Ultimately, while Pakistan offers enough experiences to entertain short-term tourists, this complex country isn't a holiday destination, it's a unique classroom offering a sharp, character-building education for adventurous nomads. A trip to Pakistan will not only change your perspective on Pakistani and Muslim culture, it'll also challenge how you view the rest of the world especially countries which cop a lot of flak in the media.
 
 
-
-# Tourism : Visit Pakistan
----
-
 ### New Options for International Tourists
 
  - The guys from [The Broke Backpacker](http://www.thebrokebackpacker.com/) are planning a small operation with a focus on cultural experiences and real, off-the beaten path, adventures. They will take a group of International tourists to Pakistan in [September 2017](http://www.thebrokebackpacker.com/broke-backpacker-adventure-tours/). If you are interested than you should checkout the details of the trip in this [document](https://www.dropbox.com/s/nh3ca2j4rvr94oq/Incredible%20Pakistan%202017.pdf?dl=0).
