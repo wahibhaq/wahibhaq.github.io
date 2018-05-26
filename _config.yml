@@ -24,16 +24,17 @@ description: A Personal Website and Blog !
 # List of links in the navigation bar
 navbar-links:
   About Me:
-  - Bio: "aboutme"
-  - Resume: "resume-simple.html"
+  - Bio: "about-me/bio"
+  - Resume: "about-me/resume.html"
   Projects:
-    - Hobby Projects: "hobby-projects"
+    - Hobby Projects: "projects/hobby-projects"
     # - Voluntary Projects: "voluntary-projects"
     # - Portfolio: "portfolio"
   Community Work: 
-    - Presentations & Talks: "presentations-and-talks" 
-    - Android Slack for Pakistanis: "android-devchat-slack"
-    - Visit Pakistan: "pakistan-tourism"
+    - Presentations & Talks: "community-work/presentations-and-talks" 
+    - Android Slack for Pakistanis: "community-work/android-devchat-slack"
+    - Munich Startup Buzz: "community-work/munich-startup-buzz-fb"
+    - Pakistan Unveilved: "community-work/pakistan-unveiled"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
