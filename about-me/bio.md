@@ -14,7 +14,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-My name is Wahib, I'm a programmer by choice, product developent enthusiast and someone who takes keen interest in more than just the coding side of a mobile app. I am currently working as an <strong>Android Developer</strong> at <a href="https://ki-labs.com" target="_blank">KI labs</a> where I turn elixirs of code into always-happy customers and clients. Prior to this, I was at <a href="https://freeletics.com" target="_blank">Freeletics</a> for 2 years where I was working on the <a href="https://play.google.com/store/apps/details?id=com.freeletics.lite&hl=en" target="_blank">bodyweight</a> app. I first found my passion for <a href="https://developer.android.com/index.html" target="_blank">Android</a> whilst I was at university and have been working with it non-stop since – I find it an amazing platform. 
+My name is Wahib, I'm a programmer by choice, product development enthusiast and someone who takes keen interest in more than just the coding side of a mobile app. I am currently working as an <strong>Android Developer</strong> at <a href="https://ki-labs.com" target="_blank">KI labs</a> where I turn elixirs of code into always-happy customers and clients. Prior to this, I was at <a href="https://freeletics.com" target="_blank">Freeletics</a> for 2 years where I was working on the <a href="https://play.google.com/store/apps/details?id=com.freeletics.lite&hl=en" target="_blank">bodyweight</a> app. I first found my passion for <a href="https://developer.android.com/index.html" target="_blank">Android</a> whilst I was at university and have been working with it non-stop since – I find it an amazing platform. 
 </p>
 
 <p class="about-text">
