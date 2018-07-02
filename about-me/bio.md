@@ -24,7 +24,7 @@ I completed <strong>BSc. Information and Communication Systems Engingeering</str
 
 <p class="about-text">
 <span class="fa fa-paper-plane about-icon"></span>
-I am quite passionate about clean architecture, better processes and building the 'right' product for the end users. The "Product, Engineering and People" domain is something I am investing my energy in and trying to learn and grow myself. I'm an avid reader, easy-to-go guy, a foodie (I come from the lands of exotic food!). In my free time, I love travelling, reading books, hanging out with friends or watching a good movie at home. All hobby projects or the proverbial itch that needs scratching would go in <a href="http://wahibhaq.com/projects">projects</a> section.
+I am quite passionate about engineering culture, better processes and building the "right" product for the end users. The "Product, Engineering and People" domain is something I am investing my energy in and trying to learn and grow myself. I'm an avid reader, easy-to-go guy, a foodie (I come from the lands of exotic food!). In my free time, I love travelling, reading books, hanging out with friends or watching a good movie at home. All hobby projects or the proverbial itch that needs scratching would go in <a href="http://wahibhaq.com/projects">projects</a> section.
 </p>
 
 <p class="about-text">
