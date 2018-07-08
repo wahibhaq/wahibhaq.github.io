@@ -3,13 +3,9 @@ layout: page
 title: Projects
 ---
 
-# Always On-going
+# In Progress
 ---
 
-### [Ultimate Resources for Android Developers](https://github.com/wahibhaq/ultimate-resources-android-devs)
-
-Like any other developer, I explore, read and follow a lot of different resources related to Android and regularly bookmark something I feel like important and useful for future. I decided to publish my bookmarks and my research as my first blog post titled [**Ultimate Resources for Android Devs**](http://wahibhaq.com/blog/ultimate-resources-android-dev/). Then, I realized that it makes more sense to create a [repo](https://github.com/wahibhaq/ultimate-resources-android-devs) and keep updating it with the passage of time and ask other devs as well to contribute and help in increasing it's knowledgebase. 
-  
 <br>
   
 
@@ -39,6 +35,11 @@ We have currently 50+ members and it's growing every week. If you are interested
 
 I have been planning to have my personal website for a long time and finally, it is getting executed. It is hosted using [Jekyll](https://jekyllrb.com) as a static site generator with [GitHub Pages](https://pages.github.com). I was looking for something which saves me effort of hosting and still get that feeling of 'geekiness' of customizing things by hand. After extensive research to chose the appropriate theme, I ended up using [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/) theme which is clean, elegant and serves the purpose. The website is hosted on _Github_ as a public repository (obviously!) and made my domain i.e [**wahibhaq.com**](http://wahibhaq.com) point to the _Github Pages_ site.
 
+
+### [Ultimate Resources for Android Developers](https://github.com/wahibhaq/ultimate-resources-android-devs)
+
+Like any other developer, I explore, read and follow a lot of different resources related to Android and regularly bookmark something I feel like important and useful for future. I decided to publish my bookmarks and my research as my first blog post titled [**Ultimate Resources for Android Devs**](http://wahibhaq.com/blog/ultimate-resources-android-dev/). Then, I realized that it makes more sense to create a [repo](https://github.com/wahibhaq/ultimate-resources-android-devs) and keep updating it with the passage of time and ask other devs as well to contribute and help in increasing it's knowledgebase. 
+  
 ### Android Video Gallery  
     
 This is a demo application which was developed as a submission to coding challenge given by Dubsmash as first phase of hiring process.  Source is available on [Github](https://github.com/wahibhaq/android-videogallery).  
