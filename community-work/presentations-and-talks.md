@@ -11,7 +11,9 @@ Today, the idea that “every company needs to become a software company” is c
 
 <script async class="speakerdeck-embed" data-id="f819ae07935a475c82c3f71d578e9e12" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-### Hack your way to create a Website/Blog using Github Pages and Jekyll
+--- 
+
+## Hack your way to create a Website/Blog using Github Pages and Jekyll
 
 *Date: 07.06.2018, Event: KI labs University, Location: KI labs, Munich*
 
@@ -19,7 +21,9 @@ How developers can use Github Pages and Jekyll to bring their personal, organisa
 
 <script async class="speakerdeck-embed" data-id="764807e89b8a4c19862ff4e1453e7070" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-### Keynote talk: What all these years of Android Development have taught me the hard way
+---
+
+## Keynote talk: What all these years of Android Development have taught me the hard way
 
 *Date: 31.03.2018, Event: [AndroidDevFest](https://www.facebook.com/events/2028371470710712/), Location: Islamabad, Pakistan*
 
@@ -29,7 +33,7 @@ This is just my humble effort to share insights and learnings from my career and
 
 --- 
 
-### Introducing Google Design Sprint
+## Introducing Google Design Sprint
 
 *Date: 17.02.2018, Location: Munich, Germany*
 
