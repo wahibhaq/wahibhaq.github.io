@@ -9,6 +9,9 @@ title: Presentations and Talks
 
 Today, the idea that “every company needs to become a software company” is considered almost a cliché. AI and Automation has solved a lot of our problems but we just can't ignore how it'll change employment forever. McKinsey in their 2017 report projected that up to 800 million workers could be displaced globally and as many as 375 million may need to learn new skills for new occupational categories. This talk was meant to create awareness about this topic, highlight misconceptions and share some recommendations on what we can do on individual level to adapt.
 
+[![](http://img.youtube.com/vi/blIvBBv8DQY/0.jpg)](http://www.youtube.com/watch?v=blIvBBv8DQY "Future of Work in AI Economy")
+
+
 <script async class="speakerdeck-embed" data-id="f819ae07935a475c82c3f71d578e9e12" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 --- 
