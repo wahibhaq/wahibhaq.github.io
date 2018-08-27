@@ -3,8 +3,8 @@ layout: post
 title:  Is it legit to send remittances to home country via Transferwise?
 subtitle: Does it strengthen local currency?
 tags: [transferwise, expats, remittance, payment, PKR, pakistan's economy]  
-share-img: https://www.brecorder.com/wp-content/uploads/2018/01/dollar-rupee-1024.jpg
-bigimg: https://www.brecorder.com/wp-content/uploads/2018/01/dollar-rupee-1024.jpg
+share-img: https://c.tribune.com.pk/2018/06/1732654-money-1528704312-396-640x480.jpg
+bigimg: https://c.tribune.com.pk/2018/06/1732654-money-1528704312-396-640x480.jpg
 published: true
 ---
 
