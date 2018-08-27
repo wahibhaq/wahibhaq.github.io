@@ -11,7 +11,7 @@ published: true
 tl;dr: Transferwise works with pre-stocking Pakistani Rupee (PKR) in partner bank. It's legit and strengthens local currency when you use it to send remittances. 
 
 
-If you are a [desi](https://www.urbandictionary.com/define.php?term=desi&defid=1145091=) expat living abroad then probably you already know about [Transferwise](https://transferwise.com/) and already using it to send money across borders. I have been using [Transferwise](https://transferwise.com/) service for sending [remittances](https://transferwise.com/us/blog/definition-of-remittance) to family back home (Pakistan) for past 3 years now. In layman terms, expats use it to send money from their foreign currency bank account (Euros in my case) to any bank account in one of the supported countries where recipient receives equivalent money in local currency (Pakistani Rupee in my case). My reasons to continue using it includes cheapest transfer fees, best exchange rates, mobile-first approach, reliability and amazing support team. 
+If you are a [desi](https://www.urbandictionary.com/define.php?term=desi&defid=1145091=) expat living abroad then probably you already know about [Transferwise](https://transferwise.com/) and already using it to send money across borders. I have been using [Transferwise](https://transferwise.com/) service for sending [remittances](https://transferwise.com/us/blog/definition-of-remittance) to family back home (Pakistan) for past 3 years now. In layman terms, expats use it to send money from their foreign currency bank account (Euros in my case) to any bank account in one of the supported countries where recipient receives equivalent money in local currency (Pakistani Rupee in my case). My reasons to continue using it includes cheapest transfer fees, best exchange rates, [regulated](https://transferwise.com/help/article/1570150/security/what-is-the-fca), mobile-first approach, reliability and amazing support team. 
 
 > "The country largely depends on overseas Pakistanis to keep the wheel of the economy moving through their generous $20 billion" ~ [Khaleej Times](https://www.khaleejtimes.com/remittances-keep-pakistans-economy-afloat)
 
@@ -44,7 +44,7 @@ I received the response on the same day. They categorically denied the theory #1
 
 It proved that theory #2 was correct! So what I can conclude is that Transferwise keep pre-deposited money in local partner's bank account and use that channel to pay recipients. If their funds go low in that account then Transferwise will buy more local currency to fill it and most probably GBP curreny will be used for exchange. 
 
-**Transferwise remittance transactions probably don't directly result in bringing foreign currency across borders but indirectly it still contributes to it. when a banking entity in Pakistan becomes a part of whole chain of processes, it contributes to overall economy.** 
+**Transferwise remittance transactions probably don't directly result in bringing foreign currency across borders but indirectly it still contributes to it. When a banking entity in Pakistan becomes a part of whole chain of processes, it contributes to overall economy.** 
  
 > **Verdict: It's a win-win situation for us. Keep using Transferwise!**
 
