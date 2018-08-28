@@ -33,7 +33,7 @@ Now, this made me worried but also made me think and eventually pushed me to sha
 
 2) Transferwise already has a local bank account in PKR with pre-deposited money and they just use that account? 
 
-3) Transferwise business model goes something like this: if person A from Pakistan needs to send money to person B in UK and person C from UK is sending money to person D in Pakistan, they will essentially send C to B and A to D. And hence, the money never leaves border. To offset any imbalance in these payments they had previously deposited some extra cash in banks of each country but eventually everything balances out from within.
+3) Transferwise business model goes something like this: if person A from Pakistan needs to send money to person B in UK and person C from UK is sending money to person D in Pakistan, they will essentially send C to B and A to D. And hence, the money never leaves border. To offset any imbalance in these payments they had previously deposited some extra cash in banks of each country but eventually everything balances out from within. (I'll give credit to Shahqaan Qasim for this theory)
 
 I received the response on the same day. They categorically denied the theory #1 and #2. Support rep shared this info which was the key piece of information for me. 
 
