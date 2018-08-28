@@ -8,7 +8,7 @@ bigimg: https://c.tribune.com.pk/2018/06/1732654-money-1528704312-396-640x480.jp
 published: true
 ---
 
-tl;dr: Transferwise works with pre-stocking Pakistani Rupee (PKR) in partner bank. It's legit and strengthens local currency when you use it to send remittances. 
+TL;DR: Transferwise works with pre-stocking Pakistani Rupee (PKR) in partner bank. It's legit and strengthens local currency when you use it to send remittances. 
 
 
 If you are a [desi](https://www.urbandictionary.com/define.php?term=desi&defid=1145091=) expat living abroad then it's highly likely that you are already using [Transferwise](https://transferwise.com/u/wahibu) to send money across borders. I have been using [Transferwise](https://transferwise.com/u/wahibu) service for sending [remittances](https://transferwise.com/us/blog/definition-of-remittance) to family back home (Pakistan) for past 3 years now. In layman terms, expats use it to send money from their foreign currency bank account (Euros in my case) to any bank account in one of the supported countries where recipient receives equivalent money in local currency (Pakistani Rupee in my case). I personally prefer it over other modes of payment because of several reasons, including cheapest transfer fees, best exchange rates, [FCA regulated](https://transferwise.com/help/article/1570150/security/what-is-the-fca), mobile-first approach, reliability and amazing support team. 
