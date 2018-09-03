@@ -44,9 +44,10 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 
 ### International Tourists who visited Pakistan
 
+
 #### 2018
   
-  - Foreign tourists have been coming very regularly but very few got a chance to get viral and a well known face among Pakistanis. [Eva Zu Beck](https://www.youtube.com/c/evazubeck) is one of those faces for all the good reasons. She has been activily traveling around Pakistan and recording her [vlogs] (https://www.facebook.com/K2BaseCampTrekking/videos/1664209273668789/). She is also very active on her [Instagram](http://www.instagram.com/evazubeck) and you should follow her for good dose of traveling updates. She has tens of videos on Pakistan but I would like to give special mention to [Why I love Pakistan](https://www.youtube.com/watch?v=KPs0XrtQoGA) and [Everything you need to know](https://www.youtube.com/watch?v=5dFi2VAUEiI) videos because they offer some authentic knowledge to outside world.
+  - Foreign tourists have been coming very regularly but very few got a chance to get viral and a well known face among Pakistanis. [Eva Zu Beck](https://www.youtube.com/c/evazubeck) is one of those faces for all the good reasons. She has been activily traveling around Pakistan and recording her [vlogs](https://www.facebook.com/K2BaseCampTrekking/videos/1664209273668789/). She is also very active on her [Instagram](http://www.instagram.com/evazubeck) and you should follow her for good dose of traveling updates. She has tens of videos on Pakistan but I would like to give special mention to [Why I love Pakistan](https://www.youtube.com/watch?v=KPs0XrtQoGA) and [Everything you need to know](https://www.youtube.com/watch?v=5dFi2VAUEiI) videos because they offer some authentic knowledge to outside world.
    
   - World should remember a new name, Andrzej Bargiel because this guy did one hell of a crazy thing by putting down the first-ever ski descent of the Karakorum giant known as K2 in July 2018. You can read more about it [here](https://www.redbull.com/ca-en/andrzej-bargiel-summit-k2) and this is a short [video](https://www.youtube.com/watch?v=7ZRqeRRik8c).
   
