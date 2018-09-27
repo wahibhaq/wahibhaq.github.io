@@ -31,7 +31,7 @@ I am quite passionate about engineering culture, better processes and building t
 <span class="fa fa-heartbeat about-icon"></span>
 I was born and bred in <strong>Rawalpindi, Pakistan</strong> and quite an Urdu language enthusiast. I invested some time and energy last year to work on a side project to create awareness about using "Nastaliq" for Urdu on digital space. I ended up publishing an Android app on <a href="https://play.google.com/store/apps/details?id=com.androidistan.urdufontcomparator" target="_blank">Google Play</a> and also wrote <a href="http://wahibhaq.com/blog/introducing-urdu-font-comparator-app/" target="_blank">post</a> about the project.
 
-If you are curious to know more about multifaceted Pakistan <img src="/img/pakistan-flag.png" width="25" height="25"> and maybe ever thought about visiting, then do checkout <a href="http://wahibhaq.com/community-work/pakistan-tourism/">Visit Pakistan</a>. It is a personal effort to compile updates about International tourists visiting Pakistan and help you exploring all the good reasons to visit Pakistan :)
+If you are curious to know more about multifaceted Pakistan <img src="/img/pakistan-flag.png" width="25" height="25"> or maybe ever thought about visiting, then do checkout <a href="http://wahibhaq.com/community-work/pakistan-tourism/">Visit Pakistan</a>. It is a personal effort to compile updates about International tourists who've visited Pakistan in past and also help you in finding all the good reasons to visit as well :)
 </p> 
 
 <p class="about-text">
