@@ -107,6 +107,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
   - [Visit Swat](http://visitswat.org/)
   - [NorthFace Pakistan](https://www.facebook.com/northfaceofpakistan/)
   - [Mountain Madness Pakistan](https://www.facebook.com/mountainmadnesspakistan/?tn-str=k*F)
+  - [Hunza Adventure Tours](http://www.hunzaadventuretours.com.pk/) 
 
 ### Instruction Manual for Foreign Tourists
 
