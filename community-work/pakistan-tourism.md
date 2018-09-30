@@ -20,6 +20,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 
 ### Travel Documentaries
 
+  - [Zabardast](https://www.youtube.com/watch?v=rBvsaIBsVJY) is the video on intimate travel diary of an incredible freeride expedition into the heart of the Karakoram range. It will start [screening](https://www.picture-organic-clothing.com/en/poster/zabardast/) in December 2018. 
   - [Baboon valley](https://www.youtube.com/watch?v=uEQmLKl-8zQ) from [Ali Ahmed](https://www.facebook.com/aliahmedtraveldiaries/): Beautifully shot video of Baboon Valley, Patlian Lake and Neelum Valley.
   - [Gilgit Baltistan.](https://www.youtube.com/watch?v=lprqtvNXmv8) (Made by Qammer Wazir): Aerial view of different places in Gilgit Baltistan including Skardu, Karakoram Highway, Deosai, Hunza Nagar, Ataabad Lake, Kachura Lakes and Shigar valley.
   - [Skardu - Land Of Dreams](https://www.facebook.com/mountainmadnesspakistan/videos/vb.654111224689769/1348852781882273/?type=2&theater) from Ali Ahmed and Rizwan Ahmed: Amazing effort to capture some absolutely stunning shots of Skardu and mainly the world famous high-altitude Cold Desert. These guys have covered some awesome places and you should check out their videos.
@@ -47,6 +48,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 
 #### 2018
   
+  - 8 French mountaineers spent 5 weeks in Pakistan during May and skied from the Biacherahi Tower standing at 5880m. Their documentary will be [screened](https://www.picture-organic-clothing.com/en/poster/zabardast/) in December 2018 but [trailor](https://www.youtube.com/watch?v=rBvsaIBsVJY) is already available.
   - Foreign tourists have been coming very regularly but very few got a chance to get viral and a well known face among Pakistanis. [Eva Zu Beck](https://www.youtube.com/c/evazubeck) is one of those faces for all the good reasons. She has been activily traveling around Pakistan and recording her [vlogs](https://www.facebook.com/K2BaseCampTrekking/videos/1664209273668789/). She is also very active on her [Instagram](http://www.instagram.com/evazubeck) and you should follow her for good dose of traveling updates. She has tens of videos on Pakistan but I would like to give special mention to [Why I love Pakistan](https://www.youtube.com/watch?v=KPs0XrtQoGA) and [Everything you need to know](https://www.youtube.com/watch?v=5dFi2VAUEiI) videos because they offer some authentic knowledge to outside world.
    
   - World should remember a new name, Andrzej Bargiel because this guy did one hell of a crazy thing by putting down the first-ever ski descent of the Karakorum giant known as K2 in July 2018. You can read more about it [here](https://www.redbull.com/ca-en/andrzej-bargiel-summit-k2) and this is a short [video](https://www.youtube.com/watch?v=7ZRqeRRik8c).
