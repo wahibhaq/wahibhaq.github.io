@@ -3,6 +3,16 @@ layout: page
 title: Presentations and Talks
 ---
 
+### Kotlin, What the Hype?
+
+*Date: 26.10.2018, Event: KI University, Location: KI labs, Munich*
+
+This talk was given as part of our regular bi-weekly "KI University" session which is an internal company event. It was meant to help other engineers getting familiar with the idea of "Kotlin" and motivate them to see its potential which goes beyond Android.
+
+<script async class="speakerdeck-embed" data-id="dcb3a30f07c5409ca21fa773445e7f6b" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+---
+
 ### Future of Work in an AI Economy
 
 *Date: 28.07.2018, Event: [Lightning Talks Munich](https://www.facebook.com/events/1982521875115551/), Location: Munich*
@@ -18,7 +28,7 @@ Today, the idea that “every company needs to become a software company” is c
 
 ## Hack your way to create a Website/Blog using Github Pages and Jekyll
 
-*Date: 07.06.2018, Event: KI labs University, Location: KI labs, Munich*
+*Date: 07.06.2018, Event: KI University, Location: KI labs, Munich*
 
 How developers can use Github Pages and Jekyll to bring their personal, organisation or project websites up and running without any cost.
 
