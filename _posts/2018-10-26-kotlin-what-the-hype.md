@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Kotlin, What the hype?
-subtitle: Seeing potential of Kotlin
+subtitle: Kotlin is not just for Android!
 tags: [kotlin, programming language, android, multi-platform, jetbrains]  
 share-img: https://kotlinlang.org/assets/images/twitter-card/kotlin_800x320.png
 bigimg: https://kotlinlang.org/assets/images/twitter-card/kotlin_800x320.png
