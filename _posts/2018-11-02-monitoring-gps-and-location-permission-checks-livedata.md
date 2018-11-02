@@ -25,10 +25,15 @@ I faced several challenges while doing that and decided to share my learnings an
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/273389/47611112-c152a500-da5e-11e8-85dd-73dbd1cd1e7c.png" width="150" height="350" align="left"> 
+<img src="https://user-images.githubusercontent.com/273389/47611112-c152a500-da5e-11e8-85dd-73dbd1cd1e7c.png" width="200" height="350" align="middle"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<img src="https://user-images.githubusercontent.com/273389/47611114-cb74a380-da5e-11e8-8a78-18b315703620.png" width="200" height="350" align="middle"> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<img src="https://user-images.githubusercontent.com/273389/47611116-d2031b00-da5e-11e8-8875-3c9fb9d6bfc2.png" width="200" height="350" align="middle">
 
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/273389/47611109-b13ac580-da5e-11e8-8464-930819aa476c.png" width="200" height="200" align="middle"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <img src="https://media.giphy.com/media/xWfplzYLnWSF3zivrm/giphy.gif" width="200" height="350" align="middle"> 
-
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <img src="https://media.giphy.com/media/1ynT3NyWY0daNA8XEk/giphy.gif" width="200" height="350" align="middle">
 
