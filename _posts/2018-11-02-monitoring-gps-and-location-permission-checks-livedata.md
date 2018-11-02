@@ -1,13 +1,8 @@
----
-title: 
-published: true
-description: 
-tags: 
----
 
 ---
 layout: post
-title:  Monitoring GPS and Location Permission checks using LiveData (Part 1 & 2)
+title:  Monitoring GPS and Location Permission checks using LiveData
+subtitle: Part 1 and Part 2
 tags: [Android, LiveData, GPS, Runtime Permission, Kotlin]  
 share-img: https://user-images.githubusercontent.com/273389/47611109-b13ac580-da5e-11e8-8464-930819aa476c.png
 published: true
