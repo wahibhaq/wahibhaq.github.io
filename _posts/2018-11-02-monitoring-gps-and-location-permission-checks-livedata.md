@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Monitoring GPS and Location Permission checks using LiveData
