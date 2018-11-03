@@ -47,7 +47,8 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 
 
 #### 2018
-  
+
+  - Mark Wiens is the face behind [Migrationalogy](https://www.facebook.com/migrationology/?eid=ARDQDrIUG3AEkNin1MyWw_vE6Wtu7g22Ks33gpKU6eK_gLbNd_Lw9kAn7tskoURy8obqGTF7RJY2CXIW) and he travelled to Pakistan in October 2018. Mark is a full time travel eater and video blogger, who loves to share local food experiences with the world. See his [video](https://www.facebook.com/migrationology/videos/887543928302252/?__xts__%5B0%5D=68.ARDJD-ZOY_tKYMPzSc7dxXZZMGvNdIQygIqBjLAXp--avJ-qeGCnGWBkeIqgTL_3_BrU9i4BQa2goCnpF3SSzC8cLSTgEPXcjdTm5nroMJAy9eRkAVXK5sXICSy6zy3a1HpVAI9jk14FcgtJXN8jLHrZi4NSjz_Igd3V3gaky31qPM2hGuEmitvgwT0bABRwpbbPm8dZ1Yni9nWcR4fIyY0zFOxtaDeIhdkXOz8&__tn__=-R) where he shared about a trip of his lifetime.
   - 8 French mountaineers spent 5 weeks in Pakistan during May and skied from the Biacherahi Tower standing at 5880m. Their documentary will be [screened](https://www.picture-organic-clothing.com/en/poster/zabardast/) in December 2018 but [trailor](https://www.youtube.com/watch?v=rBvsaIBsVJY) is already available.
   - Foreign tourists have been coming very regularly but very few got a chance to get viral and a well known face among Pakistanis. [Eva Zu Beck](https://www.youtube.com/c/evazubeck) is one of those faces for all the good reasons. She has been activily traveling around Pakistan and recording her [vlogs](https://www.facebook.com/K2BaseCampTrekking/videos/1664209273668789/). She is also very active on her [Instagram](http://www.instagram.com/evazubeck) and you should follow her for good dose of traveling updates. She has tens of videos on Pakistan but I would like to give special mention to [Why I love Pakistan](https://www.youtube.com/watch?v=KPs0XrtQoGA) and [Everything you need to know](https://www.youtube.com/watch?v=5dFi2VAUEiI) videos because they offer some authentic knowledge to outside world.
    
