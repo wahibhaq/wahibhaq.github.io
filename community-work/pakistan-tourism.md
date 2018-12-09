@@ -42,6 +42,17 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
  - Travel [film](https://www.facebook.com/AWboys/videos/1160330464097306/) titled "Among Giants", shot over Deosai National Park, Baltoro Glacier and K2 Mountain. It's hard to believe that Pakistan holds such wonders the rest of the world simply isn't aware of.
  - [Video](https://www.facebook.com/northfaceofpakistan/videos/1954116854829717/) about Road Trip from Naran > Gilgit > Ghizer > Chitral and showing some breathtaking scenery. 
 
+### Local Bloggers
+
+ - [Country Roads](http://countryroads.pk/) 
+
+
+### Local Vloggers
+
+ - [Ukhano](https://www.youtube.com/channel/UC4NQ7dQ171deDBPGAs24CEA) 
+ - [Irfan Junejo](https://www.youtube.com/channel/UCUuDUW0Y6IQZYDvH1QQBsgA)
+ - [Mooroo](https://www.youtube.com/channel/UC-rP-oFlxQGpSLYHBlhIWkg)
+
 
 ### International Tourists who visited Pakistan
 
