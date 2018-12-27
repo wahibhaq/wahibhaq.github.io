@@ -52,6 +52,10 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
  - [Ukhano](https://www.youtube.com/channel/UC4NQ7dQ171deDBPGAs24CEA) 
  - [Irfan Junejo](https://www.youtube.com/channel/UCUuDUW0Y6IQZYDvH1QQBsgA)
  - [Mooroo](https://www.youtube.com/channel/UC-rP-oFlxQGpSLYHBlhIWkg)
+ 
+### Best Local Instagrammers to follow
+
+ - [EveryDayPakistan Project](https://www.instagram.com/everydaypakistan/)
 
 
 ### International Tourists who visited Pakistan
