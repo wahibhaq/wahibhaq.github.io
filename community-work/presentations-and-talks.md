@@ -9,9 +9,12 @@ title: Presentations and Talks
 
 This talk was about sharing our learnings with the community while using Kotlin Coroutines for an interesting use case we had in our project. We are barely scratching the surface but I felt it might help others in making some better decisions with parent-child setup if they know the different uses of certain CoroutineScopes. 
 
+#### Recording of the Talk
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="cs" dir="ltr">KTUG Jan Meetup - Preslav (Data Science) <a href="https://t.co/UCSRmOITv0">https://t.co/UCSRmOITv0</a></p>&mdash; KTUG Munich (@KTUGMunich) <a href="https://twitter.com/KTUGMunich/status/1089960356057964544?ref_src=twsrc%5Etfw">January 28, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+#### Slides
 
 <script async class="speakerdeck-embed" data-id="57153cc20afc4883b10df98e95f42007" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
