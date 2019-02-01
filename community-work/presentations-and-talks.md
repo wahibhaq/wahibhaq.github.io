@@ -11,7 +11,7 @@ This talk was about sharing our learnings with the community while using Kotlin 
 
 #### Recording of the Talk
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="cs" dir="ltr">KTUG Jan Meetup - Preslav (Data Science) <a href="https://t.co/UCSRmOITv0">https://t.co/UCSRmOITv0</a></p>&mdash; KTUG Munich (@KTUGMunich) <a href="https://twitter.com/KTUGMunich/status/1089960356057964544?ref_src=twsrc%5Etfw">January 28, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="in" dir="ltr">KTUG Jan Meetup - Wahib (Koroutines) <a href="https://t.co/XBImOxNQbf">https://t.co/XBImOxNQbf</a></p>&mdash; KTUG Munich (@KTUGMunich) <a href="https://twitter.com/KTUGMunich/status/1089953855700226050?ref_src=twsrc%5Etfw">January 28, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### Slides
