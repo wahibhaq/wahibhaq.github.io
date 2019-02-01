@@ -130,3 +130,4 @@ For an employer, being Agile is a critical requirement and hence the expectation
 * [A complete idiot’s guide to Clean Architecture](https://android.jlelse.eu/a-complete-idiots-guide-to-clean-architecture-2422f428946f)
 * [Reactive Clean Architecture with Android Architecture Components
 ](https://mag.n26.com/reactive-clean-architecture-with-android-architecture-components-685a6682e0ca)
+* [Discover the Benefits of Android Clean Architecture](https://www.toptal.com/android/benefits-of-clean-architecture-android)
