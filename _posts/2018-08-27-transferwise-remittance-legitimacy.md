@@ -15,7 +15,7 @@ If you are a [desi](https://www.urbandictionary.com/define.php?term=desi&defid=1
 
 > "The country largely depends on overseas Pakistanis to keep the wheel of the economy moving through their generous $20 billion" ~ [Khaleej Times](https://www.khaleejtimes.com/remittances-keep-pakistans-economy-afloat)
 
-All Overseas Pakistanis use this argument to support their patriotism but fact remains that remittances are extremely important for Pakistan's economy. This is why question like *"Does my money really moves across borders when using Transferwise?"* or in other terms *"Am I really contributing into Pakistani economy by sending money through Transferwise?"* matters a lot. I have thought about it many times but never felt important or concerned enough to research on it. Long story short, Pakistan's new Prime Minister's [presidential address](https://www.telegraph.co.uk/news/2018/08/20/imran-khan-scrap-hundreds-staff-move-three-bed-home-pledges/) made me re-think about it because Imran Khan stressed on expats and remittances. Then I noticed two instances of facebook posts where people asked about it and somehow I got motivated to investigate it myself. 
+All Overseas Pakistanis use this argument to support their patriotism but fact remains that remittances are extremely important for Pakistan's economy. This is why question like *"Am I doing Hundi/Hawala (which is illegal)?"*, *"Does my money really moves across borders when using Transferwise?"* or in other terms *"Am I really contributing into Pakistani economy by sending money through Transferwise?"* matters a lot. I have thought about it many times but never felt important or concerned enough to research on it. Long story short, Pakistan's new Prime Minister's [presidential address](https://www.telegraph.co.uk/news/2018/08/20/imran-khan-scrap-hundreds-staff-move-three-bed-home-pledges/) made me re-think about it because Imran Khan stressed on expats and remittances. Then I noticed two instances of facebook posts where people asked about it and somehow I got motivated to investigate it myself. 
 
 I already knew two things about their modus operandi. Firstly, TransferWise avoids costs by having their own local bank accounts in the majority of the countries they transfer to. That means that for these currencies no international transfers are actually needed, and the saving can be passed on to the customer. Secondly, their partner bank in Pakistan is [Habib Bank Limited](http://www.hbl.com/) (HBL) and I learned this the hard way because once my transaction was delayed by them. 
 
@@ -47,6 +47,10 @@ It proved that theory #2 was correct! So what I can conclude is that Transferwis
 **Transferwise remittance transactions probably don't directly result in bringing foreign currency across borders but indirectly it still contributes to it. When a banking entity in Pakistan becomes a part of whole chain of processes, it contributes to overall economy.** 
  
 > **Verdict: It's a win-win situation for us. Keep using Transferwise!**
+
+### Update:
+
+I recently found out that Transferwise has published a very comprehensive article on exactly this topic, [What is Hawala?](https://transferwise.com/gb/blog/what-is-hawala) which further explains what I already concluded from my own research. 
 
 If someone knows more or have a different understanding then please feel free to reach out to me on [twitter](https://twitter.com/wahibhaq).
 
