@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Kotlin Coroutines: How to continue work even when children tasks fail or timeout
+title:  How to continue work even when children tasks fail or timeout using Kotlin Coroutines
 tags: [kotlin, coroutines, android, aync programming, exceptions]  
 share-img: https://d3nmt5vlzunoa1.cloudfront.net/kotlin/files/2018/10/1_3_banner_dark.png
 published: true
