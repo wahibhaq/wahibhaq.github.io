@@ -60,6 +60,9 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 
 ### International Tourists who visited Pakistan
 
+#### 2019
+
+  - [Rosie Gabriele](https://www.facebook.com/RosieGabrielle/) is doing a solo motorcycle trip through Pakistan and she has already done 1500 Km and [love it](https://www.facebook.com/RosieGabrielle/photos/a.351375065201192/813398552332172/?type=3&permPage=1). She actively shares her experiences via stories and vlogs from her [Instagram account](https://www.instagram.com/rosiegabrielle/?fbclid=IwAR14juBu2d1sfUbarwVHgr4OE_DaATR2udcjlI-MpSBL3Slb0S50Kf8d1pM). 
 
 #### 2018
   
