@@ -16,7 +16,8 @@ This Dev Community is open for all kinds of Android developers (beginner/advance
 *This screenshot can give an idea of types of channels we have*
 
 
-**In just 1 year or so, we have reached 100+ members** <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/rocket_1f680.png" width="25" height="25">
+**After roughly 2 years, we have reached 150+ members** <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/rocket_1f680.png" width="25" height="25">
 
+It is also registered on [Slofile](https://slofile.com/slack/androiddevs-pakistan) which is a public Slack community database.
 
 > **You are most welcome to join us --> [Click Here!](https://slack-androidpak-landingpage.herokuapp.com/)**
