@@ -43,6 +43,19 @@ This talk was given as part of our regular bi-weekly "KI University" session whi
 
 ---
 
+### Monitoring GPS and Location Permission checks using LiveData
+
+*Date: 08.08.2018, Event: [Android BBQ Munich](https://www.meetup.com/GDG-Munich-Android/events/251431459/)*
+
+In our last project, we had to implement checks to ensure GPS is enabled on the device and Location Permission is granted by the user. It is important to highlight that both are critically needed to ensure the app can perform Location Tracking in background. Our best bet was to inform visually when the app is in the foreground or background in order to encourage the user to fulfill one or both of these requirements. This was only possible when UI (Activity/Fragment) and Service can listen to changes in GPS and Runtime Permission and react accordingly.
+
+I faced several challenges while doing that and decided to solve it using LiveData. 
+
+<script async class="speakerdeck-embed" data-id="0c5bc59951394469abb1137c349415ff" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+
+---
+
 ### Future of Work in an AI Economy
 
 *Date: 28.07.2018, Event: [Lightning Talks Munich](https://www.facebook.com/events/1982521875115551/), Location: Munich*
