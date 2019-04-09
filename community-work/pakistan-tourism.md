@@ -20,6 +20,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 
 ### Travel Documentaries
 
+  - [Drew Binsky]() visited Pakistan in March-April 2019 and tagged Pakistan as one of his all time favourite countries. He published several videos but my two most favourite ones are these: 1) [10 Things I love about Pakistan](https://www.youtube.com/watch?v=GZcpbEF7MAk&t=1s) and 2) [How Cheap is Pakistan?](https://www.youtube.com/watch?v=c5Z-ovcszoA)   
   - Eva had a chance to speak in front of the Prime Minister of Pakistan, Imran Khan, and shared her experience of Pakistan over the last year in this [video](https://web.facebook.com/watch/?v=2297754343879987). In her words, "I strongly believe that the country has infinite tourism potential, and I can’t wait to see Pakistanis from all regions benefit from this. And, of course, I can’t wait for the whole world to see what Pakistan is truly like."
   - Sindh has been home to one of the oldest civilisations in the world. Stories are seeped into its soil, legends whispered across its land. In this [short film](https://www.facebook.com/dawndotcom/videos/392501691315376/UzpfSTE2MjQ5ODIxOTc4MzI1NzM6MjE1NDY0NjkxNDg2NjA5Ng/) #PakistanIsLegendary by Shanakht Studio, narrator [Eva zu Beck](https://www.facebook.com/evazubeck/?eid=ARD7rLhisdfwj2wi5QmFcd7ueVSzbb1ckkZLuZgsWfTZE2c4aGxmmNLlR8wWkeDDcmnBGPJSNFvltugL&fref=tag) tells us about the star-crossed lovers Sohni and Mahiwal, shares the legend of Udero Lal, and visits the shrine of Shah Abdul Latif Bhitai.
   - [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) is the video on intimate travel diary of an incredible freeride expedition into the heart of the Karakoram range. It will start [screening](https://www.picture-organic-clothing.com/en/poster/zabardast/) in December 2018. 
@@ -65,6 +66,7 @@ Sophee Southall, An australian travel blogger, famously described her [experienc
 #### 2019
 
   - [Rosie Gabriele](https://www.facebook.com/RosieGabrielle/) is doing a solo motorcycle trip through Pakistan and she has already done 1500 Km and [love it](https://www.facebook.com/RosieGabrielle/photos/a.351375065201192/813398552332172/?type=3&permPage=1). She actively shares her experiences via stories and vlogs from her [Instagram account](https://www.instagram.com/rosiegabrielle/?fbclid=IwAR14juBu2d1sfUbarwVHgr4OE_DaATR2udcjlI-MpSBL3Slb0S50Kf8d1pM). 
+  - [Drew Binsky](https://www.youtube.com/channel/UC0Ize0RLIbGdH5x4wI45G-A) is a very famous travel blogger and he spent 2 weeks in Pakistan and recorded several videos which you can watch on his youtube channel. 
 
 #### 2018
   
