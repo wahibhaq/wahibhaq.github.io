@@ -9,6 +9,8 @@ title: Presentations and Talks
 
 This was meant to share my personal hassle while dealing with restrictions enforced by Doze mode and App Standby buckets in the context of Notifications. Since 6.0, Android is trying to introduce more restrictions to make battery saving more efficient for its users but sometimes it can make life a bit difficult for developers. Important thing is to be aware of how Doze and Standby works and what we can do about it. We can either embrace it or try to fight it.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">2nd last talk at our <a href="https://twitter.com/hashtag/io19extended?src=hash&amp;ref_src=twsrc%5Etfw">#io19extended</a> event in munich Was <a href="https://twitter.com/wahibhaq?ref_src=twsrc%5Etfw">@wahibhaq</a> talking about doze mode and notification <a href="https://t.co/lex81TPNBc">pic.twitter.com/lex81TPNBc</a></p>&mdash; Benjamin Stürmer (@BenjaminStrmer) <a href="https://twitter.com/BenjaminStrmer/status/1125874581292691456?ref_src=twsrc%5Etfw">May 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 #### Slides
 
 <script async class="speakerdeck-embed" data-id="ddc64f16a3e84232af6e519a4ea635ec" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
