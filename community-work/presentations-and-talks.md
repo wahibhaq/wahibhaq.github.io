@@ -3,6 +3,18 @@ layout: page
 title: Presentations and Talks
 ---
 
+### Battery Optimization Restrictions meets Notifications
+
+*Date: 07.05.2019, Event: [Google I/O Extended Meetup](https://www.meetup.com/GDG-Munich-Android/events/260535959/)*
+
+This was meant to share my personal hassle while dealing with restrictions enforced by Doze mode and App Standby buckets in the context of Notifications. Since 6.0, Android is trying to introduce more restrictions to make battery saving more efficient for its users but sometimes it can make life a bit difficult for developers. Important thing is to be aware of how Doze and Standby works and what we can do about it. We can either embrace it or try to fight it.
+
+#### Slides
+
+<script async class="speakerdeck-embed" data-id="ddc64f16a3e84232af6e519a4ea635ec" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+---
+
 ### Kotlin Coroutines: How to continue work even when children tasks fail or timeout
 
 *Date: 28.01.2019, Event: [KTUG Munich Jan Meetup](https://www.meetup.com/Kotlin-User-Group-Munich/events/257927489/)*
