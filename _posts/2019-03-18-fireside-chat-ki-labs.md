@@ -2,7 +2,7 @@
 layout: post
 title: Fireside Chat with KI labs 
 tags: [android, interview, about me, pakistan, career, industry]  
-share-img: https://images.unsplash.com/photo-1531403009284-440f080d1e12
+share-img: https://images.unsplash.com/photo-1482442120256-9c03866de390
 published: true
 ---
 
