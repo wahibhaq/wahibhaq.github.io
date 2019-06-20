@@ -25,7 +25,7 @@ Back in 2017, I felt a strong need to connect with fellow Android Devs in <img s
 
 ### Join Us!
 
-<a href="https://drive.google.com/uc?export=view&id=folders/1YSwZBrxYdUUkt_KacbPgMAM49R-n1x_M"><img src="https://drive.google.com/uc?export=view&id=folders/1YSwZBrxYdUUkt_KacbPgMAM49R-n1x_M" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+<a href="https://drive.google.com/uc?export=view&id=16xR0XsyqqWEzkQahpcZVzHFAY-sZAfe3"><img src="https://drive.google.com/uc?export=view&id=16xR0XsyqqWEzkQahpcZVzHFAY-sZAfe3" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 You can join our meetup community -> [https://www.meetup.com/Dev-Rel-Munich/](https://www.meetup.com/Dev-Rel-Munich/)
 
