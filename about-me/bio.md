@@ -5,7 +5,7 @@ subtitle: "Or: why you'd like to hangout with me"
 css: "/css/aboutme.css"
 ---
 
-*tl;dr: Android & other stuff at <a href="https://payback.net" target="_blank">PAYBACK</a>. Got a thing for Product, Engineering, Community & Sarcasm. Lazy Storyteller. 🇵🇰 expat in 🇩🇪*
+*tl;dr: 🇵🇰 expat in 🇩🇪. Android & other interesting stuff at [PAYBACK](https://payback.net). Co-Organizer of <a href="https://www.meetup.com/Dev-Rel-Munich/t" target="_blank">@DevRelMunich</a>. Founder of [AndroidDevChat for Pakistanis](https://slofile.com/slack/androiddevs-pakistan) slack community. Got a thing for Product, Engineering, Community & Sarcasm. Lazy Storyteller.*
 
 
 <br>
@@ -14,7 +14,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-My name is Wahib, I'm a programmer by choice, product development enthusiast and someone who takes keen interest in more than just the coding side of a mobile app. I am currently working as an <strong>Senior Android Developer</strong> at <a href="https://payback.net" target="_blank">PAYBACK</a> where I turn elixirs of code into always-happy users. Prior to this, I have worked at <a href="https://ki-labs.com" target="_blank">KI labs</a>, <a href="https://freeletics.com" target="_blank">Freeletics(~20M users)</a>, <a href="https://www.thinxnet.com/" target="_blank">ThinxNet</a>, <a href="https://techcrunch.com/2015/05/28/apple-metaio/" target="_blank">Metaio (acquired by Apple Inc.)</a> and <a href="https://www.dplit.com/" target="_blank">DPLIT</a>. I first found my passion for <a href="https://developer.android.com/index.html" target="_blank">Android</a> whilst I was at university and have been working with it non-stop since – I find it an amazing platform. I have worked in early age startups, mid-size services company and high-growth product companies which has helped me grow in leadership, teamwork, and knowledge.
+My name is Wahib, I'm a programmer by choice, product development enthusiast and someone who takes keen interest in more than just the coding side of a mobile app. I am currently working as an <strong>Senior Android Developer</strong> at <a href="https://payback.net" target="_blank">PAYBACK</a> where I turn elixirs of code into always-happy users of [PAYBACK app](https://play.google.com/store/apps/details?id=de.payback.client.android&hl=en). Prior to this, I have worked at <a href="https://ki-labs.com" target="_blank">KI labs</a>, <a href="https://freeletics.com" target="_blank">Freeletics(~20M users)</a>, <a href="https://www.thinxnet.com/" target="_blank">ThinxNet</a>, <a href="https://techcrunch.com/2015/05/28/apple-metaio/" target="_blank">Metaio (acquired by Apple Inc.)</a> and <a href="https://www.dplit.com/" target="_blank">DPLIT</a>. I first found my passion for <a href="https://developer.android.com/index.html" target="_blank">Android</a> whilst I was at university and have been working with it non-stop since – I find it an amazing platform. I have worked in early age startups, mid-size services company and high-growth product companies which has helped me grow in leadership, teamwork, and knowledge.
 </p>
 
 <p class="about-text">
