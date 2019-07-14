@@ -5,7 +5,7 @@ subtitle: "Or: why you'd like to hangout with me"
 css: "/css/aboutme.css"
 ---
 
-*tl;dr: 🇵🇰 expat in 🇩🇪. Android & other interesting stuff at [PAYBACK](https://payback.net). Co-Organizer of <a href="https://www.meetup.com/Dev-Rel-Munich/t" target="_blank">@DevRelMunich</a>. Founder of [AndroidDevChat for Pakistanis](https://slofile.com/slack/androiddevs-pakistan) slack community. Got a thing for Product, Engineering, Community & Sarcasm. Lazy Storyteller.*
+*tl;dr: 🇵🇰 expat in 🇩🇪. Currently, working as Senior Android Developer at [PAYBACK](https://payback.net). Co-Organizer of <a href="https://www.meetup.com/Dev-Rel-Munich/t" target="_blank">@DevRelMunich</a>. Founder of [AndroidDevChat for Pakistanis](https://slofile.com/slack/androiddevs-pakistan) slack community. Got a thing for Product, Engineering, Developer Marketing & Sarcasm. Lazy Storyteller.*
 
 
 <br>
