@@ -28,6 +28,11 @@ I am quite passionate about engineering culture, better processes and building t
 </p>
 
 <p class="about-text">
+<span class="fa fa-paper-plane about-icon"></span>
+I strongly believe in giving back to the community and always looking for opportunities to learn and share knowledge with others. I write blogs, <a href="http://wahibhaq.com/community-work/presentations-and-talks/">speak at events</a> and co-organize <a href="http://wahibhaq.com/community-work/developer-relations-meetup/">@DevRelMunich community</a> events in Munich. I have been running <a href="http://wahibhaq.com/community-work/android-devchat-slack/">"AndroidDevChat" Slack community</a> for Pakistani Android Devs for more than 2 years now. This year, I have also been part of <a href="https://www.bshaccelerator.com/">BSH Smart Home Accelerator program</a> as a <a href="https://www.techstars.com/mentors/wahib-ul-haq/">"Startup Mentor"</a>.
+</p>
+
+<p class="about-text">
 <span class="fa fa-heartbeat about-icon"></span>
 I was born and bred in <strong>Rawalpindi, Pakistan</strong> and quite an Urdu language enthusiast. I invested some time and energy last year to work on a side project to create awareness about using "Nastaliq" for Urdu on digital space. I ended up publishing an Android app on <a href="https://play.google.com/store/apps/details?id=com.androidistan.urdufontcomparator" target="_blank">Google Play</a> and also wrote <a href="http://wahibhaq.com/blog/introducing-urdu-font-comparator-app/" target="_blank">post</a> about the project.
 
