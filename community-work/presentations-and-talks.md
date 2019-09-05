@@ -3,6 +3,19 @@ layout: page
 title: Presentations and Talks
 ---
 
+### Navigation Architecture Component | Jetpack
+
+*Date: 04.09.2019, Event: [GDG Munich Android Meetup](https://www.meetup.com/GDG-Munich-Android/events/264156274/)*
+
+This talk was basically an intro of core features, main building blocks, some advance use-cases, and my overall impression of "Navigation". Hopefully, it was motivating enough for the audience to give it a try and get a good kick-start already :)
+
+
+#### Slides
+
+<script async class="speakerdeck-embed" data-id="a5fd62847e0a45dd8772fa5f0cd818c3" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+---
+
 ### Battery Optimization Restrictions meets Notifications
 
 *Date: 07.05.2019, Event: [Google I/O Extended Meetup](https://www.meetup.com/GDG-Munich-Android/events/260535959/)*
