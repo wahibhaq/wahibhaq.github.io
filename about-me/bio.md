@@ -5,7 +5,7 @@ subtitle: "Or: why you'd like to hangout with me"
 css: "/css/aboutme.css"
 ---
 
-*tl;dr: 🇵🇰 expat in 🇩🇪. Currently, working as Senior Android Developer at [PAYBACK](https://payback.net). Co-Organizer of <a href="https://www.meetup.com/Dev-Rel-Munich/" target="_blank">@DevRelMunich</a>. Founder of [AndroidDevChat for Pakistanis](https://slofile.com/slack/androiddevs-pakistan) slack community. Got a thing for Product, Engineering, Developer Marketing & Sarcasm. Lazy Storyteller.*
+*tl;dr: 🇵🇰 expat in 🇩🇪. Currently, working as Senior Developer Advocate at [Huawei]https://www.huawei.com/en/). Co-Organizer of <a href="https://www.meetup.com/Dev-Rel-Munich/" target="_blank">@DevRelMunich</a>. Founder of [AndroidDevChat for Pakistanis](https://slofile.com/slack/androiddevs-pakistan) slack community. Got a thing for Product, Engineering, Community & Sarcasm. Lazy Storyteller.*
 
 
 <br>
@@ -14,7 +14,9 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-My name is Wahib, I'm a programmer by choice, product development enthusiast and someone who takes keen interest in more than just the coding side of a mobile app. I am currently working as an <strong>Senior Android Developer</strong> at <a href="https://payback.net" target="_blank">PAYBACK</a> where I turn elixirs of code into always-happy users of <a href="https://play.google.com/store/apps/details?id=de.payback.client.android&hl=en" target="_blank">PAYBACK app</a>. Prior to this, I have worked at <a href="https://ki-labs.com" target="_blank">KI labs</a>, <a href="https://freeletics.com" target="_blank">Freeletics(~20M users)</a>, <a href="https://www.thinxnet.com/" target="_blank">ThinxNet</a>, <a href="https://techcrunch.com/2015/05/28/apple-metaio/" target="_blank">Metaio (acquired by Apple Inc.)</a> and <a href="https://www.dplit.com/" target="_blank">DPLIT</a>. I first found my passion for <a href="https://developer.android.com/index.html" target="_blank">Android</a> whilst I was at university and have been working with it non-stop since – I find it an amazing platform. I have worked in early age startups, mid-size services company and high-growth product companies which has helped me grow in leadership, teamwork, and knowledge.
+My name is Wahib, I'm a programmer by choice, product development enthusiast and someone who takes keen interest in more than just the coding side of a mobile app. I am currently working as an <strong>Senior Developer Advocate</strong> at <a href="https://developer.huawei.com/consumer/en/" target="_blank">Huawei</a> where I will be involved in establishing developer ecosystem, improving our mobile consumer products and developer experience at the same time and obviously talking a lot with app developers among many other things.
+
+Prior to this, I have worked at <a href="https://payback.net" target="_blank">PAYBACK</a>, <a href="https://ki-labs.com" target="_blank">KI labs</a>, <a href="https://freeletics.com" target="_blank">Freeletics(~20M users)</a>, <a href="https://www.thinxnet.com/" target="_blank">ThinxNet</a>, <a href="https://techcrunch.com/2015/05/28/apple-metaio/" target="_blank">Metaio (acquired by Apple Inc.)</a> and <a href="https://www.dplit.com/" target="_blank">DPLIT</a>. I first found my passion for <a href="https://developer.android.com/index.html" target="_blank">Android</a> whilst I was at university and have been working with it non-stop since – I find it an amazing platform. I have worked in early age startups, mid-size services company and high-growth product companies which has helped me grow in leadership, teamwork, and knowledge.
 </p>
 
 <p class="about-text">
@@ -41,7 +43,7 @@ If you are curious to know more about multifaceted Pakistan <img src="/img/pakis
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon" id="contactme"></span>
-It’s another place I love to connect with like minded people, so feel free to ping me at <strong>wahib.tech@gmail.com</strong>, connect via <a href="https://www.linkedin.com/in/wahibhaq">Linkedin</a> or follow me on <a href="http://twitter.com/wahibhaq">Twitter</a> / <a href="http://instagram.com/not_that_pindi_boy">Instagram</a>. I normally tweet about Android, Expat, All things Pakistani & Life's lemons. I am a kind of lazy storyteller who likes to share about what's going around him. I write what I like, but sometimes not, and any opinions I express are usually my own. 
+It’s another place I love to connect with like minded people, so feel free to ping me at <strong>wahib.tech@gmail.com</strong>, connect via <a href="https://www.linkedin.com/in/wahibhaq">Linkedin</a> or follow me on <a href="http://twitter.com/wahibhaq">Twitter</a> / <a href="http://instagram.com/not_that_pindi_boy">Instagram</a>. I normally tweet about Android, DevRel, Expat, All things Pakistani & Life's lemons. I am a kind of lazy storyteller who likes to share about what's going around him. I write what I like, but sometimes not, and any opinions I express are usually my own. 
 </p>
 
 </div>
