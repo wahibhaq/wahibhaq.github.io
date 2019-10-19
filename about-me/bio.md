@@ -5,7 +5,7 @@ subtitle: "Or: why you'd like to hangout with me"
 css: "/css/aboutme.css"
 ---
 
-*tl;dr: 🇵🇰 expat in 🇩🇪. Currently, working as Senior Developer Advocate at [Huawei]https://www.huawei.com/en/). Co-Organizer of <a href="https://www.meetup.com/Dev-Rel-Munich/" target="_blank">@DevRelMunich</a>. Founder of [AndroidDevChat for Pakistanis](https://slofile.com/slack/androiddevs-pakistan) slack community. Got a thing for Product, Engineering, Community & Sarcasm. Lazy Storyteller.*
+*tl;dr: 🇵🇰 expat in 🇩🇪. Currently, working as Senior Developer Advocate at [Huawei](https://www.huawei.com/en/). Co-Organizer of <a href="https://www.meetup.com/Dev-Rel-Munich/" target="_blank">@DevRelMunich</a>. Founder of [AndroidDevChat for Pakistanis](https://slofile.com/slack/androiddevs-pakistan) slack community. Got a thing for Product, Engineering, Community & Sarcasm. Lazy Storyteller.*
 
 
 <br>
