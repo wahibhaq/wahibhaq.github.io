@@ -5,7 +5,7 @@ title: Presentations and Talks
 
 ### Resume Hacks for the Job Applicants | Interview
 
-*Date: 11.10.2019
+*Date: 11.10.2019*
 
 It was a very candid interview and I tried to explain all the possible ways to improve resume and get the attention of the recruiter. 
 
