@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Choosing a chat platform for public online communities
-subtitle: Alternates of Slack
+subtitle: Alternatives of Slack
 tags: [slack, chat platform, community management, discord, spectrum]  
 share-img: 
 published: true
