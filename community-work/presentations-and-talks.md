@@ -3,6 +3,20 @@ layout: page
 title: Talks, Interviews and Mentoring Sessions
 ---
 
+### Mentorinsg session on Customer Success
+
+*Date: 24.04.2022, Event: Jadu Fellowship Mentoring Sessions 2022*
+
+**Talk Title: Winning Business Customers and the End-Users**
+
+This Talk was part of a Mentoring session done for the 2022 [Jadu Fellowship Program](https://www.linkedin.com/company/jadujobs/) and most of the target audience were New Graduates and Final year undergrad students from Pakistani Universities.
+
+My goal was to talk about some key learnings from my own personal experience as a Customer-facing Manager. I gave them a background on different types of Business Customers and stressed on the importance of caring about the end-user experience and how they can improve the output of their craft by bringing a change in their approach. 
+
+<script async class="speakerdeck-embed" data-id="c0b00cf5d9e74abfa6ae6e8b253caa38" data-ratio="1.77725118483412" src="//speakerdeck.com/assets/embed.js"></script>
+
+---
+
 ### Fireside Chat: Reimagining The Smart Home Experience at IoT Tech Expp Global 2021 
 
 *Date: 15.09.2021, Event: [Iot Tech Expo Global 2021](https://www.iottechexpo.com/global/)*
