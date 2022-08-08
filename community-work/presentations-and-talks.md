@@ -3,7 +3,19 @@ layout: page
 title: Talks, Interviews and Mentoring Sessions
 ---
 
-### Mentorinsg session on Customer Success
+### Podcast Episode recording for "Breaking Changes" Series from Postman
+
+*Date: 27.07.2022
+
+I was excited to know that [Postman's](https://www.postman.com/) Chief Evangelist [Kin Lane](https://www.linkedin.com/in/kinlane/) wanted to record an interview with me for his Podcast series ["Breaking Changes"](https://www.postman.com/events/breaking-changes/). It was an insighutful and fun discussion. We talked about my unusual career journey in the tech world, my thoughts on developers choosing Advocacy and Partner DevRel path, challenges when transitioning to a Managerial role and what drives me towards Community Work and to do what I do. 
+
+**Podcast Publish Date: Coming Soon!!**
+
+![image](https://user-images.githubusercontent.com/273389/183496970-eeb91d01-cd7c-43c5-adef-ca79ae4e8834.png)
+
+---
+
+### Mentoring session on Customer Success
 
 *Date: 24.04.2022, Event: Jadu Fellowship Mentoring Sessions 2022*
 
@@ -12,6 +24,10 @@ title: Talks, Interviews and Mentoring Sessions
 This Talk was part of a Mentoring session done for the 2022 [Jadu Fellowship Program](https://www.linkedin.com/company/jadujobs/) and most of the target audience were New Graduates and Final year undergrad students from Pakistani Universities.
 
 My goal was to talk about some key learnings from my own personal experience as a Customer-facing Manager. I gave them a background on different types of Business Customers and stressed on the importance of caring about the end-user experience and how they can improve the output of their craft by bringing a change in their approach. 
+
+Summarized illustration was was posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6928104800823730176/).
+
+![1651788900988](https://user-images.githubusercontent.com/273389/183496786-5aee8a2a-3ac7-492a-924b-cc79ea049cb3.jpg)
 
 <script async class="speakerdeck-embed" data-id="c0b00cf5d9e74abfa6ae6e8b253caa38" data-ratio="1.77725118483412" src="//speakerdeck.com/assets/embed.js"></script>
 
@@ -185,7 +201,7 @@ I faced several challenges while doing that and decided to solve it using LiveDa
 
 Today, the idea that “every company needs to become a software company” is considered almost a cliché. AI and Automation has solved a lot of our problems but we just can't ignore how it'll change employment forever. McKinsey in their 2017 report projected that up to 800 million workers could be displaced globally and as many as 375 million may need to learn new skills for new occupational categories. This talk was meant to create awareness about this topic, highlight misconceptions and share some recommendations on what we can do on individual level to adapt.
 
-[![](http://img.youtube.com/vi/blIvBBv8DQY/0.jpg)](http://www.youtube.com/watch?v=blIvBBv8DQY "Future of Work in AI Economy")
+![](http://img.youtube.com/vi/blIvBBv8DQY/0.jpg)](http://www.youtube.com/watch?v=blIvBBv8DQY "Future of Work in AI Economy")
 
 
 <script async class="speakerdeck-embed" data-id="f819ae07935a475c82c3f71d578e9e12" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
