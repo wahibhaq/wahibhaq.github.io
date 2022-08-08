@@ -1,8 +1,32 @@
 ---
 layout: page
-title: Presentations and Talks
+title: Talks, Interviews and Mentoring Sessions
 ---
 
+### 
+
+### Fireside Chat: Reimagining The Smart Home Experience at IoT Tech Expp Global 2021 
+
+*Date: 15.09.2021, Event: [Iot Tech Expo Global 2021](https://www.iottechexpo.com/global/)*
+
+IoT Tech Expo Global is a world renowned event in IoT space hosted annually in London. 
+
+This was a recorded Fireside Chat Interview which was broadcasted for audience on-site and online. I tried to discuss the challenges of consumers and limitations faced by Vendors when it comes to offering Simple Onboarding, Smooth Cross-device Interaction, and Adopting Emerging New Interfaces. I also talked about how innovative HarmonyOS Solutions for IoT Scenarios addresses these end-user pain points in Smart Home context. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OtEqejGoxM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Mentorinsg session on Soft Skills 
+
+*Date: 29.03.2021, Event: Jadu Fellowship Mentoring Sessions 2021*
+
+**Talk Title: Importance of Soft Skills and being Visible in the Developer Community**
+
+This Talk was part of a Mentoring session done for the 2021 [Jadu Fellowship Program](https://www.linkedin.com/company/jadujobs/) and most of the target audience was Final year undergrad students from Pakistani Universities.
+
+My goal was to talk about how improving Soft Skills and being active in the Community has benefited me in my career and others I have admired. What opportunities they can explore, how can they start and how it all fits together in giving them an exposure, visibility and building their personal brand and network.
+
+<script async class="speakerdeck-embed" data-id="7d2a43bb506f4d01aedcb527835d2205" data-ratio="1.77725118483412" src="//speakerdeck.com/assets/embed.js"></script>
+---
 
 ### Introducing HMS Core Technology at Huawei's HDC.Together 2020 Conference 
 
