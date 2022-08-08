@@ -7,7 +7,7 @@ title: Talks, Interviews and Mentoring Sessions
 
 *Date: 27.07.2022*
 
-I was excited to know that [Postman's](https://www.postman.com/) Chief Evangelist [Kin Lane](https://www.linkedin.com/in/kinlane/) wanted to record an interview with me for his Podcast series ["Breaking Changes"](https://www.postman.com/events/breaking-changes/). It was an insighutful and fun discussion. We talked about my unusual career journey in the tech world, my thoughts on developers choosing Advocacy and Partner DevRel path, challenges when transitioning to a Managerial role and what drives me towards Community Work and to do what I do. 
+I was excited to know that [Postman's](https://www.postman.com/) Chief Evangelist [Kin Lane](https://www.linkedin.com/in/kinlane/) wanted to record an interview with me for his Podcast series ["Breaking Changes"](https://www.postman.com/events/breaking-changes/). It was an insightful and fun discussion. We talked about my unusual career journey in the tech world, my thoughts on developers choosing Advocacy and Partner DevRel path, challenges when transitioning to a Managerial role and what drives me towards Community Work and to do what I do. 
 
 **Podcast Publish Date: Coming Soon!!**
 
