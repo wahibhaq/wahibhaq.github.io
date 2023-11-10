@@ -3,6 +3,28 @@ layout: page
 title: Talks, Interviews and Mentoring Sessions
 ---
 
+### Community Talk: App Store x Automotive
+
+*Date: 20.09.2023, Event: GDG Munich Android Meetup*
+
+This talk was an opportunity for me to share what I have learned so far about this topic while working on a project at [diconium](https://weare.diconium.com/de/) in my current role. 
+
+"Software Defined Vehicle" is an exciting topic and "App Store" for the end-customers will act as a hub in the Infotainment system. A lot is going on in that space and OEMs are going for different approaches to implement it but generally Android developers are not aware of this space so much. I tried to connect with the Mobile android developers in the audience and motivated them the consider building "Apps for Cars" as another channel and be part of this Ecosystem. This was the main theme of my talk.
+
+I tried to cover following items: 
+
+- Developing Android Apps for Cars 
+- Automotive App Store Landscape
+- Smartphone vs Automotive Ecosystem
+- Key Takeaways
+
+Event Page: [GDG Android September Meetup](https://www.meetup.com/gdg-munich-android/events/295479652/).
+Host: Google Munich Office
+
+![Photo from Wahib](https://github.com/wahibhaq/wahibhaq.github.io/assets/273389/61f131dc-9a57-4bae-9753-63cca8bd4e81)
+
+---
+
 ### Podcast Episode recording for "Breaking Changes" Series from Postman
 
 *Date: 27.07.2022*
