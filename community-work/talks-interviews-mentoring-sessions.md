@@ -9,7 +9,7 @@ title: Talks, Interviews and Mentoring Sessions
 
 This talk was an opportunity for me to share what I have learned so far about this topic while working on a project at [diconium](https://weare.diconium.com/de/) in my current role. 
 
-"Software Defined Vehicle" is an exciting topic and "App Store" for the end-customers will act as a hub in the Infotainment system. A lot is going on in that space and OEMs are going for different approaches to implement it but generally Android developers are not aware of this space so much. I tried to connect with the Mobile android developers in the audience and motivated them the consider building "Apps for Cars" as another channel and be part of this Ecosystem. This was the main theme of my talk.
+"Software Defined Vehicle" is an exciting topic and "App Store" for the end-customers will act as a hub in the Infotainment system. A lot is going on in that space and OEMs are going for different approaches to implement it but Android developers from Mobile Apps domain are not generally aware of this space. I tried to connect with them from the audience, gave them a background and some Industry insights and motivated them to consider building "Apps for Cars" as another channel. This was the main theme of my talk.
 
 I tried to cover following items: 
 
