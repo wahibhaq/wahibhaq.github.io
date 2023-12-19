@@ -15,9 +15,9 @@ In this talk, I shared my career journey of transitioning from a "Senior Develop
 
 Event Page: [DevFest Munich](https://gdg.community.dev/events/details/google-gdg-munich-presents-devfest-munich-2023/)
 
-LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7141435132816547840/ 
+Post: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7141435132816547840/)
 
-Slides: https://speakerdeck.com/wahibhaq/from-developer-to-technical-manager-a-survival-guide
+Slides: [Speakerdeck](https://speakerdeck.com/wahibhaq/from-developer-to-technical-manager-a-survival-guide)
 
 ![DSC02607_E1](https://github.com/wahibhaq/wahibhaq.github.io/assets/273389/56d3481e-86c2-48ed-afc2-62e7a43ee85f)
 <img width="916" alt="Screenshot 2023-12-15 153212" src="https://github.com/wahibhaq/wahibhaq.github.io/assets/273389/aaeb8bea-18c8-4b6e-a72e-2a1502b3be1e">
