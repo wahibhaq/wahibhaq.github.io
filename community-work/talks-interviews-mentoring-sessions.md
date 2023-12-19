@@ -3,6 +3,30 @@ layout: page
 title: Talks, Interviews and Mentoring Sessions
 ---
 
+### DevFest Talk: From Developer to Technical Manager - A Survival Guide
+
+*Date: 03.12.2023, Event: DevFest Munich 2023*
+
+It was a pleasure to speak at the DevFest Munich event this month, organized by Google, Google Developer Groups Munich and Technical University of Munich (Alma Mater). 
+
+Vibrant Developer Ecosystem in Munich has been and will always remain close to my heart, as it has helped me grow my tech career in the last 10 years. Giving back, sharing experiences, interacting with tech folks, and opening doors for others is the least we can do 💛
+
+In this talk, I shared my career journey of transitioning from a "Senior Developer to a Technical Manager role", what surprised me, what preconceived assumptions were busted, key challenges faced and dilemmas developers usually face, and some insights that can help an aspirant prepare better ✌️
+
+Event Page: [DevFest Munich](https://gdg.community.dev/events/details/google-gdg-munich-presents-devfest-munich-2023/)
+
+LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7141435132816547840/ 
+
+Slides: https://speakerdeck.com/wahibhaq/from-developer-to-technical-manager-a-survival-guide
+
+![DSC02607_E1](https://github.com/wahibhaq/wahibhaq.github.io/assets/273389/56d3481e-86c2-48ed-afc2-62e7a43ee85f)
+<img width="916" alt="Screenshot 2023-12-15 153212" src="https://github.com/wahibhaq/wahibhaq.github.io/assets/273389/aaeb8bea-18c8-4b6e-a72e-2a1502b3be1e">
+<img width="919" alt="Screenshot 2023-12-15 153236" src="https://github.com/wahibhaq/wahibhaq.github.io/assets/273389/d5204d8c-1e24-4d61-89e7-a5b2f9b9bf5a">
+![DSC01809_Export](https://github.com/wahibhaq/wahibhaq.github.io/assets/273389/eea42947-c575-43d8-8251-30278933d30d)
+
+
+---
+
 ### Community Talk: App Store x Automotive
 
 *Date: 20.09.2023, Event: GDG Munich Android Meetup*
