@@ -3,6 +3,28 @@ layout: page
 title: Talks, Interviews and Mentoring Sessions
 ---
 
+### Podcast Interview: Jobs, Immigration Opportunities In Germany 
+
+*Date: 15.02.2024, Youtube Channel: [Wali Khan](https://www.youtube.com/@WaliKhan_2k)*
+
+Wali Khan was kind enough to invite me to talk about:
+- Opportunities for expats
+- Job market for Tech professionals
+- Visa situation and challenges with Family Reunion
+- Taxation in Germany
+- Investment opportunities
+- New attractive policies for expats
+- DOs and DONTs for those who are considering moving to #Germany for Studies or Work.
+
+Language: Urdu (Target audience is Pakistanis/Indians around the world)
+
+Watch the complete Podcast episode here: [https://www.youtube.com/watch?v=Gy53meZipoI](https://www.youtube.com/watch?v=Gy53meZipoI&ab_channel=WaliKhan)
+
+![image](https://github.com/wahibhaq/wahibhaq.github.io/assets/273389/cf1fe2dd-592e-4ba9-99bc-3bc5d20b0e18)
+
+---
+
+
 ### DevFest Talk: From Developer to Technical Manager - A Survival Guide
 
 *Date: 03.12.2023, Event: DevFest Munich 2023*
